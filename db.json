@@ -1,333 +1,6 @@
 {
     
-    "product": [
-        {
-            "id": 502,
-            "image": "https://static.zara.net/photos///2022/V/0/1/p/3465/270/250/12/w/314/3465270250_2_1_1.jpg?ts=1651841659071",
-            "name": "LINEN TOP",
-            "price": "2990",
-            "color":"BEIGE"
-          },
-          {
-            "id": 511,
-            "image": "https://static.zara.net/photos///2022/V/0/1/p/3739/855/330/2/w/314/3739855330_1_1_1.jpg?ts=1651827734448",
-            "name": "PANELLED PRINTED DRESS",
-            "color":"BEIGE",
-            "price": "3990"
-          },
-          {
-            "image": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/371/1063035711_2_1_1.jpg?ts=1648724945307",
-            "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
-            "name": "STRIPED SHIRT",
-            "price": "2990.00",
-            "color":"BEIGE",
-            "id": 801,
-            "cat": "men"
-          },
-          {
-            "id": 501,
-            "image": "https://static.zara.net/photos///2022/V/0/1/p/9878/117/070/12/w/314/9878117070_2_1_1.jpg?ts=1651841713202",
-            "name": "PRINTED BLOUSE WITH BOW",
-            "color":"BLACK",
-            "price": "2890"
-          },
-          {
-            "image": "https://static.zara.net/photos///2022/V/0/2/p/4310/859/420/2/w/312/4310859420_2_4_1.jpg?ts=1648116157310",
-            "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
-            "name": "STRIPED SHIRT",
-            "price": "2990.00",
-            "id": "802",
-            "cat": "men"
-          },
-          {
-            "id": 503,
-            "image": "https://static.zara.net/photos///2022/V/0/1/p/7969/046/251/2/w/314/7969046251_1_1_1.jpg?ts=1644423513750",
-            "color":"BLACK",
-            "name": "SATIN SHIRT",
-            "price": "1990"
-          },
-      {
-        "id": 101,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/1466/457/250/2/w/270/1466457250_2_1_1.jpg?ts=1649346739837",
-        "name": "PRINTED DENIM JACKET",
-        "color":"BLACK",
-        "price": "6590.00"
-      },
-      {
-        "id": 102,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/1466/456/406/2/w/270/1466456406_2_6_1.jpg?ts=1649764276875",
-        "name": "DENIM JACKET WITH CONTRAST EMBROIDERY",
-        "color":"BLACK",
-        "price": "6590.00"
-      },
-      {
-        "id": 103,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/0962/454/251/2/w/270/0962454251_2_1_1.jpg?ts=1649346724796",
-        "name": "SKULL PRINT T-SHIRT",
-        "color":"BLACK",
-        "price": "1990.00"
-      },
-      {
-        "id": 104,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/0962/454/800/2/w/270/0962454800_2_1_1.jpg?ts=1649346725616",
-        "name": "SKULL PRINT T-SHIRT",
-        "color":"BLUE",
-        "price": "1990.00"
-      },
-      {
-        "id": 105,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/1259/402/064/2/w/270/1259402064_1_1_1.jpg?ts=1649346728168",
-        "name": "STRIPED MICKEY MOUSE © DISNEY T-SHIRT",
-        "price": "1990.00"
-      },
-      {
-        "id": 106,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/1259/402/018/2/w/270/1259402018_1_1_1.jpg?ts=1649346744035",
-        "name": "STRIPED MICKEY MOUSE © DISNEY T-SHIRT",
-        "price": "1990.00"
-      },
-      {
-        "id": 107,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/6224/449/251/2/w/270/6224449251_2_5_1.jpg?ts=1649411505195",
-        "name": "SPRAY PRINT T-SHIRT",
-        "color":"BLUE",
-        "price": "1990.00"
-      },
-      {
-        "id": 108,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/6224/449/251/2/w/270/6224449251_1_1_1.jpg?ts=1649411495102",
-        "name": "SPRAY PRINT T-SHIRT",
-        "color":"BLUE",
-        "price": "1990.00"
-      },
-      {
-        "id": 109,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/8416/400/427/2/w/270/8416400427_1_1_1.jpg?ts=1649411505725",
-        "name": "PRINTED OVERSHIRT",
-        "color":"BLUE",
-        "price": "4990.00"
-      },
-      {
-        "id": 110,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/1187/475/406/2/w/270/1187475406_1_1_1.jpg?ts=1649764274571",
-        "name": "SOFT DENIM BERMUDA SHORTS",
-        "price": "2590.00"
-      },
-      {
-        "id": 111,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/1538/488/401/2/w/270/1538488401_2_4_1.jpg?ts=1649346743846",
-        "name": "DENIM JUMPSUIT",
-        "color":"BLUE",
-        "price": "5990.00"
-      },
-      {
-        "id": 112,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/0840/436/406/2/w/270/0840436406_1_1_1.jpg?ts=1649152316451",
-        "name": "RIPPED DENIM BERMUDA SHORTS WITH PAINT SPLATTER",
-        "color":"BLUE",
-        "price": "2990.00"
-      },
-      {
-        "id": 113,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/3991/405/401/2/w/270/3991405401_1_1_1.jpg?ts=1649836931057",
-        "name": "PAISLEY JACQUARD KNIT OVERSHIRT",
-        "color":"BLUE",
-        "price": "4990.00"
-      },
-      {
-        "id": 114,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/4087/486/520/2/w/270/4087486520_2_1_1.jpg?ts=1648630686199",
-        "name": "PREMIUM HOODIE",
-        "color":"BLUE",
-        "price": "2990.00"
-      },
-      {
-        "id": 115,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/1165/406/250/2/w/270/1165406250_2_1_1.jpg?ts=1648800286352",
-        "name": "DISNEY PRINT T-SHIRT",
-        "color":"BLUE",
-        "price": "1990.00"
-      },
-      {
-        "id": 116,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/1165/405/301/2/w/270/1165405301_2_1_1.jpg?ts=1648719801891",
-        "name": "GARFIELD NICKELODEON T-SHIRT",
-        "color":"GREY",
-        "price": "1990.00"
-      },
-      {
-        "id": 117,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/3057/663/712/2/w/270/3057663712_1_1_1.jpg?ts=1649326313292",
-        "name": "JACQUARD SHIRT",
-        "color":"GREY",
-        "price": "2990.00"
-      },
-      {
-        "id": 118,
-        "image": "https://static.zara.net/photos///2022/V/0/1/p/0706/416/330/3/w/270/0706416330_2_1_1.jpg?ts=1650299126582",
-        "name": "GEOMETRIC JACQUARD SHIRT",
-        "color":"GREY",
-        "price": "6990.00"
-      },
-      {
-        "id": 119,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/7545/273/080/2/w/270/7545273080_2_5_1.jpg?ts=1649348297401",
-        "name": "STRIPED TEXTURED SHIRT",
-        "color":"GREY",
-        "price": "2990.00"
-      },
-      {
-        "id": 120,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/2675/415/052/2/w/270/2675415052_1_1_1.jpg?ts=1649318045638",
-        "name": "STRIPED TEXTURED SHIRT",
-        "color":"GREY",
-        "price": "2990.00"
-      },
-      {
-        "id": 121,
-        "image": "https://static.zara.net/photos///2022/V/0/1/p/4323/062/300/2/w/270/4323062300_2_1_1.jpg?ts=1650297898007",
-        "name": "STRIPED OVERSHIRT",
-        "color":"GREY",
-        "price": "5990.00"
-      },
-      {
-        "id": 122,
-        "image": "https://static.zara.net/photos///2022/V/0/1/p/4516/854/712/2/w/270/4516854712_1_1_1.jpg?ts=1650297714687",
-        "name": "SHIRT WITH GEOMETRIC TEXTURED WEAVE",
-        "color":"GREY",
-        "price": "5990.00"
-      },
-      {
-        "id": 123,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/1300/308/526/2/w/270/1300308526_2_4_1.jpg?ts=1649318047934",
-        "name": "TEXTURED BERMUDA SHORTS",
-        "color":"GREY",
-        "price": "2990.00"
-      },
-      {
-        "id": 124,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/1300/308/526/2/w/270/1300308526_1_1_1.jpg?ts=1649318047208",
-        "name": "TEXTURED BERMUDA SHORTS",
-        "color":"GREY",
-        "price": "2990.00"
-      },
-      {
-        "id": 125,
-        "image": "https://static.zara.net/photos///2022/V/0/1/p/1564/410/800/2/w/270/1564410800_1_1_1.jpg?ts=1640691938615",
-        "name": "SLIM FIT SUIT BLAZER",
-        "price": "5990.00"
-      },
-      {
-        "id": 126,
-        "image": "https://static.zara.net/photos///2022/V/0/1/p/1564/411/800/2/w/270/1564411800_2_4_1.jpg?ts=1640692475209",
-        "name": "SLIM FIT TAILORED SUIT TROUSERS",
-        "price": "2990.00"
-      },
-      {
-        "id": 127,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/4259/884/403/2/w/270/4259884403_1_1_1.jpg?ts=1648544084556",
-        "name": "TEXTURED SUIT BLAZER",
-        "color":"GREY",
-        "price": "8990.00"
-      },
-      {
-        "id": 128,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/4259/884/403/2/w/270/4259884403_1_1_1.jpg?ts=1648544084556",
-        "name": "TEXTURED SUIT BLAZER",
-        "color":"GREEN",
-        "price": "8990.00"
-      },
-      {
-        "id": 129,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/0029/404/401/2/w/270/0029404401_2_1_1.jpg?ts=1643300545623",
-        "name": "PUFFER GILET",
-        "color":"GREEN",
-        "price": "2990.00"
-      },
-      {
-        "id": 130,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/0029/404/710/2/w/270/0029404710_2_3_1.jpg?ts=1643300547219",
-        "name": "PUFFER GILET",
-        "color":"GREEN",
-        "price": "2990.00"
-      },
-      {
-        "id": 131,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/0029/404/800/2/w/270/0029404800_2_4_1.jpg?ts=1643300573139",
-        "name": "PUFFER GILET",
-        "color":"GREEN",
-        "price": "2990.00"
-      },
-      {
-        "id": 132,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/4391/403/505/2/w/270/4391403505_2_1_1.jpg?ts=1644568541332",
-        "name": "RIPSTOP PUFFER GILET",
-        "color":"GREEN",
-        "price": "2990.00"
-      },
-      {
-        "id": 133,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/0458/311/401/2/w/270/0458311401_2_1_1.jpg?ts=1646234909999",
-        "name": "RIBBED KNIT VEST",
-        "color":"GREEN",
-        "price": "2990.00"
-      },
-      {
-        "id": 134,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/3427/421/250/2/w/270/3427421250_2_1_1.jpg?ts=1645030474114",
-        "name": "FAUX LEATHER PRINTED VEST WITH PATCHES",
-        "color":"GREEN",
-        "price": "5990.00"
-      },
-      {
-        "id": 135,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/2795/400/505/2/w/270/2795400505_1_1_1.jpg?ts=1647532812822",
-        "name": "PUFFER GILET WITH ZIP DETAIL",
-        "color":"GREEN",
-        "price": "2890.00"
-      },
-      {
-        "id": 136,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/1608/406/800/2/w/270/1608406800_2_1_1.jpg?ts=1649152285388",
-        "name": "TEXTURED WAISTCOAT",
-        "color":"GREEN",
-        "price": "2890.00"
-      },
-      {
-        "id": 137,
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/1608/406/800/2/w/270/1608406800_2_1_1.jpg?ts=1649152285388",
-        "name": "TEXTURED WAISTCOAT",
-        "color":"GREEN",
-        "price": "2890.00"
-      },
-      {
-        "id": 138,
-        "image": "https://static.zara.net/photos///2022/V/0/1/p/5372/425/067/3/w/270/5372425067_1_1_1.jpg?ts=1645789187209",
-        "name": "CONTRAST CHECK JACKET",
-        "color":"GREEN",
-        "price": "2890.00"
-      },
-      {
-        "id": 139,
-        "image": "https://static.zara.net/photos///2022/V/0/1/p/5372/424/067/2/w/270/5372424067_2_4_1.jpg?ts=1645789250128",
-        "name": "JOGGER TROUSERS WITH CONTRAST SIDE TAPING",
-        "color":"GREEN",
-        "price": "2990.00"
-      },
-      {
-        "id": 140,
-        "image": "https://static.zara.net/photos///2022/V/0/1/p/0679/405/251/22/w/270/0679405251_15_1_1.jpg?ts=1643213899217",
-        "name": "MARCO OGGIAN GRAPHIC TROUSERS",
-        "color":"GREEN",
-        "price": "2990.00"
-      },
-      {
-        "id": 141,
-        "image": "https://static.zara.net/photos///2022/V/0/1/p/0679/402/251/26/w/270/0679402251_1_1_1.jpg?ts=1642425487275",
-        "name": "MARCO OGGIAN GRAPHIC TROUSERS",
-        "price": "2990.00"
-      }
-    ],
+   
     "Linen_data": [
       {
         "image": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/750/1063035711_1_1_1.jpg?ts=1648724945973",
@@ -484,6 +157,7 @@
           "product-link href": "https://www.zara.com/in/en/wrap-style-trousers-p04886004.html",
           "image": "https://static.zara.net/photos///2023/V/0/1/p/4886/004/800/22/w/458/4886004800_1_1_1.jpg?ts=1679413831665",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+          "product-grid-product-info-colors__text": 6,
           "product-link": "WRAP-STYLE TROUSERS",
           "money-amount__main": "₹ 3,290.00"
         },
@@ -491,6 +165,7 @@
           "product-link href": "https://www.zara.com/in/en/wrap-style-trousers-p04886004.html",
           "image": "https://static.zara.net/photos///2023/V/0/1/p/4886/004/800/2/w/458/4886004800_2_5_1.jpg?ts=1679323851157",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+          "product-grid-product-info-colors__text": 6,
           "product-link": "WRAP-STYLE TROUSERS",
           "money-amount__main": "₹ 3,290.00"
         },
@@ -498,6 +173,7 @@
           "product-link href": "https://www.zara.com/in/en/pleated-midi-dress-p01165079.html",
           "image": "https://static.zara.net/photos///2023/V/0/1/p/1165/079/800/2/w/458/1165079800_2_1_1.jpg?ts=1679323787754",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+          "product-grid-product-info-colors__text": 6,
           "product-link": "PLEATED MIDI DRESS",
           "money-amount__main": "₹ 3,290.00"
         },
@@ -506,6 +182,7 @@
           "image": "https://static.zara.net/photos///2023/V/0/1/p/0264/091/620/2/w/458/0264091620_2_4_1.jpg?ts=1679323776165",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "BANDEAU TOP",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 2,290.00"
         },
         {
@@ -513,6 +190,7 @@
           "image": "https://static.zara.net/photos///2023/V/0/1/p/2718/965/620/2/w/458/2718965620_1_1_1.jpg?ts=1676304261080",
           "image2": "",
           "product-link": "SATIN MIDI SKIRT",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 2,990.00"
         },
         {
@@ -520,6 +198,7 @@
           "image": "https://static.zara.net/photos///2023/V/0/1/p/2710/965/620/2/w/458/2710965620_6_20_1.jpg?ts=1676302028762",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "SATIN CAMISOLE TOP",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 2,890.00"
         },
         {
@@ -527,6 +206,7 @@
           "image": "https://static.zara.net/photos///2023/V/0/1/p/2487/707/942/2/w/458/2487707942_2_3_1.jpg?ts=1676371087273",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "SHORT FULL DRESS",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 5,990.00"
         },
         {
@@ -534,6 +214,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "OVERSIZE DOUBLE-BREASTED BLAZER - LIMITED EDITION",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 9,590.00"
         },
         {
@@ -541,6 +222,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "",
           "product-link": "LONG FLOWING TROUSERS",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 2,990.00"
         },
         {
@@ -548,6 +230,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "TUXEDO COLLAR BLAZER WITH BELT",
+          "product-grid-product-info-colors__text": 5,
           "money-amount__main": "₹ 8,590.00"
         },
         {
@@ -555,6 +238,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "TUXEDO COLLAR BLAZER WITH BELT",
+          "product-grid-product-info-colors__text": 5,
           "money-amount__main": "₹ 8,590.00"
         },
         {
@@ -562,6 +246,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "HIGH-HEEL FABRIC SLINGBACK SHOES",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 3,290.00"
         },
         {
@@ -709,6 +394,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "DRAPED BODYSUIT",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 1,890.00"
         },
         {
@@ -716,6 +402,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "ASYMMETRIC BODYSUIT WITH EMBELLISHMENT",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 2,290.00"
         },
         {
@@ -723,6 +410,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "",
           "product-link": "CROSSOVER BODYSUIT WITH RING",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 2,290.00"
         },
         {
@@ -730,6 +418,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "ASYMMETRIC TOP WITH GATHERING",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 1,990.00"
         },
         {
@@ -737,6 +426,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "CROSSOVER BODYSUIT WITH RING",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 2,290.00"
         },
         {
@@ -744,6 +434,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "SHORT FULL DRESS",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 5,990.00"
         },
         {
@@ -751,6 +442,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "SUEDE HIGH-HEEL MULES",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 7,990.00"
         },
         {
@@ -765,6 +457,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "MIDI SKIRT WITH GOLDEN BUTTONS",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 2,890.00"
         },
         {
@@ -772,6 +465,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "JACQUARD SURPLICE DRESS WITH FRINGING",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 4,990.00"
         },
         {
@@ -779,6 +473,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "SEMI-SHEER BLOUSE WITH TIE",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 2,890.00"
         },
         {
@@ -786,6 +481,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "SEQUINNED MIDI DRESS",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 7,590.00"
         },
         {
@@ -793,6 +489,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "SEQUIN TROUSERS - LIMITED EDITION",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 5,990.00"
         },
         {
@@ -800,6 +497,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "SEAMED BUSTIER TOP",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 2,990.00"
         },
         {
@@ -891,6 +589,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "HIGH-HEEL SLINGBACK SHOES",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 4,990.00"
         },
         {
@@ -898,6 +597,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "ASYMMETRIC BLOUSE WITH FRINGING",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 2,990.00"
         },
         {
@@ -905,6 +605,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "RIBBED BODYSUIT WITH ORGANZA RUFFLES",
+          "product-grid-product-info-colors__text": 6,
           "money-amount__main": "₹ 2,290.00"
         },
         {
@@ -919,6 +620,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "SATIN SHIRT",
+          "product-grid-product-info-colors__text": 3,
           "money-amount__main": "₹ 1,990.00"
         },
         {
@@ -926,6 +628,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "",
           "product-link": "SATIN TUNIC DRESS",
+          "product-grid-product-info-colors__text": 3,
           "money-amount__main": "₹ 7,590.00"
         },
         {
@@ -933,6 +636,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "STRAIGHT FIT MINIMALIST TROUSERS",
+          "product-grid-product-info-colors__text": 3,
           "money-amount__main": "₹ 5,990.00"
         },
         {
@@ -940,12 +644,14 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "",
           "product-link": "CONTRAST HIGH HEEL SHOES",
+          "product-grid-product-info-colors__text": 3,
           "money-amount__main": "₹ 3,290.00"
         },
         {
           "product-link href": "https://www.zara.com/in/en/tailored-blazer-p02956624.html",
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+          "product-grid-product-info-colors__text": 3,
           "product-link": "TAILORED BLAZER",
           "money-amount__main": "₹ 5,990.00"
         },
@@ -989,6 +695,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "SLIP DRESS WITH ELASTICASTED STRAPS",
+          "product-grid-product-info-colors__text": 3,
           "money-amount__main": "₹ 2,990.00"
         },
         {
@@ -996,6 +703,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "DRESS WITH ASYMMETRIC HEM",
+          "product-grid-product-info-colors__text": 3,
           "money-amount__main": "₹ 3,990.00"
         },
         {
@@ -1003,6 +711,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "CLUTCH BAG WITH STUDS",
+          "product-grid-product-info-colors__text": 3,
           "money-amount__main": "₹ 1,990.00"
         },
         {
@@ -1010,6 +719,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "PEARL HOOP EARRINGS",
+          "product-grid-product-info-colors__text": 3,
           "money-amount__main": "₹ 1,590.00"
         },
         {
@@ -1017,6 +727,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "FLOWING JACQUARD BLAZER",
+          "product-grid-product-info-colors__text": 3,
           "money-amount__main": "₹ 4,990.00"
         },
         {
@@ -1052,6 +763,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "FAUX PEARL RHINESTONE NECKLACE",
+          "product-grid-product-info-colors__text": 2,
           "money-amount__main": "₹ 2,590.00"
         },
         {
@@ -1059,6 +771,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "",
           "product-link": "MIDI DRESS WITH GATHERING",
+          "product-grid-product-info-colors__text": 2,
           "money-amount__main": "₹ 2,990.00"
         },
         {
@@ -1066,6 +779,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "MIDI DRESS WITH GATHERING",
+          "product-grid-product-info-colors__text": 2,
           "money-amount__main": "₹ 2,990.00"
         },
         {
@@ -1073,6 +787,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "",
           "product-link": "STRAPPY HIGH-HEEL LEATHER SANDALS",
+          "product-grid-product-info-colors__text": 1,
           "money-amount__main": "₹ 5,990.00"
         },
         {
@@ -1080,6 +795,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "RIBBED BODYSUIT WITH ORGANZA RUFFLES",
+          "product-grid-product-info-colors__text": 1,
           "money-amount__main": "₹ 2,290.00"
         },
         {
@@ -1087,6 +803,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "FLOWING JACQUARD BLAZER",
+          "product-grid-product-info-colors__text": 1,
           "money-amount__main": "₹ 4,990.00"
         },
         {
@@ -1094,6 +811,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "MAXI CASCADE NECKLACE WITH FAUX PEARLS",
+          "product-grid-product-info-colors__text": 1,
           "money-amount__main": "₹ 5,990.00"
         },
         {
@@ -1101,6 +819,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "CASCADE EAR CUFF WITH FAUX PEARLS",
+          "product-grid-product-info-colors__text": 1,
           "money-amount__main": "₹ 1,590.00"
         },
         {
@@ -1108,6 +827,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "MAXI CASCADE NECKLACE WITH FAUX PEARLS",
+          "product-grid-product-info-colors__text": null,
           "money-amount__main": "₹ 5,990.00"
         },
         {
@@ -1115,12 +835,14 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "MAXI CASCADE NECKLACE WITH FAUX PEARLS",
+          "product-grid-product-info-colors__text": null,
           "money-amount__main": "₹ 5,990.00"
         },
         {
           "product-link href": "https://www.zara.com/in/en/knit-dress-with-contrast-detail-p02142019.html",
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "",
+          "product-grid-product-info-colors__text": null,
           "product-link": "KNIT DRESS WITH CONTRAST DETAIL",
           "money-amount__main": "₹ 5,990.00"
         },
@@ -1129,6 +851,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "PRINTED JACKET WITH FRINGING",
+          "product-grid-product-info-colors__text": null,
           "money-amount__main": "₹ 4,990.00"
         },
         {
@@ -1136,6 +859,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "SATIN DRESS WITH CUT-OUT DETAIL",
+          "product-grid-product-info-colors__text": null,
           "money-amount__main": "₹ 2,990.00"
         },
         {
@@ -1143,6 +867,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "CAMISOLE DRESS WITH BUTTONS",
+          "product-grid-product-info-colors__text": null,
           "money-amount__main": "₹ 2,890.00"
         },
         {
@@ -1150,6 +875,7 @@
           "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
           "product-link": "SLIP DRESS WITH ELASTICASTED STRAPS",
+          "product-grid-product-info-colors__text": null,
           "money-amount__main": "₹ 2,990.00"
         },
         {
@@ -1157,6 +883,7 @@
           "image": "",
           "image2": "",
           "product-link": "PRINTED JACKET WITH FRINGING",
+          "product-grid-product-info-colors__text": null,
           "money-amount__main": "₹ 4,990.00"
         }
        ],
