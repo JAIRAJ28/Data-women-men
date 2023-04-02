@@ -153,542 +153,543 @@
     }
   ],
   "ALL":
-
   [
-      {
-        "id":1,
-      "productlink href": "https://www.zara.com/in/en/wrap-style-trousers-p04886004.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/4886/004/800/22/w/458/4886004800_1_1_1.jpg?ts=1679413831665",
-      "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
-      "color": 6,
-      "name": "WRAP-STYLE TROUSERS",
-
-      "price":  3290.00
-      },
-      {
-        "id":2,
-      "productlink href": "https://www.zara.com/in/en/wrap-style-trousers-p04886004.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/4886/004/800/2/w/458/4886004800_2_5_1.jpg?ts=1679323851157",
-      "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
-      "color": 6,
-      "name": "WRAP-STYLE TROUSERS",
-      "price":  3290.00
-      },
-      {
-        "id":3,
-      "productlink href": "https://www.zara.com/in/en/pleated-midi-dress-p01165079.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/1165/079/800/2/w/458/1165079800_2_1_1.jpg?ts=1679323787754",
-      "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
-      "color": 6,
-      "name": "PLEATED MIDI DRESS",
- 
-      "price":  3290.00
-      },
-      {
-        "id":4,
-      "productlink href": "https://www.zara.com/in/en/bandeau-top-p00264091.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/0264/091/620/2/w/458/0264091620_2_4_1.jpg?ts=1679323776165",
-      "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
-      "name": "BANDEAU TOP",
-
-      "color":6,
-      "price":  2290.00
-      },
-      {
-        "id":5,
-      "productlink href": "https://www.zara.com/in/en/satin-midi-skirt-p02718965.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/2718/965/620/2/w/458/2718965620_1_1_1.jpg?ts=1676304261080",
-      "image2": "",
-      "name": "SATIN MIDI SKIRT",
-
-      "color":6,
-      "price":  2990.00
-      },
-      {
-        "id":6,
-      "productlink href": "https://www.zara.com/in/en/satin-camisole-top-p02710965.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/2710/965/620/2/w/458/2710965620_6_20_1.jpg?ts=1676302028762",
-      "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
-      "name": "SATIN CAMISOLE TOP",
-      "color": 6,
-
-      "price":  2890.00
-      },
-      {
-        "id":7,
-      "productlink href": "https://www.zara.com/in/en/short-full-dress-p02487707.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/2487/707/942/2/w/458/2487707942_2_3_1.jpg?ts=1676371087273",
-      "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
-      "name": "SHORT FULL DRESS",
-    
-      "color":1,
-      "price":  5990.00
-      },
-      {
-        "id":8,
-      "productlink href": "https://www.zara.com/in/en/oversize-double-breasted-blazer---limited-edition-p02249457.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/750/2298115400_2_3_1.jpg?ts=1680103887784",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/750/2298115400_6_1_1.jpg?ts=1679399771292",
-      "name": "OVERSIZE DOUBLE-BREASTED BLAZER - LIMITED EDITION",
-
-      "color":6,
-      "price":  9590.00
-      },
-      {
-        "id":13,
-      "productlink href": "https://www.zara.com/in/en/long-flowing-trousers-p02216483.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/3666/105/172/2/w/622/3666105172_2_1_1.jpg?ts=1679915847947",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3006/351/679/2/w/305/3006351679_2_6_1.jpg?ts=1680173555016",
-      "name": "LONG FLOWING TROUSERS",
-   
-      "color":1,
-      "price":  2990.00
-      },
-      {
-        "id":9,
-      "productlink href": "https://www.zara.com/in/en/tuxedo-collar-blazer-with-belt-p02225483.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/5216/061/080/2/w/750/5216061080_1_1_1.jpg?ts=1679561438661",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/5216/061/080/2/w/750/5216061080_2_1_1.jpg?ts=1679561440838",
-      "name": "TUXEDO COLLAR BLAZER WITH BELT",
-      "color": 5,
-      "price":  8590.00
-      },
-      {
-        "id":10,
-      "productlink href": "https://www.zara.com/in/en/tuxedo-collar-blazer-with-belt-p02225483.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/2676/530/505/12/w/750/2676530505_1_1_1.jpg?ts=1680088576966",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2676/530/505/12/w/750/2676530505_2_2_1.jpg?ts=1680088576844",
-      "name": "TUXEDO COLLAR BLAZER WITH BELT",
-      
-      "color":6,
-      "price":  8590.00
-      },
-      {
-        "id":11,
-      "productlink href": "https://www.zara.com/in/en/high-heel-fabric-slingback-shoes-p12276110.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/2676/530/505/2/w/750/2676530505_6_2_1.jpg?ts=1677071587242",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2676/530/505/2/w/750/2676530505_6_3_1.jpg?ts=1677071590557",
-      "name": "HIGH-HEEL FABRIC SLINGBACK SHOES",
-  
-      "color":3,
-      "price":  3290.00
-      },
-      {
-        "id":15,
-      "productlink href": "https://www.zara.com/in/en/pleated-midi-dress-p07969053.html",
-      "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
-      "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
-      "name": "PLEATED MIDI DRESS",
-      "price":  4990.00
-      },
-      {
-        "id":14,
-      "productlink href": "https://www.zara.com/in/en/chiffon-cape-p08741005.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_1_1_1.jpg?ts=1680085342124",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_2_2_1.jpg?ts=1680085341313",
-      "name": "CHIFFON CAPE",
-      "color":6,
-      "price":  2990.00
-      },
-      {
-        "id":16,
-      "productlink href": "https://www.zara.com/in/en/pleated-top-p09878105.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_2_4_1.jpg?ts=1680085344924",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_2_5_1.jpg?ts=1680085344245",
-      "name": "PLEATED TOP",
-      "color":3,
-      "price":  2890.00
-      },
-      {
-        "id":17,
-      "productlink href": "https://www.zara.com/in/en/cropped-trousers-p02719695.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_6_1_1.jpg?ts=1680085004044",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_6_3_1.jpg?ts=1680085083605",
-      "name": "CROPPED TROUSERS",
-      "color":6,
-      "price":  2990.00
-      },
-      {
-        "id":18,
-      "productlink href": "https://www.zara.com/in/en/double-breasted-oversized-blazer-p02421888.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/2142/066/800/17/w/750/2142066800_1_1_1.jpg?ts=1680094671316",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2142/066/800/17/w/2400/2142066800_2_1_1.jpg?ts=1680094671924",
-      "name": "DOUBLE-BREASTED OVERSIZED BLAZER",
-      "color":4,
-      "price":  6990.00
-      },
-      {
-        "id":19,
-      "productlink href": "https://www.zara.com/in/en/midi-dress-with-front-knot-p02866880.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/4786/049/501/17/w/750/4786049501_1_1_1.jpg?ts=1680013730230",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/4786/049/501/2/w/750/4786049501_6_1_1.jpg?ts=1679413018458",
-      "name": "MIDI DRESS WITH FRONT KNOT",
-      "color":6,
-      "price":  4990.00
-      },
-      {
-        "id":20,
-      "productlink href": "https://www.zara.com/in/en/short-tailored-waistcoat-p02966888.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/2966/888/942/2/w/458/2966888942_6_1_1.jpg?ts=1678878246521",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2221/948/713/17/w/750/2221948713_1_1_1.jpg?ts=1680012547168",
-      "name": "SHORT TAILORED WAISTCOAT",
-      "color":4,
-      "price":  2890.00
-      },
-      {
-        "id":123,
-      "productlink href": "https://www.zara.com/in/en/cascading-floral-necklace-p04736072.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/2221/948/713/17/w/750/2221948713_1_1_1.jpg?ts=1680012547168",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2221/948/713/2/w/750/2221948713_6_1_1.jpg?ts=1678206779292",
-      "name": "CASCADING FLORAL NECKLACE",
-      "color":3,
-      "price":  2890.00
-      },
-      {
-        "id":12323,
-      "productlink href": "https://www.zara.com/in/en/midi-dress-p04424314.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/4043/066/622/2/w/750/4043066622_1_1_1.jpg?ts=1679486550060",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/4043/066/622/2/w/750/4043066622_2_1_1.jpg?ts=1679486549684",
-      "name": "MIDI DRESS",
-      "color":4,
-      "price":  2590.00
-      },
-      {
-        "id":12443,
-      "productlink href": "https://www.zara.com/in/en/midi-dress-p04424314.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/4043/066/622/2/w/750/4043066622_2_2_1.jpg?ts=1679486550027",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/4043/066/622/2/w/750/4043066622_2_3_1.jpg?ts=1679486549632",
-      "name": "MIDI DRESS",
-      "color":6,
-      "price":  2590.00
-      },
-      {
-        "id":111,
-      "productlink href": "https://www.zara.com/in/en/dress-with-seams-and-gathering-p04661321.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_1_1_1.jpg?ts=1680076914632",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_2_1_1.jpg?ts=1680076937265",
-      "name": "DRESS WITH SEAMS AND GATHERING",
-      "color":4,
-      "price":  2990.00
-      },
-      
-      { "id":17954,
-      "productlink href": "https://www.zara.com/in/en/high-heel-fabric-slingback-shoes-p12276110.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/3067/059/044/2/w/457/3067059044_2_1_1.jpg?ts=1679652485306",
-      "image2": "https://static.zara.net/photos///contents/mkt/spots/ss23-north-woman-new/subhome-xmedia-12-in//w/1920/IMAGE-landscape-fill-4bc11d3a-feda-419c-812a-6159e14882df-default_0.jpg?ts=1679585904255",
-      "name": "HIGH-HEEL FABRIC SLINGBACK SHOES",
-      "price":  3290.00
-      },
-      { "id":156874,
-      "productlink href": "https://www.zara.com/in/en/satin-shirt-p08741256.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/1889/033/427/17/w/305/1889033427_1_1_1.jpg?ts=1680172813592",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/1889/033/427/17/w/750/1889033427_2_3_1.jpg?ts=1680180064730",
-      "name": "SATIN SHIRT",
-      "color": 3,
-    
-      "price":  1990.00
-      },
-      { "id":15754,
-      "productlink href": "https://static.zara.net/photos///2023/V/0/1/p/3080/183/330/2/w/750/3080183330_1_1_1.jpg?ts=1679915870522",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/3080/183/330/2/w/750/3080183330_2_4_1.jpg?ts=1679915853030",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3080/183/330/2/w/750/3080183330_2_4_1.jpg?ts=1679915853030",
-      "name": "SATIN TUNIC DRESS",
-     
-      "color":6,
-      "price":  7590.00
-      },
-      { "id":15456554,
-      "productlink href": "https://www.zara.com/in/en/straight-fit-minimalist-trousers-p02239707.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/2968/783/250/2/w/305/2968783250_2_8_1.jpg?ts=1680173020983",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2998/783/250/2/w/750/2998783250_2_2_1.jpg?ts=1679915850358",
-      "name": "STRAIGHT FIT MINIMALIST TROUSERS",
-     
-      "color":6,
-      "price":  5990.00
-      },
-      { "id":189554,
-      "productlink href": "https://www.zara.com/in/en/contrast-high-heel-shoes-p12223110.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/2998/783/250/2/w/750/2998783250_6_1_1.jpg?ts=1680084825979",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2998/783/250/2/w/750/2998783250_6_2_1.jpg?ts=1680084787048",
-      "name": "CONTRAST HIGH HEEL SHOES",
-      "color": 3,
-
-      "price":  3290.00
-      },
-      { "id":15464,
-      "productlink href": "https://www.zara.com/in/en/tailored-blazer-p02956624.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/2968/783/250/3/w/750/2968783250_1_1_1.jpg?ts=1679994330619",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2968/783/250/3/w/750/2968783250_2_2_1.jpg?ts=1679994330044",
-      "color": 3,
-      "name": "TAILORED BLAZER",
-   
-      "price":  5990.00
-      },
-      { "id":1678654,
-      "productlink href": "https://www.zara.com/in/en/leather-heeled-mules-p12354110.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/2968/783/250/3/w/750/2968783250_2_4_1.jpg?ts=1679994333902",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2968/783/250/3/w/750/2968783250_2_5_1.jpg?ts=1679994330428",
-      "name": "LEATHER HEELED MULES",
-      "color":6,
-      "price":  5590.00
-      },
-      { "id":1456754,
-      "productlink href": "https://www.zara.com/in/en/tulip-necklace---special-edition-p04736091.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/2977/184/330/2/w/305/2977184330_2_8_1.jpg?ts=1680103941121",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3105/204/330/2/w/305/3105204330_2_9_1.jpg?ts=1680103904067",
-      "name": "TULIP NECKLACE - SPECIAL EDITION",
-      "color":6,
-      "price":  2890.00
-      },
-      { "id":15744,
-      "productlink href": "https://www.zara.com/in/en/feather-rhinestone-necklace-p04736071.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/8372/027/712/2/w/305/8372027712_1_1_1.jpg?ts=1680103881259",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/8372/027/712/2/w/305/8372027712_2_3_1.jpg?ts=1680103880050",
-      "name": "FEATHER RHINESTONE NECKLACE",
-      "color":6,
-      "price":  4990.00
-      },
-      { "id":134554,
-      "productlink href": "https://www.zara.com/in/en/straight-fit-printed-trousers-p03013195.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/2298/077/088/12/w/305/2298077088_2_7_1.jpg?ts=1680173643211",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2298/077/088/12/w/305/2298077088_2_7_1.jpg?ts=1680173643211",
-      "name": "STRAIGHT FIT PRINTED TROUSERS",
-      "price":  2990.00
-      },
-      { "id":154364,
-      "productlink href": "https://www.zara.com/in/en/long-printed-dress-p02183068.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/3167/129/052/2/w/750/3167129052_6_2_1.jpg?ts=1680084863430",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3167/129/052/2/w/750/3167129052_6_4_1.jpg?ts=1680084862077",
-      "name": "LONG PRINTED DRESS",
-      "color":6,
-      "price":  3990.00
-      },
-      { "id":12644,
-      "productlink href": "https://www.zara.com/in/en/slip-dress-with-elasticasted-straps-p02016616.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/622/2298115400_2_1_1.jpg?ts=1680103886431",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/750/2298115400_2_1_1.jpg?ts=1680103886431",
-      "name": "SLIP DRESS WITH ELASTICASTED STRAPS",
-      "color": 3,
-     
-      "price":  2990.00
-      },
-      { "id":155644,
-      "productlink href": "https://www.zara.com/in/en/dress-with-asymmetric-hem-p02180340.html",
-      "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
-      "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
-      "name": "DRESS WITH ASYMMETRIC HEM",
-      "color": 3,
-     
-      "price":  3990.00
-      },
-      { "id":152364,
-      "productlink href": "https://www.zara.com/in/en/clutch-bag-with-studs-p16000110.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_2_2_1.jpg?ts=1680076913378",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_2_3_1.jpg?ts=1680076909736",
-      "name": "CLUTCH BAG WITH STUDS",
-     
-      "color":6,
-      "price":  1990.00
-      },
-      { "id":15944,
-      "productlink href": "https://www.zara.com/in/en/pearl-hoop-earrings-p04736113.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_2_5_1.jpg?ts=1680076942649",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_6_1_1.jpg?ts=1680085037540",
-      "name": "PEARL HOOP EARRINGS",
-      
-      "color":6,
-      "price":  1590.00
-      },
-      { "id":156334,
-      "productlink href": "https://www.zara.com/in/en/flowing-jacquard-blazer-p02266596.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/3666/098/330/2/w/750/3666098330_1_1_1.jpg?ts=1680076909762",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3666/098/330/2/w/750/3666098330_2_1_1.jpg?ts=1680076932020",
-      "name": "FLOWING JACQUARD BLAZER",
-      "color":6,
-      
-      "price":  4990.00
-      },
-      { "id":157544,
-      "productlink href": "https://www.zara.com/in/en/dress-with-a-sweetheart-neckline-p02670187.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/3666/098/330/2/w/750/3666098330_2_3_1.jpg?ts=1680076909863",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3666/098/330/2/w/750/3666098330_6_1_1.jpg?ts=1680084895270",
-      "name": "DRESS WITH A SWEETHEART NECKLINE",
-      "price":  4990.00
-      },
-      { "id":152344,
-      "productlink href": "https://www.zara.com/in/en/resin-flower-earrings-p04548032.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/3102/939/544/2/w/750/3102939544_1_1_1.jpg?ts=1680081846504",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3102/939/544/2/w/750/3102939544_6_2_1.jpg?ts=1680084811877",
-      "name": "TAILORED LINEN BLEND WAISTCOAT",
-      "color":6,
-      "price":  1890.00
-      },
-      { "id":167554,
-      "productlink href": "https://www.zara.com/in/en/long-tulle-cape-p00653018.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/3564/088/505/2/w/750/3564088505_1_1_1.jpg?ts=1680076935770",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3564/088/505/2/w/750/3564088505_2_1_1.jpg?ts=1680076909791",
-      "name": "LONG TULLE CAPE",
-      "color":6,
-      "price":  2990.00
-      },
-      { "id":153564,
-      "productlink href": "https://www.zara.com/in/en/satin-slip-dress-p02726331.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/750/2298115400_1_1_1.jpg?ts=1680103887381",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/750/2298115400_2_2_1.jpg?ts=1680103880172",
-      "name": "SATIN SLIP DRESS",
-      "color":6,
-      "price":  3990.00
-      },
-      { "id":18454,
-      "productlink href": "https://www.zara.com/in/en/faux-pearl-rhinestone-necklace-p04736026.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/3564/097/250/2/w/750/3564097250_2_8_1.jpg?ts=1680173755345",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3564/097/250/2/w/750/3564097250_6_1_1.jpg?ts=1679412340571",
-      "name": "FAUX PEARL RHINESTONE NECKLACE",
-   
-      "color":6,
-      "price":  2590.00
-      },
-      { "id":151254,
-      "productlink href": "https://www.zara.com/in/en/midi-dress-with-gathering-p01165073.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/2142/047/250/17/w/750/2142047250_1_1_1.jpg?ts=1680094670788",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2142/047/250/17/w/750/2142047250_2_1_1.jpg?ts=1680094670149",
-      "name": "MIDI DRESS WITH GATHERING",
-  
-      "color":6,
-      "price":  2990.00
-      },
-      { "id":1543124,
-      "productlink href": "https://www.zara.com/in/en/midi-dress-with-gathering-p01165073.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/4331/036/505/2/w/750/4331036505_1_1_1.jpg?ts=1680083943063",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/4331/036/505/2/w/750/4331036505_2_1_1.jpg?ts=1680083942377",
-      "name": "MIDI DRESS WITH GATHERING",
-    
-      "color":6,
-      "price":  2990.00
-      },
-      {
-        "id":154223124,
-      "productlink href": "https://www.zara.com/in/en/strappy-high-heel-leather-sandals-p12336110.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/4331/036/505/2/w/750/4331036505_2_2_1.jpg?ts=1680083943173",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/4331/036/505/2/w/750/4331036505_2_3_1.jpg?ts=1680083942919",
-      "name": "STRAPPY HIGH-HEEL LEATHER Dress",
-     
-      "color":6,
-      "price":  5990.00
-      },
-      { "id":1524354,
-      "productlink href": "https://www.zara.com/in/en/ribbed-bodysuit-with-organza-ruffles-p00858331.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/2907/707/712/2/w/750/2907707712_1_1_1.jpg?ts=1680011061033",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2907/707/712/2/w/750/2907707712_2_1_1.jpg?ts=1680011061458",
-      "name": "RIBBED BODYSUIT WITH ORGANZA RUFFLES",
-    
-      "color":6,
-      "price":  2290.00
-      },
-      {
-        "id":15432323124,
-      "productlink href": "https://www.zara.com/in/en/flowing-jacquard-blazer-p02266596.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/2907/707/712/2/w/750/2907707712_2_3_1.jpg?ts=1680092204555",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2907/707/712/2/w/750/2907707712_2_3_1.jpg?ts=1680092204555",
-      "name": "FLOWING JACQUARD BLAZER",
-     
-      "color":6,
-      "price":  4990.00
-      },
-      { "id":153234,
-      "productlink href": "https://www.zara.com/in/en/maxi-cascade-necklace-with-faux-pearls-p01856097.html",
-      "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.pnghttps://static.zara.net/photos///2023/V/0/1/p/6929/406/050/2/w/750/6929406050_1_1_1.jpg?ts=1680089326145",
-       "imagw2":"https://static.zara.net/photos///2023/V/0/1/p/6929/406/050/2/w/750/6929406050_2_1_1.jpg?ts=1680089327312",
-      "name": "MAXI CASCADE NECKLACE WITH FAUX PEARLS",
-   
-      "color":6,
-      "price":  5990.00
-      },
-      {
-        "id":1522243124,
-      "productlink href": "https://www.zara.com/in/en/cascade-ear-cuff-with-faux-pearls-p01856098.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/3198/500/250/2/w/750/3198500250_1_1_1.jpg?ts=1680012649773",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3198/500/250/2/w/750/3198500250_2_1_1.jpg?ts=1680012650004",
-      "name": "CASCADE EAR CUFF WITH FAUX PEARLS",
-   
-      "color":6,
-      "price":  1590.00
-      },
-      { "id":154354,
-      "productlink href": "https://www.zara.com/in/en/maxi-cascade-necklace-with-faux-pearls-p01856097.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/4331/037/505/2/w/622/4331037505_1_1_1.jpg?ts=1680083942733",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/4331/037/505/2/w/750/4331037505_2_1_1.jpg?ts=1680083942964",
-      "name": "MAXI CASCADE NECKLACE WITH FAUX PEARLS",
-    
-      "color":6,
-      "price":  5990.00
-      },
-      {
-        "id":152243124,
-      "productlink href": "https://www.zara.com/in/en/maxi-cascade-necklace-with-faux-pearls-p01856097.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/1277/002/807/2/w/750/1277002807_1_1_1.jpg?ts=1679911933493",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/1277/002/807/2/w/750/1277002807_2_2_1.jpg?ts=1679911933508",
-      "name": "MAXI CASCADE NECKLACE WITH FAUX PEARLS",
-  
-      "color":6,
-      "price":  5990.00
-      },
-      { "id":1133454,
-      "productlink href": "https://www.zara.com/in/en/knit-dress-with-contrast-detail-p02142019.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/1277/002/807/2/w/750/1277002807_2_4_1.jpg?ts=1679911933303",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/1277/002/807/2/w/750/1277002807_2_3_1.jpg?ts=1679911933898",
-     
-      "name": "KNIT DRESS WITH CONTRAST DETAIL",
-      "color":2,
-      "price":  5990.00
-      },
-      { "id":186254,
-      "productlink href": "https://www.zara.com/in/en/printed-jacket-with-fringing-p02963194.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/4886/152/615/2/w/750/4886152615_1_1_1.jpg?ts=1680106163805",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/4886/152/615/2/w/750/4886152615_6_1_1.jpg?ts=1680085010056",
-      "name": "PRINTED JACKET WITH FRINGING",
-   
-      "color":2,
-      "price":  4990.00
-      },
-      { "id":144554,
-      "productlink href": "https://www.zara.com/in/en/satin-dress-with-cut-out-detail-p09878137.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/3920/018/808/2/w/750/3920018808_6_1_1.jpg?ts=1680084936663",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3920/018/808/2/w/750/3920018808_6_3_1.jpg?ts=1680084938766",
-      "name": "SATIN DRESS WITH CUT-OUT DETAIL",
-   
-      "color":2,
-      "price":  2990.00
-      },
-      { "id":124454,
-      "productlink href": "https://www.zara.com/in/en/camisole-dress-with-buttons-p04387064.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/3564/087/505/2/w/750/3564087505_1_1_1.jpg?ts=1680076908393",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3564/087/505/2/w/750/3564087505_2_1_1.jpg?ts=1680076938739",
-      "name": "CAMISOLE DRESS WITH BUTTONS",
-   
-      "color":2,
-      "price":  2890.00
-      },
-      { "id":1555564,
-      "productlink href": "https://www.zara.com/in/en/slip-dress-with-elasticasted-straps-p02016616.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/2221/102/711/17/w/750/2221102711_1_1_1.jpg?ts=1680012548037",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2221/102/711/2/w/750/2221102711_6_1_1.jpg?ts=1678458308542",
-      "name": "SLIP DRESS WITH ELASTICASTED STRAPS",
-     
-      "color":1,
-      "price":  2990.00
-      },
-      {
-         "id":152444,
-      "productlink href": "https://www.zara.com/in/en/printed-jacket-with-fringing-p02963194.html",
-      "image": "https://static.zara.net/photos///2023/V/0/1/p/3390/018/481/17/w/305/3390018481_1_1_1.jpg?ts=1680094673166",
-      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3390/018/481/17/w/750/3390018481_2_2_1.jpg?ts=1680094672558",
-      "name": "PRINTED JACKET WITH FRINGING",
-      
-      "color":null,
-      "price":  4990.00
-      }
-      ],
+    {
+    "id": 1,
+    "productlink href": "https://www.zara.com/in/en/wrap-style-trousers-p04886004.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/4886/004/800/22/w/458/4886004800_1_1_1.jpg?ts=1679413831665",
+    "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+    "color": 6,
+    "name": "WRAP-STYLE TROUSERS",
+    "price": 3290
+    },
+    {
+    "id": 2,
+    "productlink href": "https://www.zara.com/in/en/wrap-style-trousers-p04886004.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/4886/004/800/2/w/458/4886004800_2_5_1.jpg?ts=1679323851157",
+    "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+    "color": 6,
+    "name": "WRAP-STYLE TROUSERS",
+    "price": 3290
+    },
+    {
+    "id": 3,
+    "productlink href": "https://www.zara.com/in/en/pleated-midi-dress-p01165079.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/1165/079/800/2/w/458/1165079800_2_1_1.jpg?ts=1679323787754",
+    "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+    "color": 6,
+    "name": "PLEATED MIDI DRESS",
+    "price": 3290
+    },
+    {
+    "id": 4,
+    "productlink href": "https://www.zara.com/in/en/bandeau-top-p00264091.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/0264/091/620/2/w/458/0264091620_2_4_1.jpg?ts=1679323776165",
+    "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+    "name": "BANDEAU TOP",
+    "color": 6,
+    "price": 2290
+    },
+    {
+    "id": 5,
+    "productlink href": "https://www.zara.com/in/en/satin-midi-skirt-p02718965.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/2718/965/620/2/w/458/2718965620_1_1_1.jpg?ts=1676304261080",
+    "image2": "",
+    "name": "SATIN MIDI SKIRT",
+    "color": 6,
+    "price": 2990
+    },
+    {
+    "id": 6,
+    "productlink href": "https://www.zara.com/in/en/satin-camisole-top-p02710965.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/2710/965/620/2/w/458/2710965620_6_20_1.jpg?ts=1676302028762",
+    "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+    "name": "SATIN CAMISOLE TOP",
+    "color": 6,
+    "price": 2890
+    },
+    {
+    "id": 7,
+    "productlink href": "https://www.zara.com/in/en/short-full-dress-p02487707.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/2487/707/942/2/w/458/2487707942_2_3_1.jpg?ts=1676371087273",
+    "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+    "name": "SHORT FULL DRESS",
+    "color": 1,
+    "price": 5990
+    },
+    {
+    "id": 8,
+    "productlink href": "https://www.zara.com/in/en/oversize-double-breasted-blazer---limited-edition-p02249457.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/750/2298115400_2_3_1.jpg?ts=1680103887784",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/750/2298115400_6_1_1.jpg?ts=1679399771292",
+    "name": "OVERSIZE DOUBLE-BREASTED BLAZER - LIMITED EDITION",
+    "color": 6,
+    "price": 9590
+    },
+    {
+    "id": 13,
+    "productlink href": "https://www.zara.com/in/en/long-flowing-trousers-p02216483.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/3666/105/172/2/w/622/3666105172_2_1_1.jpg?ts=1679915847947",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/3006/351/679/2/w/305/3006351679_2_6_1.jpg?ts=1680173555016",
+    "name": "LONG FLOWING TROUSERS",
+    "color": 1,
+    "price": 2990
+    },
+    {
+    "id": 9,
+    "productlink href": "https://www.zara.com/in/en/tuxedo-collar-blazer-with-belt-p02225483.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/5216/061/080/2/w/750/5216061080_1_1_1.jpg?ts=1679561438661",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/5216/061/080/2/w/750/5216061080_2_1_1.jpg?ts=1679561440838",
+    "name": "TUXEDO COLLAR BLAZER WITH BELT",
+    "color": 5,
+    "price": 8590
+    },
+    {
+    "id": 10,
+    "productlink href": "https://www.zara.com/in/en/tuxedo-collar-blazer-with-belt-p02225483.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/2676/530/505/12/w/750/2676530505_1_1_1.jpg?ts=1680088576966",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/2676/530/505/12/w/750/2676530505_2_2_1.jpg?ts=1680088576844",
+    "name": "TUXEDO COLLAR BLAZER WITH BELT",
+    "color": 6,
+    "price": 8590
+    },
+    {
+    "id": 11,
+    "productlink href": "https://www.zara.com/in/en/high-heel-fabric-slingback-shoes-p12276110.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/2676/530/505/2/w/750/2676530505_6_2_1.jpg?ts=1677071587242",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/2676/530/505/2/w/750/2676530505_6_3_1.jpg?ts=1677071590557",
+    "name": "HIGH-HEEL FABRIC SLINGBACK SHOES",
+    "color": 3,
+    "price": 3290
+    },
+    {
+    "id": 15,
+    "productlink href": "https://www.zara.com/in/en/pleated-midi-dress-p07969053.html",
+    "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+    "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+    "name": "PLEATED MIDI DRESS",
+    "price": 4990
+    },
+    {
+    "id": 14,
+    "productlink href": "https://www.zara.com/in/en/chiffon-cape-p08741005.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_1_1_1.jpg?ts=1680085342124",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_2_2_1.jpg?ts=1680085341313",
+    "name": "CHIFFON CAPE",
+    "color": 6,
+    "price": 2990
+    },
+    {
+    "id": 16,
+    "productlink href": "https://www.zara.com/in/en/pleated-top-p09878105.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_2_4_1.jpg?ts=1680085344924",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_2_5_1.jpg?ts=1680085344245",
+    "name": "PLEATED TOP",
+    "color": 3,
+    "price": 2890
+    },
+    {
+    "id": 17,
+    "productlink href": "https://www.zara.com/in/en/cropped-trousers-p02719695.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_6_1_1.jpg?ts=1680085004044",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_6_3_1.jpg?ts=1680085083605",
+    "name": "CROPPED TROUSERS",
+    "color": 6,
+    "price": 2990
+    },
+    {
+    "id": 18,
+    "productlink href": "https://www.zara.com/in/en/double-breasted-oversized-blazer-p02421888.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/2142/066/800/17/w/750/2142066800_1_1_1.jpg?ts=1680094671316",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/2142/066/800/17/w/2400/2142066800_2_1_1.jpg?ts=1680094671924",
+    "name": "DOUBLE-BREASTED OVERSIZED BLAZER",
+    "color": 4,
+    "price": 6990
+    },
+    {
+    "id": 19,
+    "productlink href": "https://www.zara.com/in/en/midi-dress-with-front-knot-p02866880.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/4786/049/501/17/w/750/4786049501_1_1_1.jpg?ts=1680013730230",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/4786/049/501/2/w/750/4786049501_6_1_1.jpg?ts=1679413018458",
+    "name": "MIDI DRESS WITH FRONT KNOT",
+    "color": 6,
+    "price": 4990
+    },
+    {
+    "id": 20,
+    "productlink href": "https://www.zara.com/in/en/short-tailored-waistcoat-p02966888.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/2966/888/942/2/w/458/2966888942_6_1_1.jpg?ts=1678878246521",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/2221/948/713/17/w/750/2221948713_1_1_1.jpg?ts=1680012547168",
+    "name": "SHORT TAILORED WAISTCOAT",
+    "color": 4,
+    "price": 2890
+    },
+    {
+    "id": 123,
+    "productlink href": "https://www.zara.com/in/en/cascading-floral-necklace-p04736072.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/2221/948/713/17/w/750/2221948713_1_1_1.jpg?ts=1680012547168",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/2221/948/713/2/w/750/2221948713_6_1_1.jpg?ts=1678206779292",
+    "name": "CASCADING FLORAL NECKLACE",
+    "color": 3,
+    "price": 2890
+    },
+    {
+    "id": 12323,
+    "productlink href": "https://www.zara.com/in/en/midi-dress-p04424314.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/4043/066/622/2/w/750/4043066622_1_1_1.jpg?ts=1679486550060",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/4043/066/622/2/w/750/4043066622_2_1_1.jpg?ts=1679486549684",
+    "name": "MIDI DRESS",
+    "color": 4,
+    "price": 2590
+    },
+    {
+    "id": 12443,
+    "productlink href": "https://www.zara.com/in/en/midi-dress-p04424314.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/4043/066/622/2/w/750/4043066622_2_2_1.jpg?ts=1679486550027",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/4043/066/622/2/w/750/4043066622_2_3_1.jpg?ts=1679486549632",
+    "name": "MIDI DRESS",
+    "color": 6,
+    "price": 2590
+    },
+    {
+    "id": 111,
+    "productlink href": "https://www.zara.com/in/en/dress-with-seams-and-gathering-p04661321.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_1_1_1.jpg?ts=1680076914632",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_2_1_1.jpg?ts=1680076937265",
+    "name": "DRESS WITH SEAMS AND GATHERING",
+    "color": 4,
+    "price": 2990
+    },
+    {
+    "id": 17954,
+    "productlink href": "https://www.zara.com/in/en/high-heel-fabric-slingback-shoes-p12276110.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/3067/059/044/2/w/457/3067059044_2_1_1.jpg?ts=1679652485306",
+    "image2": "https://static.zara.net/photos///contents/mkt/spots/ss23-north-woman-new/subhome-xmedia-12-in//w/1920/IMAGE-landscape-fill-4bc11d3a-feda-419c-812a-6159e14882df-default_0.jpg?ts=1679585904255",
+    "name": "HIGH-HEEL FABRIC SLINGBACK SHOES",
+    "price": 3290
+    },
+    {
+    "id": 156874,
+    "productlink href": "https://www.zara.com/in/en/satin-shirt-p08741256.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/1889/033/427/17/w/305/1889033427_1_1_1.jpg?ts=1680172813592",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/1889/033/427/17/w/750/1889033427_2_3_1.jpg?ts=1680180064730",
+    "name": "SATIN SHIRT",
+    "color": 3,
+    "price": 1990
+    },
+    {
+    "id": 15754,
+    "productlink href": "https://static.zara.net/photos///2023/V/0/1/p/3080/183/330/2/w/750/3080183330_1_1_1.jpg?ts=1679915870522",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/3080/183/330/2/w/750/3080183330_2_4_1.jpg?ts=1679915853030",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/3080/183/330/2/w/750/3080183330_2_4_1.jpg?ts=1679915853030",
+    "name": "SATIN TUNIC DRESS",
+    "color": 6,
+    "price": 7590
+    },
+    {
+    "id": 15456554,
+    "productlink href": "https://www.zara.com/in/en/straight-fit-minimalist-trousers-p02239707.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/2968/783/250/2/w/305/2968783250_2_8_1.jpg?ts=1680173020983",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/2998/783/250/2/w/750/2998783250_2_2_1.jpg?ts=1679915850358",
+    "name": "STRAIGHT FIT MINIMALIST TROUSERS",
+    "color": 6,
+    "price": 5990
+    },
+    {
+    "id": 189554,
+    "productlink href": "https://www.zara.com/in/en/contrast-high-heel-shoes-p12223110.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/2998/783/250/2/w/750/2998783250_6_1_1.jpg?ts=1680084825979",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/2998/783/250/2/w/750/2998783250_6_2_1.jpg?ts=1680084787048",
+    "name": "CONTRAST HIGH HEEL SHOES",
+    "color": 3,
+    "price": 3290
+    },
+    {
+    "id": 15464,
+    "productlink href": "https://www.zara.com/in/en/tailored-blazer-p02956624.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/2968/783/250/3/w/750/2968783250_1_1_1.jpg?ts=1679994330619",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/2968/783/250/3/w/750/2968783250_2_2_1.jpg?ts=1679994330044",
+    "color": 3,
+    "name": "TAILORED BLAZER",
+    "price": 5990
+    },
+    {
+    "id": 1678654,
+    "productlink href": "https://www.zara.com/in/en/leather-heeled-mules-p12354110.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/2968/783/250/3/w/750/2968783250_2_4_1.jpg?ts=1679994333902",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/2968/783/250/3/w/750/2968783250_2_5_1.jpg?ts=1679994330428",
+    "name": "LEATHER HEELED MULES",
+    "color": 6,
+    "price": 5590
+    },
+    {
+    "id": 1456754,
+    "productlink href": "https://www.zara.com/in/en/tulip-necklace---special-edition-p04736091.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/2977/184/330/2/w/305/2977184330_2_8_1.jpg?ts=1680103941121",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/3105/204/330/2/w/305/3105204330_2_9_1.jpg?ts=1680103904067",
+    "name": "TULIP NECKLACE - SPECIAL EDITION",
+    "color": 6,
+    "price": 2890
+    },
+    {
+    "id": 15744,
+    "productlink href": "https://www.zara.com/in/en/feather-rhinestone-necklace-p04736071.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/8372/027/712/2/w/305/8372027712_1_1_1.jpg?ts=1680103881259",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/8372/027/712/2/w/305/8372027712_2_3_1.jpg?ts=1680103880050",
+    "name": "FEATHER RHINESTONE NECKLACE",
+    "color": 6,
+    "price": 4990
+    },
+    {
+    "id": 134554,
+    "productlink href": "https://www.zara.com/in/en/straight-fit-printed-trousers-p03013195.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/2298/077/088/12/w/305/2298077088_2_7_1.jpg?ts=1680173643211",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/2298/077/088/12/w/305/2298077088_2_7_1.jpg?ts=1680173643211",
+    "name": "STRAIGHT FIT PRINTED TROUSERS",
+    "price": 2990
+    },
+    {
+    "id": 154364,
+    "productlink href": "https://www.zara.com/in/en/long-printed-dress-p02183068.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/3167/129/052/2/w/750/3167129052_6_2_1.jpg?ts=1680084863430",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/3167/129/052/2/w/750/3167129052_6_4_1.jpg?ts=1680084862077",
+    "name": "LONG PRINTED DRESS",
+    "color": 6,
+    "price": 3990
+    },
+    {
+    "id": 12644,
+    "productlink href": "https://www.zara.com/in/en/slip-dress-with-elasticasted-straps-p02016616.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/622/2298115400_2_1_1.jpg?ts=1680103886431",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/750/2298115400_2_1_1.jpg?ts=1680103886431",
+    "name": "SLIP DRESS WITH ELASTICASTED STRAPS",
+    "color": 3,
+    "price": 2990
+    },
+    {
+    "id": 155644,
+    "productlink href": "https://www.zara.com/in/en/dress-with-asymmetric-hem-p02180340.html",
+    "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+    "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+    "name": "DRESS WITH ASYMMETRIC HEM",
+    "color": 3,
+    "price": 3990
+    },
+    {
+    "id": 152364,
+    "productlink href": "https://www.zara.com/in/en/clutch-bag-with-studs-p16000110.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_2_2_1.jpg?ts=1680076913378",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_2_3_1.jpg?ts=1680076909736",
+    "name": "CLUTCH BAG WITH STUDS",
+    "color": 6,
+    "price": 1990
+    },
+    {
+    "id": 15944,
+    "productlink href": "https://www.zara.com/in/en/pearl-hoop-earrings-p04736113.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_2_5_1.jpg?ts=1680076942649",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_6_1_1.jpg?ts=1680085037540",
+    "name": "PEARL HOOP EARRINGS",
+    "color": 6,
+    "price": 1590
+    },
+    {
+    "id": 156334,
+    "productlink href": "https://www.zara.com/in/en/flowing-jacquard-blazer-p02266596.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/3666/098/330/2/w/750/3666098330_1_1_1.jpg?ts=1680076909762",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/3666/098/330/2/w/750/3666098330_2_1_1.jpg?ts=1680076932020",
+    "name": "FLOWING JACQUARD BLAZER",
+    "color": 6,
+    "price": 4990
+    },
+    {
+    "id": 157544,
+    "productlink href": "https://www.zara.com/in/en/dress-with-a-sweetheart-neckline-p02670187.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/3666/098/330/2/w/750/3666098330_2_3_1.jpg?ts=1680076909863",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/3666/098/330/2/w/750/3666098330_6_1_1.jpg?ts=1680084895270",
+    "name": "DRESS WITH A SWEETHEART NECKLINE",
+    "price": 4990
+    },
+    {
+    "id": 152344,
+    "productlink href": "https://www.zara.com/in/en/resin-flower-earrings-p04548032.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/3102/939/544/2/w/750/3102939544_1_1_1.jpg?ts=1680081846504",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/3102/939/544/2/w/750/3102939544_6_2_1.jpg?ts=1680084811877",
+    "name": "TAILORED LINEN BLEND WAISTCOAT",
+    "color": 6,
+    "price": 1890
+    },
+    {
+    "id": 167554,
+    "productlink href": "https://www.zara.com/in/en/long-tulle-cape-p00653018.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/3564/088/505/2/w/750/3564088505_1_1_1.jpg?ts=1680076935770",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/3564/088/505/2/w/750/3564088505_2_1_1.jpg?ts=1680076909791",
+    "name": "LONG TULLE CAPE",
+    "color": 6,
+    "price": 2990
+    },
+    {
+    "id": 153564,
+    "productlink href": "https://www.zara.com/in/en/satin-slip-dress-p02726331.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/750/2298115400_1_1_1.jpg?ts=1680103887381",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/750/2298115400_2_2_1.jpg?ts=1680103880172",
+    "name": "SATIN SLIP DRESS",
+    "color": 6,
+    "price": 3990
+    },
+    {
+    "id": 18454,
+    "productlink href": "https://www.zara.com/in/en/faux-pearl-rhinestone-necklace-p04736026.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/3564/097/250/2/w/750/3564097250_2_8_1.jpg?ts=1680173755345",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/3564/097/250/2/w/750/3564097250_6_1_1.jpg?ts=1679412340571",
+    "name": "FAUX PEARL RHINESTONE NECKLACE",
+    "color": 6,
+    "price": 2590
+    },
+    {
+    "id": 151254,
+    "productlink href": "https://www.zara.com/in/en/midi-dress-with-gathering-p01165073.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/2142/047/250/17/w/750/2142047250_1_1_1.jpg?ts=1680094670788",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/2142/047/250/17/w/750/2142047250_2_1_1.jpg?ts=1680094670149",
+    "name": "MIDI DRESS WITH GATHERING",
+    "color": 6,
+    "price": 2990
+    },
+    {
+    "id": 1543124,
+    "productlink href": "https://www.zara.com/in/en/midi-dress-with-gathering-p01165073.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/4331/036/505/2/w/750/4331036505_1_1_1.jpg?ts=1680083943063",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/4331/036/505/2/w/750/4331036505_2_1_1.jpg?ts=1680083942377",
+    "name": "MIDI DRESS WITH GATHERING",
+    "color": 6,
+    "price": 2990
+    },
+    {
+    "id": 154223124,
+    "productlink href": "https://www.zara.com/in/en/strappy-high-heel-leather-sandals-p12336110.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/4331/036/505/2/w/750/4331036505_2_2_1.jpg?ts=1680083943173",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/4331/036/505/2/w/750/4331036505_2_3_1.jpg?ts=1680083942919",
+    "name": "STRAPPY HIGH-HEEL LEATHER Dress",
+    "color": 6,
+    "price": 5990
+    },
+    {
+    "id": 1524354,
+    "productlink href": "https://www.zara.com/in/en/ribbed-bodysuit-with-organza-ruffles-p00858331.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/2907/707/712/2/w/750/2907707712_1_1_1.jpg?ts=1680011061033",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/2907/707/712/2/w/750/2907707712_2_1_1.jpg?ts=1680011061458",
+    "name": "RIBBED BODYSUIT WITH ORGANZA RUFFLES",
+    "color": 6,
+    "price": 2290
+    },
+    {
+    "id": 15432323124,
+    "productlink href": "https://www.zara.com/in/en/flowing-jacquard-blazer-p02266596.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/2907/707/712/2/w/750/2907707712_2_3_1.jpg?ts=1680092204555",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/2907/707/712/2/w/750/2907707712_2_3_1.jpg?ts=1680092204555",
+    "name": "FLOWING JACQUARD BLAZER",
+    "color": 6,
+    "price": 4990
+    },
+    {
+    "id": 153234,
+    "productlink href": "https://www.zara.com/in/en/maxi-cascade-necklace-with-faux-pearls-p01856097.html",
+    "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.pnghttps://static.zara.net/photos///2023/V/0/1/p/6929/406/050/2/w/750/6929406050_1_1_1.jpg?ts=1680089326145",
+    "imagw2": "https://static.zara.net/photos///2023/V/0/1/p/6929/406/050/2/w/750/6929406050_2_1_1.jpg?ts=1680089327312",
+    "name": "MAXI CASCADE NECKLACE WITH FAUX PEARLS",
+    "color": 6,
+    "price": 5990
+    },
+    {
+    "id": 1522243124,
+    "productlink href": "https://www.zara.com/in/en/cascade-ear-cuff-with-faux-pearls-p01856098.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/3198/500/250/2/w/750/3198500250_1_1_1.jpg?ts=1680012649773",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/3198/500/250/2/w/750/3198500250_2_1_1.jpg?ts=1680012650004",
+    "name": "CASCADE EAR CUFF WITH FAUX PEARLS",
+    "color": 6,
+    "price": 1590
+    },
+    {
+    "id": 154354,
+    "productlink href": "https://www.zara.com/in/en/maxi-cascade-necklace-with-faux-pearls-p01856097.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/4331/037/505/2/w/622/4331037505_1_1_1.jpg?ts=1680083942733",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/4331/037/505/2/w/750/4331037505_2_1_1.jpg?ts=1680083942964",
+    "name": "MAXI CASCADE NECKLACE WITH FAUX PEARLS",
+    "color": 6,
+    "price": 5990
+    },
+    {
+    "id": 152243124,
+    "productlink href": "https://www.zara.com/in/en/maxi-cascade-necklace-with-faux-pearls-p01856097.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/1277/002/807/2/w/750/1277002807_1_1_1.jpg?ts=1679911933493",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/1277/002/807/2/w/750/1277002807_2_2_1.jpg?ts=1679911933508",
+    "name": "MAXI CASCADE NECKLACE WITH FAUX PEARLS",
+    "color": 6,
+    "price": 5990
+    },
+    {
+    "id": 1133454,
+    "productlink href": "https://www.zara.com/in/en/knit-dress-with-contrast-detail-p02142019.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/1277/002/807/2/w/750/1277002807_2_4_1.jpg?ts=1679911933303",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/1277/002/807/2/w/750/1277002807_2_3_1.jpg?ts=1679911933898",
+    "name": "KNIT DRESS WITH CONTRAST DETAIL",
+    "color": 2,
+    "price": 5990
+    },
+    {
+    "id": 186254,
+    "productlink href": "https://www.zara.com/in/en/printed-jacket-with-fringing-p02963194.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/4886/152/615/2/w/750/4886152615_1_1_1.jpg?ts=1680106163805",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/4886/152/615/2/w/750/4886152615_6_1_1.jpg?ts=1680085010056",
+    "name": "PRINTED JACKET WITH FRINGING",
+    "color": 2,
+    "price": 4990
+    },
+    {
+    "id": 144554,
+    "productlink href": "https://www.zara.com/in/en/satin-dress-with-cut-out-detail-p09878137.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/3920/018/808/2/w/750/3920018808_6_1_1.jpg?ts=1680084936663",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/3920/018/808/2/w/750/3920018808_6_3_1.jpg?ts=1680084938766",
+    "name": "SATIN DRESS WITH CUT-OUT DETAIL",
+    "color": 2,
+    "price": 2990
+    },
+    {
+    "id": 124454,
+    "productlink href": "https://www.zara.com/in/en/camisole-dress-with-buttons-p04387064.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/3564/087/505/2/w/750/3564087505_1_1_1.jpg?ts=1680076908393",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/3564/087/505/2/w/750/3564087505_2_1_1.jpg?ts=1680076938739",
+    "name": "CAMISOLE DRESS WITH BUTTONS",
+    "color": 2,
+    "price": 2890
+    },
+    {
+    "id": 1555564,
+    "productlink href": "https://www.zara.com/in/en/slip-dress-with-elasticasted-straps-p02016616.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/2221/102/711/17/w/750/2221102711_1_1_1.jpg?ts=1680012548037",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/2221/102/711/2/w/750/2221102711_6_1_1.jpg?ts=1678458308542",
+    "name": "SLIP DRESS WITH ELASTICASTED STRAPS",
+    "color": 1,
+    "price": 2990
+    },
+    {
+    "id": 152444,
+    "productlink href": "https://www.zara.com/in/en/printed-jacket-with-fringing-p02963194.html",
+    "image": "https://static.zara.net/photos///2023/V/0/1/p/3390/018/481/17/w/305/3390018481_1_1_1.jpg?ts=1680094673166",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/3390/018/481/17/w/750/3390018481_2_2_1.jpg?ts=1680094672558",
+    "name": "PRINTED JACKET WITH FRINGING",
+    "color": null,
+    "price": 4990
+    },
+    {
+    "id": "23422",
+    "image": "\"https://i.ibb.co/gZYbBSY/download.jpg\"",
+    "image2": "https://static.zara.net/photos///2023/V/0/1/p/8372/080/711/3/w/608/8372080711_2_3_1.jpg?ts=1679660988173",
+    "color": "3",
+    "name": "Fashion",
+    "price": "32323"
+    }
+    ],
 "mens":[
   {
   "id": 1,
