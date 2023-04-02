@@ -1,1651 +1,1651 @@
 {
     
    
-    "Linen_data": [
-      {
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/750/1063035711_1_1_1.jpg?ts=1648724945973",
-        "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
-        "name": "STRIPED SHIRT",
-        "color":"BROWN",
-        "price": "2990.00",
-        "id": "800",
-        "cat": "men"
-      },
-      {
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/371/1063035711_2_1_1.jpg?ts=1648724945307",
-        "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
-        "name": "STRIPED SHIRT",
-        "price": "2990.00",
-        "id": "801",
-        "cat": "men"
-      },
-      {
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/4310/859/420/2/w/312/4310859420_2_4_1.jpg?ts=1648116157310",
-        "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
-        "name": "STRIPED SHIRT",
-        "price": "2990.00",
-        "id": "802",
-        "cat": "men"
-      },
-      {
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/1063/034/710/2/w/750/1063034710_6_1_1.jpg?ts=1648724590667",
-        "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
-        "name": "STRIPED SHIRT",
-        "price": "2990.00",
-        "color":"BROWN",
-        "id": "803",
-        "cat": "men"
-      },
-      {
-        "image": "https://static.zara.net/photos///2022/V/0/1/p/7545/211/712/2/w/750/7545211712_1_1_1.jpg?ts=1650297379300",
-        "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
-        "name": "STRIPED SHIRT",
-        "price": "2990.00",
-        "color":"BROWN",
-        "id": "804",
-        "cat": "men"
-      },
-      {
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/750/1063035711_1_1_1.jpg?ts=1648724945973",
-        "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
-        "name": "STRIPED SHIRT",
-        "price": "2990.00",
-        "id": "805",
-        "color":"BROWN",
-        "cat": "men"
-      },
-      {
-        "image": "https://static.zara.net/photos///2022/V/0/1/p/1063/407/620/4/w/750/1063407620_1_1_1.jpg?ts=1648141096831",
-        "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
-        "name": "STRIPED SHIRT",
-        "price": "2990.00",
-        "id": "806",
-        "color":"BROWN",
-        "cat": "men"
-      },
-      {
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/1063/407/500/2/w/750/1063407500_2_1_1.jpg?ts=1642421895539",
-        "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
-        "name": "STRIPED SHIRT",
-        "price": "2990.00",
-        "color":"BROWN",
-        "id": "807",
-        "cat": "men"
-      },
-      {
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/2675/409/710/2/w/750/2675409710_2_5_1.jpg?ts=1648806739723",
-        "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
-        "name": "STRIPED SHIRT",
-        "price": "2990.00",
-        "color":"BROWN",
-        "id": "808",
-        "cat": "men"
-      },
-      {
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/4085/474/800/2/w/750/4085474800_2_1_1.jpg?ts=1644944145830",
-        "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
-        "name": "STRIPED SHIRT",
-        "price": "2990.00",
-        "color":"BROWN",
-        "id": "809",
-        "cat": "men"
-      },
-      {
-        "image": "https://static.zara.net/photos///2022/V/0/1/p/8574/435/052/6/w/750/8574435052_1_1_1.jpg?ts=1648141497642",
-        "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
-        "name": "STRIPED SHIRT",
-        "color":"BROWN",
-        "price": "2990.00",
-        "id": "810",
-        "cat": "men"
-      },
-      {
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/8574/432/250/2/w/750/8574432250_1_1_1.jpg?ts=1647601084045",
-        "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
-        "name": "STRIPED SHIRT",
-        "price": "2990.00",
-        "id": "811",
-        "cat": "men"
-      },
-      {
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/4310/859/420/2/w/750/4310859420_1_1_1.jpg?ts=1648116144124",
-        "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
-        "name": "STRIPED SHIRT",
-        "price": "2990.00",
-        "id": "812",
-        "cat": "men"
-      },
-      {
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/8211/404/052/2/w/750/8211404052_2_5_1.jpg?ts=1647359010398",
-        "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
-        "name": "COTTON - LINEN SHIRT",
-        "color":"BROWN",
-        "price": "2990.00",
-        "id": "813",
-        "cat": "men"
-      },
-      {
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/2675/409/710/2/w/312/2675409710_2_1_1.jpg?ts=1648800371002",
-        "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
-        "name": "STRIPED COTTON/LINEN BLEND SHIRT",
-        "color":"BROWN",
-        "price": "2990.00",
-        "id": "814",
-        "cat": "men"
-      },
-      {
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/6861/555/505/2/w/750/6861555505_2_1_1.jpg?ts=1648211645635",
-        "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
-        "name": "COTTON - LINEN TROUSERS",
-        "price": "2990.00",
-        "id": "815",
-        "color":"BROWN",
-        "cat": "men"
-      },
-      {
-        "image": "https://static.zara.net/photos///2022/V/0/2/p/4489/965/500/2/w/750/4489965500_2_4_1.jpg?ts=1650450161668",
-        "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
-        "name": "COTTON - LINEN TROUSERS",
-        "price": "2990.00",
-        "id": "816",
-        "color":"BROWN",
-        "cat": "men"
-      }
-    ],
-    "ALL":
-
-    [
-        {
-          "id":1,
-        "productlink href": "https://www.zara.com/in/en/wrap-style-trousers-p04886004.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/4886/004/800/22/w/458/4886004800_1_1_1.jpg?ts=1679413831665",
-        "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
-        "color": 6,
-        "name": "WRAP-STYLE TROUSERS",
-
-        "price":  3290.00
-        },
-        {
-          "id":2,
-        "productlink href": "https://www.zara.com/in/en/wrap-style-trousers-p04886004.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/4886/004/800/2/w/458/4886004800_2_5_1.jpg?ts=1679323851157",
-        "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
-        "color": 6,
-        "name": "WRAP-STYLE TROUSERS",
-        "price":  3290.00
-        },
-        {
-          "id":3,
-        "productlink href": "https://www.zara.com/in/en/pleated-midi-dress-p01165079.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/1165/079/800/2/w/458/1165079800_2_1_1.jpg?ts=1679323787754",
-        "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
-        "color": 6,
-        "name": "PLEATED MIDI DRESS",
-   
-        "price":  3290.00
-        },
-        {
-          "id":4,
-        "productlink href": "https://www.zara.com/in/en/bandeau-top-p00264091.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/0264/091/620/2/w/458/0264091620_2_4_1.jpg?ts=1679323776165",
-        "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
-        "name": "BANDEAU TOP",
- 
-        "color":6,
-        "price":  2290.00
-        },
-        {
-          "id":5,
-        "productlink href": "https://www.zara.com/in/en/satin-midi-skirt-p02718965.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/2718/965/620/2/w/458/2718965620_1_1_1.jpg?ts=1676304261080",
-        "image2": "",
-        "name": "SATIN MIDI SKIRT",
-  
-        "color":6,
-        "price":  2990.00
-        },
-        {
-          "id":6,
-        "productlink href": "https://www.zara.com/in/en/satin-camisole-top-p02710965.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/2710/965/620/2/w/458/2710965620_6_20_1.jpg?ts=1676302028762",
-        "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
-        "name": "SATIN CAMISOLE TOP",
-        "color": 6,
-
-        "price":  2890.00
-        },
-        {
-          "id":7,
-        "productlink href": "https://www.zara.com/in/en/short-full-dress-p02487707.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/2487/707/942/2/w/458/2487707942_2_3_1.jpg?ts=1676371087273",
-        "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
-        "name": "SHORT FULL DRESS",
-      
-        "color":1,
-        "price":  5990.00
-        },
-        {
-          "id":8,
-        "productlink href": "https://www.zara.com/in/en/oversize-double-breasted-blazer---limited-edition-p02249457.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/750/2298115400_2_3_1.jpg?ts=1680103887784",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/750/2298115400_6_1_1.jpg?ts=1679399771292",
-        "name": "OVERSIZE DOUBLE-BREASTED BLAZER - LIMITED EDITION",
-  
-        "color":6,
-        "price":  9590.00
-        },
-        {
-          "id":13,
-        "productlink href": "https://www.zara.com/in/en/long-flowing-trousers-p02216483.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/3666/105/172/2/w/622/3666105172_2_1_1.jpg?ts=1679915847947",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/3006/351/679/2/w/305/3006351679_2_6_1.jpg?ts=1680173555016",
-        "name": "LONG FLOWING TROUSERS",
-     
-        "color":1,
-        "price":  2990.00
-        },
-        {
-          "id":9,
-        "productlink href": "https://www.zara.com/in/en/tuxedo-collar-blazer-with-belt-p02225483.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/5216/061/080/2/w/750/5216061080_1_1_1.jpg?ts=1679561438661",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/5216/061/080/2/w/750/5216061080_2_1_1.jpg?ts=1679561440838",
-        "name": "TUXEDO COLLAR BLAZER WITH BELT",
-        "color": 5,
-        "price":  8590.00
-        },
-        {
-          "id":10,
-        "productlink href": "https://www.zara.com/in/en/tuxedo-collar-blazer-with-belt-p02225483.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/2676/530/505/12/w/750/2676530505_1_1_1.jpg?ts=1680088576966",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/2676/530/505/12/w/750/2676530505_2_2_1.jpg?ts=1680088576844",
-        "name": "TUXEDO COLLAR BLAZER WITH BELT",
-        
-        "color":6,
-        "price":  8590.00
-        },
-        {
-          "id":11,
-        "productlink href": "https://www.zara.com/in/en/high-heel-fabric-slingback-shoes-p12276110.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/2676/530/505/2/w/750/2676530505_6_2_1.jpg?ts=1677071587242",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/2676/530/505/2/w/750/2676530505_6_3_1.jpg?ts=1677071590557",
-        "name": "HIGH-HEEL FABRIC SLINGBACK SHOES",
-    
-        "color":3,
-        "price":  3290.00
-        },
-        {
-          "id":15,
-        "productlink href": "https://www.zara.com/in/en/pleated-midi-dress-p07969053.html",
-        "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
-        "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
-        "name": "PLEATED MIDI DRESS",
-        "price":  4990.00
-        },
-        {
-          "id":14,
-        "productlink href": "https://www.zara.com/in/en/chiffon-cape-p08741005.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_1_1_1.jpg?ts=1680085342124",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_2_2_1.jpg?ts=1680085341313",
-        "name": "CHIFFON CAPE",
-        "color":6,
-        "price":  2990.00
-        },
-        {
-          "id":16,
-        "productlink href": "https://www.zara.com/in/en/pleated-top-p09878105.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_2_4_1.jpg?ts=1680085344924",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_2_5_1.jpg?ts=1680085344245",
-        "name": "PLEATED TOP",
-        "color":3,
-        "price":  2890.00
-        },
-        {
-          "id":17,
-        "productlink href": "https://www.zara.com/in/en/cropped-trousers-p02719695.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_6_1_1.jpg?ts=1680085004044",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_6_3_1.jpg?ts=1680085083605",
-        "name": "CROPPED TROUSERS",
-        "color":6,
-        "price":  2990.00
-        },
-        {
-          "id":18,
-        "productlink href": "https://www.zara.com/in/en/double-breasted-oversized-blazer-p02421888.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/2142/066/800/17/w/750/2142066800_1_1_1.jpg?ts=1680094671316",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/2142/066/800/17/w/2400/2142066800_2_1_1.jpg?ts=1680094671924",
-        "name": "DOUBLE-BREASTED OVERSIZED BLAZER",
-        "color":4,
-        "price":  6990.00
-        },
-        {
-          "id":19,
-        "productlink href": "https://www.zara.com/in/en/midi-dress-with-front-knot-p02866880.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/4786/049/501/17/w/750/4786049501_1_1_1.jpg?ts=1680013730230",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/4786/049/501/2/w/750/4786049501_6_1_1.jpg?ts=1679413018458",
-        "name": "MIDI DRESS WITH FRONT KNOT",
-        "color":6,
-        "price":  4990.00
-        },
-        {
-          "id":20,
-        "productlink href": "https://www.zara.com/in/en/short-tailored-waistcoat-p02966888.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/2966/888/942/2/w/458/2966888942_6_1_1.jpg?ts=1678878246521",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/2221/948/713/17/w/750/2221948713_1_1_1.jpg?ts=1680012547168",
-        "name": "SHORT TAILORED WAISTCOAT",
-        "color":4,
-        "price":  2890.00
-        },
-        {
-          "id":123,
-        "productlink href": "https://www.zara.com/in/en/cascading-floral-necklace-p04736072.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/2221/948/713/17/w/750/2221948713_1_1_1.jpg?ts=1680012547168",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/2221/948/713/2/w/750/2221948713_6_1_1.jpg?ts=1678206779292",
-        "name": "CASCADING FLORAL NECKLACE",
-        "color":3,
-        "price":  2890.00
-        },
-        {
-          "id":12323,
-        "productlink href": "https://www.zara.com/in/en/midi-dress-p04424314.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/4043/066/622/2/w/750/4043066622_1_1_1.jpg?ts=1679486550060",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/4043/066/622/2/w/750/4043066622_2_1_1.jpg?ts=1679486549684",
-        "name": "MIDI DRESS",
-        "color":4,
-        "price":  2590.00
-        },
-        {
-          "id":12443,
-        "productlink href": "https://www.zara.com/in/en/midi-dress-p04424314.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/4043/066/622/2/w/750/4043066622_2_2_1.jpg?ts=1679486550027",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/4043/066/622/2/w/750/4043066622_2_3_1.jpg?ts=1679486549632",
-        "name": "MIDI DRESS",
-        "color":6,
-        "price":  2590.00
-        },
-        {
-          "id":111,
-        "productlink href": "https://www.zara.com/in/en/dress-with-seams-and-gathering-p04661321.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_1_1_1.jpg?ts=1680076914632",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_2_1_1.jpg?ts=1680076937265",
-        "name": "DRESS WITH SEAMS AND GATHERING",
-        "color":4,
-        "price":  2990.00
-        },
-        
-        { "id":17954,
-        "productlink href": "https://www.zara.com/in/en/high-heel-fabric-slingback-shoes-p12276110.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/3067/059/044/2/w/457/3067059044_2_1_1.jpg?ts=1679652485306",
-        "image2": "https://static.zara.net/photos///contents/mkt/spots/ss23-north-woman-new/subhome-xmedia-12-in//w/1920/IMAGE-landscape-fill-4bc11d3a-feda-419c-812a-6159e14882df-default_0.jpg?ts=1679585904255",
-        "name": "HIGH-HEEL FABRIC SLINGBACK SHOES",
-        "price":  3290.00
-        },
-        { "id":156874,
-        "productlink href": "https://www.zara.com/in/en/satin-shirt-p08741256.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/1889/033/427/17/w/305/1889033427_1_1_1.jpg?ts=1680172813592",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/1889/033/427/17/w/750/1889033427_2_3_1.jpg?ts=1680180064730",
-        "name": "SATIN SHIRT",
-        "color": 3,
-      
-        "price":  1990.00
-        },
-        { "id":15754,
-        "productlink href": "https://static.zara.net/photos///2023/V/0/1/p/3080/183/330/2/w/750/3080183330_1_1_1.jpg?ts=1679915870522",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/3080/183/330/2/w/750/3080183330_2_4_1.jpg?ts=1679915853030",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/3080/183/330/2/w/750/3080183330_2_4_1.jpg?ts=1679915853030",
-        "name": "SATIN TUNIC DRESS",
-       
-        "color":6,
-        "price":  7590.00
-        },
-        { "id":15456554,
-        "productlink href": "https://www.zara.com/in/en/straight-fit-minimalist-trousers-p02239707.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/2968/783/250/2/w/305/2968783250_2_8_1.jpg?ts=1680173020983",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/2998/783/250/2/w/750/2998783250_2_2_1.jpg?ts=1679915850358",
-        "name": "STRAIGHT FIT MINIMALIST TROUSERS",
-       
-        "color":6,
-        "price":  5990.00
-        },
-        { "id":189554,
-        "productlink href": "https://www.zara.com/in/en/contrast-high-heel-shoes-p12223110.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/2998/783/250/2/w/750/2998783250_6_1_1.jpg?ts=1680084825979",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/2998/783/250/2/w/750/2998783250_6_2_1.jpg?ts=1680084787048",
-        "name": "CONTRAST HIGH HEEL SHOES",
-        "color": 3,
-
-        "price":  3290.00
-        },
-        { "id":15464,
-        "productlink href": "https://www.zara.com/in/en/tailored-blazer-p02956624.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/2968/783/250/3/w/750/2968783250_1_1_1.jpg?ts=1679994330619",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/2968/783/250/3/w/750/2968783250_2_2_1.jpg?ts=1679994330044",
-        "color": 3,
-        "name": "TAILORED BLAZER",
-     
-        "price":  5990.00
-        },
-        { "id":1678654,
-        "productlink href": "https://www.zara.com/in/en/leather-heeled-mules-p12354110.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/2968/783/250/3/w/750/2968783250_2_4_1.jpg?ts=1679994333902",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/2968/783/250/3/w/750/2968783250_2_5_1.jpg?ts=1679994330428",
-        "name": "LEATHER HEELED MULES",
-        "color":6,
-        "price":  5590.00
-        },
-        { "id":1456754,
-        "productlink href": "https://www.zara.com/in/en/tulip-necklace---special-edition-p04736091.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/2977/184/330/2/w/305/2977184330_2_8_1.jpg?ts=1680103941121",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/3105/204/330/2/w/305/3105204330_2_9_1.jpg?ts=1680103904067",
-        "name": "TULIP NECKLACE - SPECIAL EDITION",
-        "color":6,
-        "price":  2890.00
-        },
-        { "id":15744,
-        "productlink href": "https://www.zara.com/in/en/feather-rhinestone-necklace-p04736071.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/8372/027/712/2/w/305/8372027712_1_1_1.jpg?ts=1680103881259",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/8372/027/712/2/w/305/8372027712_2_3_1.jpg?ts=1680103880050",
-        "name": "FEATHER RHINESTONE NECKLACE",
-        "color":6,
-        "price":  4990.00
-        },
-        { "id":134554,
-        "productlink href": "https://www.zara.com/in/en/straight-fit-printed-trousers-p03013195.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/2298/077/088/12/w/305/2298077088_2_7_1.jpg?ts=1680173643211",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/2298/077/088/12/w/305/2298077088_2_7_1.jpg?ts=1680173643211",
-        "name": "STRAIGHT FIT PRINTED TROUSERS",
-        "price":  2990.00
-        },
-        { "id":154364,
-        "productlink href": "https://www.zara.com/in/en/long-printed-dress-p02183068.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/3167/129/052/2/w/750/3167129052_6_2_1.jpg?ts=1680084863430",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/3167/129/052/2/w/750/3167129052_6_4_1.jpg?ts=1680084862077",
-        "name": "LONG PRINTED DRESS",
-        "color":6,
-        "price":  3990.00
-        },
-        { "id":12644,
-        "productlink href": "https://www.zara.com/in/en/slip-dress-with-elasticasted-straps-p02016616.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/622/2298115400_2_1_1.jpg?ts=1680103886431",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/750/2298115400_2_1_1.jpg?ts=1680103886431",
-        "name": "SLIP DRESS WITH ELASTICASTED STRAPS",
-        "color": 3,
-       
-        "price":  2990.00
-        },
-        { "id":155644,
-        "productlink href": "https://www.zara.com/in/en/dress-with-asymmetric-hem-p02180340.html",
-        "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
-        "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
-        "name": "DRESS WITH ASYMMETRIC HEM",
-        "color": 3,
-       
-        "price":  3990.00
-        },
-        { "id":152364,
-        "productlink href": "https://www.zara.com/in/en/clutch-bag-with-studs-p16000110.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_2_2_1.jpg?ts=1680076913378",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_2_3_1.jpg?ts=1680076909736",
-        "name": "CLUTCH BAG WITH STUDS",
-       
-        "color":6,
-        "price":  1990.00
-        },
-        { "id":15944,
-        "productlink href": "https://www.zara.com/in/en/pearl-hoop-earrings-p04736113.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_2_5_1.jpg?ts=1680076942649",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_6_1_1.jpg?ts=1680085037540",
-        "name": "PEARL HOOP EARRINGS",
-        
-        "color":6,
-        "price":  1590.00
-        },
-        { "id":156334,
-        "productlink href": "https://www.zara.com/in/en/flowing-jacquard-blazer-p02266596.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/3666/098/330/2/w/750/3666098330_1_1_1.jpg?ts=1680076909762",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/3666/098/330/2/w/750/3666098330_2_1_1.jpg?ts=1680076932020",
-        "name": "FLOWING JACQUARD BLAZER",
-        "color":6,
-        
-        "price":  4990.00
-        },
-        { "id":157544,
-        "productlink href": "https://www.zara.com/in/en/dress-with-a-sweetheart-neckline-p02670187.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/3666/098/330/2/w/750/3666098330_2_3_1.jpg?ts=1680076909863",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/3666/098/330/2/w/750/3666098330_6_1_1.jpg?ts=1680084895270",
-        "name": "DRESS WITH A SWEETHEART NECKLINE",
-        "price":  4990.00
-        },
-        { "id":152344,
-        "productlink href": "https://www.zara.com/in/en/resin-flower-earrings-p04548032.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/3102/939/544/2/w/750/3102939544_1_1_1.jpg?ts=1680081846504",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/3102/939/544/2/w/750/3102939544_6_2_1.jpg?ts=1680084811877",
-        "name": "TAILORED LINEN BLEND WAISTCOAT",
-        "color":6,
-        "price":  1890.00
-        },
-        { "id":167554,
-        "productlink href": "https://www.zara.com/in/en/long-tulle-cape-p00653018.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/3564/088/505/2/w/750/3564088505_1_1_1.jpg?ts=1680076935770",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/3564/088/505/2/w/750/3564088505_2_1_1.jpg?ts=1680076909791",
-        "name": "LONG TULLE CAPE",
-        "color":6,
-        "price":  2990.00
-        },
-        { "id":153564,
-        "productlink href": "https://www.zara.com/in/en/satin-slip-dress-p02726331.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/750/2298115400_1_1_1.jpg?ts=1680103887381",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/750/2298115400_2_2_1.jpg?ts=1680103880172",
-        "name": "SATIN SLIP DRESS",
-        "color":6,
-        "price":  3990.00
-        },
-        { "id":18454,
-        "productlink href": "https://www.zara.com/in/en/faux-pearl-rhinestone-necklace-p04736026.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/3564/097/250/2/w/750/3564097250_2_8_1.jpg?ts=1680173755345",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/3564/097/250/2/w/750/3564097250_6_1_1.jpg?ts=1679412340571",
-        "name": "FAUX PEARL RHINESTONE NECKLACE",
-     
-        "color":6,
-        "price":  2590.00
-        },
-        { "id":151254,
-        "productlink href": "https://www.zara.com/in/en/midi-dress-with-gathering-p01165073.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/2142/047/250/17/w/750/2142047250_1_1_1.jpg?ts=1680094670788",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/2142/047/250/17/w/750/2142047250_2_1_1.jpg?ts=1680094670149",
-        "name": "MIDI DRESS WITH GATHERING",
-    
-        "color":6,
-        "price":  2990.00
-        },
-        { "id":1543124,
-        "productlink href": "https://www.zara.com/in/en/midi-dress-with-gathering-p01165073.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/4331/036/505/2/w/750/4331036505_1_1_1.jpg?ts=1680083943063",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/4331/036/505/2/w/750/4331036505_2_1_1.jpg?ts=1680083942377",
-        "name": "MIDI DRESS WITH GATHERING",
-      
-        "color":6,
-        "price":  2990.00
-        },
-        {
-          "id":154223124,
-        "productlink href": "https://www.zara.com/in/en/strappy-high-heel-leather-sandals-p12336110.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/4331/036/505/2/w/750/4331036505_2_2_1.jpg?ts=1680083943173",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/4331/036/505/2/w/750/4331036505_2_3_1.jpg?ts=1680083942919",
-        "name": "STRAPPY HIGH-HEEL LEATHER Dress",
-       
-        "color":6,
-        "price":  5990.00
-        },
-        { "id":1524354,
-        "productlink href": "https://www.zara.com/in/en/ribbed-bodysuit-with-organza-ruffles-p00858331.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/2907/707/712/2/w/750/2907707712_1_1_1.jpg?ts=1680011061033",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/2907/707/712/2/w/750/2907707712_2_1_1.jpg?ts=1680011061458",
-        "name": "RIBBED BODYSUIT WITH ORGANZA RUFFLES",
-      
-        "color":6,
-        "price":  2290.00
-        },
-        {
-          "id":15432323124,
-        "productlink href": "https://www.zara.com/in/en/flowing-jacquard-blazer-p02266596.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/2907/707/712/2/w/750/2907707712_2_3_1.jpg?ts=1680092204555",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/2907/707/712/2/w/750/2907707712_2_3_1.jpg?ts=1680092204555",
-        "name": "FLOWING JACQUARD BLAZER",
-       
-        "color":6,
-        "price":  4990.00
-        },
-        { "id":153234,
-        "productlink href": "https://www.zara.com/in/en/maxi-cascade-necklace-with-faux-pearls-p01856097.html",
-        "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.pnghttps://static.zara.net/photos///2023/V/0/1/p/6929/406/050/2/w/750/6929406050_1_1_1.jpg?ts=1680089326145",
-         "imagw2":"https://static.zara.net/photos///2023/V/0/1/p/6929/406/050/2/w/750/6929406050_2_1_1.jpg?ts=1680089327312",
-        "name": "MAXI CASCADE NECKLACE WITH FAUX PEARLS",
-     
-        "color":6,
-        "price":  5990.00
-        },
-        {
-          "id":1522243124,
-        "productlink href": "https://www.zara.com/in/en/cascade-ear-cuff-with-faux-pearls-p01856098.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/3198/500/250/2/w/750/3198500250_1_1_1.jpg?ts=1680012649773",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/3198/500/250/2/w/750/3198500250_2_1_1.jpg?ts=1680012650004",
-        "name": "CASCADE EAR CUFF WITH FAUX PEARLS",
-     
-        "color":6,
-        "price":  1590.00
-        },
-        { "id":154354,
-        "productlink href": "https://www.zara.com/in/en/maxi-cascade-necklace-with-faux-pearls-p01856097.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/4331/037/505/2/w/622/4331037505_1_1_1.jpg?ts=1680083942733",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/4331/037/505/2/w/750/4331037505_2_1_1.jpg?ts=1680083942964",
-        "name": "MAXI CASCADE NECKLACE WITH FAUX PEARLS",
-      
-        "color":6,
-        "price":  5990.00
-        },
-        {
-          "id":152243124,
-        "productlink href": "https://www.zara.com/in/en/maxi-cascade-necklace-with-faux-pearls-p01856097.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/1277/002/807/2/w/750/1277002807_1_1_1.jpg?ts=1679911933493",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/1277/002/807/2/w/750/1277002807_2_2_1.jpg?ts=1679911933508",
-        "name": "MAXI CASCADE NECKLACE WITH FAUX PEARLS",
-    
-        "color":6,
-        "price":  5990.00
-        },
-        { "id":1133454,
-        "productlink href": "https://www.zara.com/in/en/knit-dress-with-contrast-detail-p02142019.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/1277/002/807/2/w/750/1277002807_2_4_1.jpg?ts=1679911933303",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/1277/002/807/2/w/750/1277002807_2_3_1.jpg?ts=1679911933898",
-       
-        "name": "KNIT DRESS WITH CONTRAST DETAIL",
-        "color":2,
-        "price":  5990.00
-        },
-        { "id":186254,
-        "productlink href": "https://www.zara.com/in/en/printed-jacket-with-fringing-p02963194.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/4886/152/615/2/w/750/4886152615_1_1_1.jpg?ts=1680106163805",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/4886/152/615/2/w/750/4886152615_6_1_1.jpg?ts=1680085010056",
-        "name": "PRINTED JACKET WITH FRINGING",
-     
-        "color":2,
-        "price":  4990.00
-        },
-        { "id":144554,
-        "productlink href": "https://www.zara.com/in/en/satin-dress-with-cut-out-detail-p09878137.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/3920/018/808/2/w/750/3920018808_6_1_1.jpg?ts=1680084936663",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/3920/018/808/2/w/750/3920018808_6_3_1.jpg?ts=1680084938766",
-        "name": "SATIN DRESS WITH CUT-OUT DETAIL",
-     
-        "color":2,
-        "price":  2990.00
-        },
-        { "id":124454,
-        "productlink href": "https://www.zara.com/in/en/camisole-dress-with-buttons-p04387064.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/3564/087/505/2/w/750/3564087505_1_1_1.jpg?ts=1680076908393",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/3564/087/505/2/w/750/3564087505_2_1_1.jpg?ts=1680076938739",
-        "name": "CAMISOLE DRESS WITH BUTTONS",
-     
-        "color":2,
-        "price":  2890.00
-        },
-        { "id":1555564,
-        "productlink href": "https://www.zara.com/in/en/slip-dress-with-elasticasted-straps-p02016616.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/2221/102/711/17/w/750/2221102711_1_1_1.jpg?ts=1680012548037",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/2221/102/711/2/w/750/2221102711_6_1_1.jpg?ts=1678458308542",
-        "name": "SLIP DRESS WITH ELASTICASTED STRAPS",
-       
-        "color":1,
-        "price":  2990.00
-        },
-        {
-           "id":152444,
-        "productlink href": "https://www.zara.com/in/en/printed-jacket-with-fringing-p02963194.html",
-        "image": "https://static.zara.net/photos///2023/V/0/1/p/3390/018/481/17/w/305/3390018481_1_1_1.jpg?ts=1680094673166",
-        "image2": "https://static.zara.net/photos///2023/V/0/1/p/3390/018/481/17/w/750/3390018481_2_2_1.jpg?ts=1680094672558",
-        "name": "PRINTED JACKET WITH FRINGING",
-        
-        "color":null,
-        "price":  4990.00
-        }
-        ],
-  "mens":[
+  "Linen_data": [
     {
-    "id": 1,
-    "type": "jackets",
-    "category": "mens",
-    "name href": "https://www.zara.com/in/en/basic-bomber-jacket-p04302408.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/8574/347/250/2/w/750/8574347250_1_1_1.jpg?ts=1675265762444",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/8574/347/250/2/w/750/8574347250_2_1_1.jpg?ts=1675265761100",
-    "name": "BASIC BOMBER JACKET",
-    "color": 2,
-    "price": 2990
+      "image": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/750/1063035711_1_1_1.jpg?ts=1648724945973",
+      "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
+      "name": "STRIPED SHIRT",
+      "color":"BROWN",
+      "price": "2990.00",
+      "id": "800",
+      "cat": "men"
     },
     {
-    "id": 2,
-    "type": "jackets",
-    "category": "mens",
-    "name href": "https://www.zara.com/in/en/water-repellent-technical-jacket-p01538303.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/1538/303/800/2/w/382/1538303800_2_1_1.jpg?ts=1676881489770",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/1538/303/800/2/w/382/1538303800_2_1_1.jpg?ts=1676881489770",
-    "name": "WATER-REPELLENT TECHNICAL JACKET",
-    "color": 3,
-    "price": 4990
+      "image": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/371/1063035711_2_1_1.jpg?ts=1648724945307",
+      "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
+      "name": "STRIPED SHIRT",
+      "price": "2990.00",
+      "id": "801",
+      "cat": "men"
     },
     {
-    "id": 3,
-    "category": "mens",
-    "type": "jackets",
-    "name href": "https://www.zara.com/in/en/faux-suede-bomber-jacket-p08574333.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/8574/333/732/2/w/382/8574333732_2_1_1.jpg?ts=1678438191969",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/8574/333/732/2/w/382/8574333732_2_1_1.jpg?ts=1678438191969",
-    "name": "FAUX SUEDE BOMBER JACKET",
-    "color": 2,
-    "price": 4990
+      "image": "https://static.zara.net/photos///2022/V/0/2/p/4310/859/420/2/w/312/4310859420_2_4_1.jpg?ts=1648116157310",
+      "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
+      "name": "STRIPED SHIRT",
+      "price": "2990.00",
+      "id": "802",
+      "cat": "men"
     },
     {
-    "id": 4,
-    "category": "mens",
-    "type": "jackets",
-    "name href": "https://www.zara.com/in/en/basic-bomber-jacket-p04302408.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/4302/408/806/2/w/382/4302408806_2_1_1.jpg?ts=1678438131826",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/4302/408/806/2/w/382/4302408806_2_1_1.jpg?ts=1678438131826",
-    "name": "BASIC BOMBER JACKET",
-    "color": 2,
-    "price": 2990
+      "image": "https://static.zara.net/photos///2022/V/0/2/p/1063/034/710/2/w/750/1063034710_6_1_1.jpg?ts=1648724590667",
+      "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
+      "name": "STRIPED SHIRT",
+      "price": "2990.00",
+      "color":"BROWN",
+      "id": "803",
+      "cat": "men"
     },
     {
-    "id": 5,
-    "category": "mens",
-    "type": "jackets",
-    "name href": "https://www.zara.com/in/en/faux-suede-bomber-jacket-p06318488.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/6318/488/707/2/w/382/6318488707_2_1_1.jpg?ts=1675333045261",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/6318/488/707/2/w/382/6318488707_2_1_1.jpg?ts=1675333045261",
-    "name": "FAUX SUEDE BOMBER JACKET",
-    "color": 2,
-    "price": 4990
+      "image": "https://static.zara.net/photos///2022/V/0/1/p/7545/211/712/2/w/750/7545211712_1_1_1.jpg?ts=1650297379300",
+      "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
+      "name": "STRIPED SHIRT",
+      "price": "2990.00",
+      "color":"BROWN",
+      "id": "804",
+      "cat": "men"
     },
     {
-    "id": 6,
-    "category": "mens",
-    "type": "jackets",
-    "name href": "https://www.zara.com/in/en/puffer-technical-jacket-p08574561.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/8574/561/401/2/w/382/8574561401_2_1_1.jpg?ts=1674143785906",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/8574/561/401/2/w/382/8574561401_2_1_1.jpg?ts=1674143785906",
-    "name": "PUFFER TECHNICAL JACKET",
-    "color": 3,
-    "price": 2990
+      "image": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/750/1063035711_1_1_1.jpg?ts=1648724945973",
+      "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
+      "name": "STRIPED SHIRT",
+      "price": "2990.00",
+      "id": "805",
+      "color":"BROWN",
+      "cat": "men"
     },
     {
-    "id": 7,
-    "category": "mens",
-    "type": "jackets",
-    "name href": "https://www.zara.com/in/en/water-repellent-technical-jacket-p01538303.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/0484/300/401/2/w/382/0484300401_2_1_1.jpg?ts=1672764812385",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/0484/300/401/2/w/382/0484300401_2_1_1.jpg?ts=1672764812385",
-    "name": "WATER-REPELLENT TECHNICAL JACKET",
-    "color": 3,
-    "price": 4990
+      "image": "https://static.zara.net/photos///2022/V/0/1/p/1063/407/620/4/w/750/1063407620_1_1_1.jpg?ts=1648141096831",
+      "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
+      "name": "STRIPED SHIRT",
+      "price": "2990.00",
+      "id": "806",
+      "color":"BROWN",
+      "cat": "men"
     },
     {
-    "id": 8,
-    "category": "mens",
-    "type": "jackets",
-    "name href": "https://www.zara.com/in/en/rubberised-hooded-jacket-p08281311.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/8574/347/250/2/w/750/8574347250_2_1_1.jpg?ts=1675265761100",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/8574/347/250/2/w/750/8574347250_2_3_1.jpg?ts=1675265761259",
-    "name": "RUBBERISED HOODED JACKET",
-    "color": 2,
-    "price": 4990
+      "image": "https://static.zara.net/photos///2022/V/0/2/p/1063/407/500/2/w/750/1063407500_2_1_1.jpg?ts=1642421895539",
+      "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
+      "name": "STRIPED SHIRT",
+      "price": "2990.00",
+      "color":"BROWN",
+      "id": "807",
+      "cat": "men"
     },
     {
-    "id": 9,
-    "category": "mens",
-    "type": "jackets",
-    "name href": "https://www.zara.com/in/en/basic-bomber-jacket-p04302408.html",
-    "image": "https://static.zara.net/photos///2023/V/0/1/p/4302/408/401/2/w/382/4302408401_2_1_1.jpg?ts=1675766278191",
-    "image2": "https://static.zara.net/photos///2023/V/0/1/p/4302/408/401/2/w/382/4302408401_2_1_1.jpg?ts=1675766278191",
-    "name": "BASIC BOMBER JACKET",
-    "color": 2,
-    "price": 2990
+      "image": "https://static.zara.net/photos///2022/V/0/2/p/2675/409/710/2/w/750/2675409710_2_5_1.jpg?ts=1648806739723",
+      "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
+      "name": "STRIPED SHIRT",
+      "price": "2990.00",
+      "color":"BROWN",
+      "id": "808",
+      "cat": "men"
     },
     {
-    "id": 10,
-    "category": "mens",
-    "type": "jackets",
-    "name href": "https://www.zara.com/in/en/technical-bomber-jacket-p08281315.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/8574/347/250/2/w/750/8574347250_2_5_1.jpg?ts=1675265760676",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/8574/347/250/2/w/750/8574347250_2_6_1.jpg?ts=1675265761683",
-    "name": "TECHNICAL BOMBER JACKET",
-    "color": 2,
-    "price": 2990
+      "image": "https://static.zara.net/photos///2022/V/0/2/p/4085/474/800/2/w/750/4085474800_2_1_1.jpg?ts=1644944145830",
+      "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
+      "name": "STRIPED SHIRT",
+      "price": "2990.00",
+      "color":"BROWN",
+      "id": "809",
+      "cat": "men"
     },
     {
-    "id": 11,
-    "type": "jackets",
-    "category": "mens",
-    "name href": "https://www.zara.com/in/en/puffer-technical-jacket-p08574561.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/8211/309/052/2/w/750/8211309052_1_1_1.jpg?ts=1677836236140",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/8211/309/052/2/w/750/8211309052_2_1_1.jpg?ts=1677836221265",
-    "name": "PUFFER TECHNICAL JACKET",
-    "color": 3,
-    "price": 2990
+      "image": "https://static.zara.net/photos///2022/V/0/1/p/8574/435/052/6/w/750/8574435052_1_1_1.jpg?ts=1648141497642",
+      "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
+      "name": "STRIPED SHIRT",
+      "color":"BROWN",
+      "price": "2990.00",
+      "id": "810",
+      "cat": "men"
     },
     {
-    "id": 12,
-    "type": "jackets",
-    "category": "mens",
-    "name href": "https://www.zara.com/in/en/basic-bomber-jacket-p06518400.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/5679/448/250/2/w/750/5679448250_1_1_1.jpg?ts=1669797028465",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/5679/448/250/2/w/750/5679448250_2_2_1.jpg?ts=1669797034771",
-    "name": "BASIC BOMBER JACKET",
-    "color": 2,
-    "price": 4990
+      "image": "https://static.zara.net/photos///2022/V/0/2/p/8574/432/250/2/w/750/8574432250_1_1_1.jpg?ts=1647601084045",
+      "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
+      "name": "STRIPED SHIRT",
+      "price": "2990.00",
+      "id": "811",
+      "cat": "men"
     },
     {
-    "id": 24,
-    "type": "jackets",
-    "name href": "https://www.zara.com/in/en/faux-suede-bomber-jacket-p08574333.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/5679/448/250/2/w/750/5679448250_2_4_1.jpg?ts=1669797026791",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/5679/448/250/2/w/750/5679448250_6_1_1.jpg?ts=1669648693791",
-    "name": "FAUX SUEDE BOMBER JACKET",
-    "color": 2,
-    "price": 4990
+      "image": "https://static.zara.net/photos///2022/V/0/2/p/4310/859/420/2/w/750/4310859420_1_1_1.jpg?ts=1648116144124",
+      "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
+      "name": "STRIPED SHIRT",
+      "price": "2990.00",
+      "id": "812",
+      "cat": "men"
     },
     {
-    "id": 13,
-    "category": "mens",
-    "type": "jackets",
-    "name href": "https://www.zara.com/in/en/technical-bomber-jacket-p08281315.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/5679/447/403/2/w/750/5679447403_1_1_1.jpg?ts=1669797030375",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/5679/447/403/2/w/750/5679447403_2_2_1.jpg?ts=1669797048675",
-    "name": "TECHNICAL BOMBER JACKET",
-    "color": 2,
-    "price": 2990
+      "image": "https://static.zara.net/photos///2022/V/0/2/p/8211/404/052/2/w/750/8211404052_2_5_1.jpg?ts=1647359010398",
+      "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
+      "name": "COTTON - LINEN SHIRT",
+      "color":"BROWN",
+      "price": "2990.00",
+      "id": "813",
+      "cat": "men"
     },
     {
-    "id": 14,
-    "category": "mens",
-    "type": "jackets",
-    "name href": "https://www.zara.com/in/en/puffer-technical-jacket-p08574561.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/5679/447/403/2/w/750/5679447403_2_3_1.jpg?ts=1669797022044",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/5679/447/403/2/w/750/5679447403_2_5_1.jpg?ts=1669797049686",
-    "name": "PUFFER TECHNICAL JACKET",
-    "color": 3,
-    "price": 2990
+      "image": "https://static.zara.net/photos///2022/V/0/2/p/2675/409/710/2/w/312/2675409710_2_1_1.jpg?ts=1648800371002",
+      "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
+      "name": "STRIPED COTTON/LINEN BLEND SHIRT",
+      "color":"BROWN",
+      "price": "2990.00",
+      "id": "814",
+      "cat": "men"
     },
     {
-    "id": 15,
-    "category": "mens",
-    "type": "jackets",
-    "name href": "https://www.zara.com/in/en/faux-suede-jacket-p03548685.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/3548/685/706/2/w/382/3548685706_2_1_1.jpg?ts=1678178230689",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/3548/685/706/2/w/382/3548685706_2_1_1.jpg?ts=1678178230689",
-    "name": "FAUX SUEDE JACKET",
-    "color": 1,
-    "price": 5990
+      "image": "https://static.zara.net/photos///2022/V/0/2/p/6861/555/505/2/w/750/6861555505_2_1_1.jpg?ts=1648211645635",
+      "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
+      "name": "COTTON - LINEN TROUSERS",
+      "price": "2990.00",
+      "id": "815",
+      "color":"BROWN",
+      "cat": "men"
     },
     {
-    "id": 16,
-    "type": "jackets",
-    "category": "mens",
-    "name href": "https://www.zara.com/in/en/faux-suede-jacket-p03548685.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/4393/533/800/2/w/750/4393533800_1_1_1.jpg?ts=1677229633628",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/4393/533/800/2/w/750/4393533800_2_3_1.jpg?ts=1677229632373",
-    "name": "FAUX SUEDE JACKET",
-    "color": 1,
-    "price": 5990
-    },
-    {
-    "id": 17,
-    "type": "jackets",
-    "category": "mens",
-    "name href": "https://www.zara.com/in/en/technical-bomber-jacket-p08281315.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/5679/447/403/2/w/750/5679447403_6_2_1.jpg?ts=1669648697208",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/5679/447/403/2/w/750/5679447403_6_3_1.jpg?ts=1669648718353",
-    "name": "TECHNICAL BOMBER JACKET",
-    "color": 2,
-    "price": 2990
-    },
-    {
-    "id": 18,
-    "type": "jackets",
-    "category": "mens",
-    "name href": "https://www.zara.com/in/en/faux-suede-bomber-jacket-p06318488.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/8211/309/481/2/w/750/8211309481_1_1_1.jpg?ts=1677836240263",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/8211/309/481/2/w/750/8211309481_2_2_1.jpg?ts=1677836237727",
-    "name": "FAUX SUEDE BOMBER JACKET",
-    "color": 2,
-    "price": 4990
-    },
-    {
-    "id": 19,
-    "category": "mens",
-    "type": "jackets",
-    "name href": "https://www.zara.com/in/en/basic-bomber-jacket-p06518400.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/8211/309/481/2/w/750/8211309481_2_3_1.jpg?ts=1677836239117",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/8211/309/481/2/w/750/8211309481_2_4_1.jpg?ts=1677836255902",
-    "name": "BASIC BOMBER JACKET",
-    "color": 2,
-    "price": 4990
-    },
-    {
-    "id": 20,
-    "type": "jackets",
-    "category": "mens",
-    "name href": "https://www.zara.com/in/en/basic-bomber-jacket-p06518400.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/8211/309/481/2/w/750/8211309481_2_5_1.jpg?ts=1677836239912",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/8211/309/481/2/w/750/8211309481_6_2_1.jpg?ts=1677079440373",
-    "name": "BASIC BOMBER JACKET",
-    "color": 2,
-    "price": 4990
-    },
-    {
-    "id": 21,
-    "category": "mens",
-    "type": "jackets",
-    "name href": "https://www.zara.com/in/en/faux-suede-bomber-jacket-p08574333.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/5679/449/403/2/w/750/5679449403_1_1_1.jpg?ts=1669797026112",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/5679/449/403/2/w/750/5679449403_2_2_1.jpg?ts=1669797046801",
-    "name": "FAUX SUEDE BOMBER JACKET",
-    "color": 2,
-    "price": 4990
-    },
-    {
-    "id": 22,
-    "category": "mens",
-    "type": "jackets",
-    "name href": "https://www.zara.com/in/en/rubberised-hooded-jacket-p08281311.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/2553/426/800/2/w/323/2553426800_1_1_1.jpg?ts=1675340199433",
-    "image2": "https://static.zara.net/photos///2023/V/0/1/p/5320/408/700/2/w/750/5320408700_1_1_1.jpg?ts=1677839902998",
-    "name": "RUBBERISED HOODED JACKET",
-    "color": 2,
-    "price": 4990
-    },
-    {
-    "id": 23,
-    "category": "mens",
-    "type": "jackets",
-    "name href": "https://www.zara.com/in/en/rubberised-hooded-jacket-p08281311.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/4393/689/052/2/w/323/4393689052_1_1_1.jpg?ts=1677150939615",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/4393/689/052/2/w/750/4393689052_2_2_1.jpg?ts=1677150938795",
-    "name": "RUBBERISED HOODED JACKET",
-    "color": 2,
-    "price": 4990
-    },
-    {
-    "id": 25,
-    "category": "mens",
-    "type": "T-shirt",
-    "name href": "https://www.zara.com/in/en/oversize-t-shirt-p00722418.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/0722/418/250/2/w/380/0722418250_2_1_1.jpg?ts=1679650224345",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/0722/418/250/2/w/380/0722418250_2_1_1.jpg?ts=1679650224345",
-    "name": "OVERSIZE T-SHIRT",
-    "color": 3,
-    "price": 2290
-    },
-    {
-    "id": 26,
-    "category": "mens",
-    "type": "T-shirt",
-    "name href": "https://www.zara.com/in/en/oversize-t-shirt-p00722418.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/0722/418/800/2/w/380/0722418800_6_1_1.jpg?ts=1679561843923",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/0722/418/250/2/w/380/0722418250_2_1_1.jpg?ts=1679650224345",
-    "name": "OVERSIZE T-SHIRT",
-    "color": 3,
-    "price": 2290
-    },
-    {
-    "id": 27,
-    "category": "mens",
-    "type": "T-shirt",
-    "name href": "https://www.zara.com/in/en/oversize-t-shirt-p00722418.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/0722/418/250/2/w/380/0722418250_6_1_1.jpg?ts=1679561842340",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/0722/418/250/2/w/380/0722418250_6_1_1.jpg?ts=1679561842340",
-    "name": "OVERSIZE T-SHIRT",
-    "color": 3,
-    "price": 2290
-    },
-    {
-    "id": 28,
-    "category": "mens",
-    "type": "T-shirt",
-    "name href": "https://www.zara.com/in/en/oversize-t-shirt-p00722418.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/0722/418/806/2/w/380/0722418806_6_1_1.jpg?ts=1679561843774",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/0722/418/806/2/w/380/0722418806_6_1_1.jpg?ts=1679561843774",
-    "name": "OVERSIZE T-SHIRT",
-    "color": 3,
-    "price": 2290
-    },
-    {
-    "id": 29,
-    "category": "mens",
-    "type": "T-shirt",
-    "name href": "https://www.zara.com/in/en/oversize-t-shirt-p00722418.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/0722/418/826/2/w/380/0722418826_6_1_1.jpg?ts=1679561844529",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/0722/418/826/2/w/380/0722418826_6_1_1.jpg?ts=1679561844529",
-    "name": "OVERSIZE T-SHIRT",
-    "color": 3,
-    "price": 2290
-    },
-    {
-    "id": 30,
-    "category": "mens",
-    "type": "T-shirt",
-    "name href": "https://www.zara.com/in/en/t-shirt-with-printed-patch-p04087420.html",
-    "image": "https://static.zara.net/photos///2023/V/0/1/p/5320/408/700/2/w/750/5320408700_1_1_1.jpg?ts=1677839902998",
-    "image2": "https://static.zara.net/photos///2023/V/0/1/p/5320/408/700/2/w/750/5320408700_2_1_1.jpg?ts=1677839903408",
-    "name": "T-SHIRT WITH PRINTED PATCH",
-    "color": null,
-    "price": 2290
-    },
-    {
-    "id": 31,
-    "category": "mens",
-    "type": "T-shirt",
-    "name href": "https://www.zara.com/in/en/t-shirt-with-matching-patch-p00761436.html",
-    "image": "https://static.zara.net/photos///2023/V/0/1/p/5320/408/700/2/w/750/5320408700_2_3_1.jpg?ts=1677839900274",
-    "image2": "https://static.zara.net/photos///2023/V/0/1/p/5320/408/700/2/w/750/5320408700_2_4_1.jpg?ts=1677839903898",
-    "name": "T-SHIRT WITH MATCHING PATCH",
-    "color": null,
-    "price": 2290
-    },
-    {
-    "id": 32,
-    "category": "mens",
-    "type": "T-shirt",
-    "name href": "https://www.zara.com/in/en/knit-t-shirt-with-pocket-p03166413.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/3166/413/712/2/w/380/3166413712_2_1_1.jpg?ts=1679650242501",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/3166/413/712/2/w/380/3166413712_2_1_1.jpg?ts=1679650242501",
-    "name": "KNIT T-SHIRT WITH POCKET",
-    "color": 2,
-    "price": 2990
-    },
-    {
-    "id": 33,
-    "category": "mens",
-    "type": "T-shirt",
-    "name href": "https://www.zara.com/in/en/knit-t-shirt-with-pocket-p03166413.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/3166/413/712/2/w/380/3166413712_6_1_1.jpg?ts=1679562006243",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/3166/413/712/2/w/380/3166413712_6_1_1.jpg?ts=1679562006243",
-    "name": "KNIT T-SHIRT WITH POCKET",
-    "color": 2,
-    "price": 2990
-    },
-    {
-    "id": 34,
-    "category": "mens",
-    "type": "T-shirt",
-    "name href": "https://www.zara.com/in/en/knit-t-shirt-with-pocket-p03166413.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/3166/413/731/2/w/380/3166413731_6_1_1.jpg?ts=1679562006410",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/3166/413/731/2/w/380/3166413731_6_1_1.jpg?ts=1679562006410",
-    "name": "KNIT T-SHIRT WITH POCKET",
-    "color": 2,
-    "price": 2990
-    },
-    {
-    "id": 35,
-    "category": "mens",
-    "type": "T-shirt",
-    "name href": "https://www.zara.com/in/en/relaxed-fit-long-sleeve-t-shirt-p00679441.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/0679/441/500/2/w/380/0679441500_2_1_1.jpg?ts=1679990294789",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/0679/441/500/2/w/380/0679441500_2_1_1.jpg?ts=1679990294789",
-    "name": "RELAXED FIT LONG SLEEVE T-SHIRT",
-    "color": null,
-    "price": 2590
-    },
-    {
-    "id": 36,
-    "category": "mens",
-    "type": "T-shirt",
-    "name href": "https://www.zara.com/in/en/t-shirt-with-pocket-p00722349.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/0722/349/052/2/w/380/0722349052_2_1_1.jpg?ts=1679481339979",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/0722/349/052/2/w/380/0722349052_2_1_1.jpg?ts=1679481339979",
-    "name": "T-SHIRT WITH POCKET",
-    "color": null,
-    "price": 2590
-    },
-    {
-    "id": 37,
-    "category": "mens",
-    "type": "T-shirt",
-    "name href": "https://www.zara.com/in/en/cropped-t-shirt-with-pocket-p00977402.html",
-    "image": "https://static.zara.net/photos///2023/V/0/1/p/2553/406/800/2/w/750/2553406800_1_1_1.jpg?ts=1677838964704",
-    "image2": "https://static.zara.net/photos///2023/V/0/1/p/2553/406/800/2/w/750/2553406800_2_2_1.jpg?ts=1677838968237",
-    "name": "CROPPED T-SHIRT WITH POCKET",
-    "color": null,
-    "price": 2290
-    },
-    {
-    "id": 38,
-    "category": "mens",
-    "type": "T-shirt",
-    "name href": "https://www.zara.com/in/en/basic-slim-fit-t-shirt-p05584461.html",
-    "image": "https://static.zara.net/photos///2023/V/0/1/p/2553/406/800/2/w/750/2553406800_2_3_1.jpg?ts=1677838967368",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/2553/406/800/2/w/750/2553406800_6_1_1.jpg?ts=1669721512667",
-    "name": "BASIC SLIM FIT T-SHIRT",
-    "color": 5,
-    "price": 990
-    },
-    {
-    "id": 39,
-    "category": "mens",
-    "type": "T-shirt",
-    "name href": "https://www.zara.com/in/en/basic-slim-fit-t-shirt-p05584461.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/2553/424/250/2/w/750/2553424250_1_1_1.jpg?ts=1675340809586",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/2553/424/250/2/w/750/2553424250_2_2_1.jpg?ts=1675340810009",
-    "name": "BASIC SLIM FIT T-SHIRT",
-    "color": 5,
-    "price": 990
-    },
-    {
-    "id": 40,
-    "category": "mens",
-    "type": "T-shirt",
-    "name href": "https://www.zara.com/in/en/basic-slim-fit-t-shirt-p05584461.html",
-    "image": "https://static.zara.net/stdstatic/3.15.1-b.2/images/transparent-background.png",
-    "image2": "https://static.zara.net/stdstatic/3.15.1-b.2/images/transparent-background.png",
-    "name": "BASIC SLIM FIT T-SHIRT",
-    "color": 5,
-    "price": 990
-    },
-    {
-    "id": 41,
-    "category": "mens",
-    "type": "T-shirt",
-    "name href": "https://www.zara.com/in/en/basic-slim-fit-t-shirt-p05584461.html",
-    "image": "https://static.zara.net/stdstatic/3.15.1-b.2/images/transparent-background.png",
-    "image2": "https://static.zara.net/stdstatic/3.15.1-b.2/images/transparent-background.png",
-    "name": "BASIC SLIM FIT T-SHIRT",
-    "color": 5,
-    "price": 990
-    },
-
-    {
-    "id": 47,
-    "type": "shirt",
-    "category": "mens",
-    "name href": "https://www.zara.com/in/en/modal-blend-shirt-p07545476.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/7545/476/800/2/w/380/7545476800_2_1_1.jpg?ts=1679648051358",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/7545/476/800/2/w/380/7545476800_2_1_1.jpg?ts=1679648051358",
-    "name": "MODAL BLEND SHIRT",
-    "color": 2,
-    "price": 3290
-    },
-    {
-    "id": 48,
-    "type": "shirt",
-    "category": "mens",
-    "name href": "https://www.zara.com/in/en/modal-blend-shirt-p07545476.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/7545/476/800/2/w/380/7545476800_6_1_1.jpg?ts=1678954774304",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/7545/476/800/2/w/380/7545476800_6_1_1.jpg?ts=1678954774304",
-    "name": "MODAL BLEND SHIRT",
-    "color": 2,
-    "price": 3290
-    },
-    {
-    "id": 49,
-    "type": "shirt",
-    "category": "mens",
-    "name href": "https://www.zara.com/in/en/modal-blend-shirt-p07545476.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/7545/476/251/2/w/380/7545476251_6_1_1.jpg?ts=1678894730689",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/7545/476/251/2/w/380/7545476251_6_1_1.jpg?ts=1678894730689",
-    "name": "MODAL BLEND SHIRT",
-    "color": 2,
-    "price": 3290
-    },
-    {
-    "id": 50,
-    "type": "shirt",
-    "category": "mens",
-    "name href": "https://www.zara.com/in/en/modal-blend-shirt-p07545476.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/7545/476/400/2/w/380/7545476400_6_1_1.jpg?ts=1678894783026",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/7545/476/400/2/w/380/7545476400_6_1_1.jpg?ts=1678894783026",
-    "name": "MODAL BLEND SHIRT",
-    "color": 2,
-    "price": 3290
-    },
-    {
-    "id": 51,
-    "type": "shirt",
-    "category": "mens",
-    "name href": "https://www.zara.com/in/en/viscose---linen-shirt-p04432410.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/4432/410/250/2/w/380/4432410250_2_1_1.jpg?ts=1675857804686",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/4432/410/250/2/w/380/4432410250_2_1_1.jpg?ts=1675857804686",
-    "name": "VISCOSE - LINEN SHIRT",
-    "color": 1,
-    "price": 2990
-    },
-    {
-    "id": 52,
-    "type": "shirt",
-    "category": "mens",
-    "name href": "https://www.zara.com/in/en/viscose---linen-shirt-p04432410.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/4432/410/052/2/w/380/4432410052_2_1_1.jpg?ts=1675872473523",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/4432/410/052/2/w/380/4432410052_2_1_1.jpg?ts=1675872473523",
-    "name": "VISCOSE - LINEN SHIRT",
-    "color": 1,
-    "price": 2990
-    },
-    {
-    "id": 53,
-    "type": "shirt",
-    "category": "mens",
-    "name href": "https://www.zara.com/in/en/striped-poplin-shirt-p04573883.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/4573/883/450/2/w/380/4573883450_2_1_1.jpg?ts=1678699884059",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/4573/883/450/2/w/380/4573883450_2_1_1.jpg?ts=1678699884059",
-    "name": "STRIPED POPLIN SHIRT",
-    "color": null,
-    "price": 3290
-    },
-    {
-    "id": 54,
-    "type": "shirt",
-    "category": "mens",
-    "name href": "https://www.zara.com/in/en/creased-effect-shirt-p06103480.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/6103/480/400/2/w/380/6103480400_2_1_1.jpg?ts=1679654173375",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/6103/480/400/2/w/380/6103480400_2_1_1.jpg?ts=1679654173375",
-    "name": "CREASED-EFFECT SHIRT",
-    "color": 3,
-    "price": 2990
-    },
-    {
-    "id": 60,
-    "type": "shirt",
-    "category": "mens",
-    "name href": "https://www.zara.com/in/en/creased-effect-shirt-p06103400.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/4087/408/712/2/w/750/4087408712_2_3_1.jpg?ts=1675339525534",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/4087/408/712/2/w/750/4087408712_2_4_1.jpg?ts=1675339530786",
-    "name": "CREASED-EFFECT SHIRT",
-    "color": 4,
-    "price": 2890
-    },
-    {
-    "id": 61,
-    "type": "shirt",
-    "category": "mens",
-    "name href": "https://www.zara.com/in/en/creased-effect-shirt-p06103400.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/4087/408/712/2/w/750/4087408712_1_1_1.jpg?ts=1675339526524",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/4087/408/712/2/w/750/4087408712_2_1_1.jpg?ts=1675339524579",
-    "name": "CREASED-EFFECT SHIRT",
-    "color": 4,
-    "price": 2890
-    },
-    {
-    "id": 62,
-    "type": "shirt",
-    "category": "mens",
-    "name href": "https://www.zara.com/in/en/creased-effect-shirt-p06103400.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/6987/438/405/2/w/750/6987438405_2_3_1.jpg?ts=1676017378072",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/6987/438/405/2/w/750/6987438405_2_4_1.jpg?ts=1676017406080",
-    "name": "CREASED-EFFECT SHIRT",
-    "color": 4,
-    "price": 2890
-    },
-    {
-    "id": 63,
-    "type": "shirt",
-    "category": "mens",
-    "name href": "https://www.zara.com/in/en/creased-effect-shirt-p06103400.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/6987/438/405/2/w/750/6987438405_1_1_1.jpg?ts=1676017375694",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/6987/438/405/2/w/750/6987438405_2_1_1.jpg?ts=1676017372270",
-    "name": "CREASED-EFFECT SHIRT",
-    "color": 4,
-    "price": 2890
-    },
-    {
-    "id": 64,
-    "type": "shirt",
-    "category": "mens",
-    "name href": "https://www.zara.com/in/en/creased-effect-shirt-p06103400.html",
-    "image": "https://static.zara.net/photos///2023/V/0/2/p/2553/424/250/2/w/750/2553424250_2_3_1.jpg?ts=1675340809639",
-    "image2": "https://static.zara.net/photos///2023/V/0/2/p/2553/424/250/2/w/750/2553424250_2_4_1.jpg?ts=1675340837143",
-    "name": "CREASED-EFFECT SHIRT",
-    "color": 4,
-    "price": 2890
+      "image": "https://static.zara.net/photos///2022/V/0/2/p/4489/965/500/2/w/750/4489965500_2_4_1.jpg?ts=1650450161668",
+      "image2": "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/441/1063035711_2_4_1.jpg?ts=1648724945267",
+      "name": "COTTON - LINEN TROUSERS",
+      "price": "2990.00",
+      "id": "816",
+      "color":"BROWN",
+      "cat": "men"
     }
-    ],
-    "avis":[
+  ],
+  "ALL":
+
+  [
       {
-        "id": 1,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw9b1d20fa/hi-res/SEF0270NAV_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Proper Blazer - Navy",
-        "price": 349
+        "id":1,
+      "productlink href": "https://www.zara.com/in/en/wrap-style-trousers-p04886004.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/4886/004/800/22/w/458/4886004800_1_1_1.jpg?ts=1679413831665",
+      "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+      "color": 6,
+      "name": "WRAP-STYLE TROUSERS",
+
+      "price":  3290.00
       },
       {
-        "id": 2,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw882eaaec/SEF0299COB_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Linen Cotton Check Jacket - Cobalt Blue",
-        "price": 349
+        "id":2,
+      "productlink href": "https://www.zara.com/in/en/wrap-style-trousers-p04886004.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/4886/004/800/2/w/458/4886004800_2_5_1.jpg?ts=1679323851157",
+      "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+      "color": 6,
+      "name": "WRAP-STYLE TROUSERS",
+      "price":  3290.00
       },
       {
-        "id": 3,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwd3d5d7db/hi-res/SEF0299TPE_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Linen Cotton Jacket - Taupe",
-        "price": 349
+        "id":3,
+      "productlink href": "https://www.zara.com/in/en/pleated-midi-dress-p01165079.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/1165/079/800/2/w/458/1165079800_2_1_1.jpg?ts=1679323787754",
+      "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+      "color": 6,
+      "name": "PLEATED MIDI DRESS",
+ 
+      "price":  3290.00
       },
       {
-        "id": 4,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwf399d2a7/SEF0299SGE_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Linen Cotton Jacket - Sage Green",
-        "price": 349
+        "id":4,
+      "productlink href": "https://www.zara.com/in/en/bandeau-top-p00264091.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/0264/091/620/2/w/458/0264091620_2_4_1.jpg?ts=1679323776165",
+      "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+      "name": "BANDEAU TOP",
+
+      "color":6,
+      "price":  2290.00
       },
       {
-        "id": 5,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw426eb4b2/hi-res/SEF0294IDG_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Proper Blazer - Indigo Blue",
-        "price": 349
+        "id":5,
+      "productlink href": "https://www.zara.com/in/en/satin-midi-skirt-p02718965.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2718/965/620/2/w/458/2718965620_1_1_1.jpg?ts=1676304261080",
+      "image2": "",
+      "name": "SATIN MIDI SKIRT",
+
+      "color":6,
+      "price":  2990.00
       },
       {
-        "id": 6,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwada012b8/SEU0220FRG_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Linen Jacket - Forest Green",
-        "price": 449
+        "id":6,
+      "productlink href": "https://www.zara.com/in/en/satin-camisole-top-p02710965.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2710/965/620/2/w/458/2710965620_6_20_1.jpg?ts=1676302028762",
+      "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+      "name": "SATIN CAMISOLE TOP",
+      "color": 6,
+
+      "price":  2890.00
       },
       {
-        "id": 7,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw23863d7f/SEF0299WNE_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Linen Cotton Jacket - Wine Red",
-        "price": 349
+        "id":7,
+      "productlink href": "https://www.zara.com/in/en/short-full-dress-p02487707.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2487/707/942/2/w/458/2487707942_2_3_1.jpg?ts=1676371087273",
+      "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+      "name": "SHORT FULL DRESS",
+    
+      "color":1,
+      "price":  5990.00
       },
       {
-        "id": 8,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw70506f3c/hi-res/SEF0273DEN_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Herringbone Wool Texture Jacket - Denim Blue",
-        "price": 399
+        "id":8,
+      "productlink href": "https://www.zara.com/in/en/oversize-double-breasted-blazer---limited-edition-p02249457.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/750/2298115400_2_3_1.jpg?ts=1680103887784",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/750/2298115400_6_1_1.jpg?ts=1679399771292",
+      "name": "OVERSIZE DOUBLE-BREASTED BLAZER - LIMITED EDITION",
+
+      "color":6,
+      "price":  9590.00
       },
       {
-        "id": 9,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw87995f50/hi-res/OUR0027LST_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Cotton Classic Raincoat - Limestone",
-        "price": 349
-      },
-      {
-        "id": 10,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw01dea2e3/hi-res/SEF0273DGY_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Herringbone Wool Texture Jacket - Dark Grey",
-        "price": 399
-      },
-      {
-        "id": 11,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw63f9bdad/hi-res/CSR2048NAV_MODEL_UNTUCKED.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Cotton Linen Overshirt - Navy",
-        "price": 129
-      },
-      {
-        "id": 12,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw7b83a7f6/hi-res/KNJ0363NAV_COLLAR_DETAIL.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Merino Zip Through Vest - Navy",
-        "price": 99
-      },
-      {
-        "id": 13,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwcd1b609a/hi-res/SEF0270BLK_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Proper Blazer - Black",
-        "price": 349
-      },
-      {
-        "id": 14,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwda694df3/hi-res/KNC0046NAV_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Merino Blazer - Navy",
-        "price": 199
-      },
-      {
-        "id": 15,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwcdecf84f/hi-res/OUR0027DNY_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Cotton Classic Raincoat - Dark Navy",
-        "price": 349
-      },
-      {
-        "id": 16,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw80a784b8/hi-res/OUR0029STL_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Cotton Classic Raincoat - Steel Blue",
-        "price": 349
-      },
-      {
-        "id": 17,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwbb7e154c/hi-res/SEU0220NAV_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Linen Jacket - Dark Navy",
-        "price": 449
-      },
-      {
-        "id": 18,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw9728263c/hi-res/SEU0208LST_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Cotton Stretch Jacket - Limestone",
-        "price": 299
-      },
-      {
-        "id": 19,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwb8423b38/hi-res/OUC0067NAV_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Fall Collar Harrington Jacket - Navy",
-        "price": 349
-      },
-      {
-        "id": 20,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwc45f6e4e/hi-res/OUC0077NAV_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Showerproof Field Jacket - Dark Navy",
-        "price": 399
-      },
-      {
-        "id": 21,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwfe241823/hi-res/SEU0220TAN_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Linen Jacket - Stone",
-        "price": 449
-      },
-      {
-        "id": 22,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw3eee47b5/hi-res/JEX0028NAV_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Navy Performance Funnel Neck Jacket",
-        "price": 129
-      },
-      {
-        "id": 23,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwab6fd39d/hi-res/SEU0098NKB_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Cotton Stretch Jacket - Ink Blue",
-        "price": 299
-      },
-      {
-        "id": 24,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw68967ff9/hi-res/SEF0273GRY_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
-        "title": "Textured Wool Jacket - Grey",
-        "price": 399
-      },
-      {
-        "id": 25,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwea7f64fb/hi-res/KNC0086NAV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Merino Zip Through Hybrid Bomber Jacket - Navy",
-        "price": 219
-      },
-      {
-        "id": 26,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwc8eb1340/hi-res/SEF0275MCA_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Italian Moleskin Jacket - Mocha",
-        "price": 449
-      },
-      {
-        "id": 27,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw8c3e4834/hi-res/OUC0077OLV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Showerproof Field Jacket - Olive Green",
-        "price": 399
-      },
-      {
-        "id": 28,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw2edad15b/hi-res/OUC0075GRY_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Quilted Vest - Grey Melange",
-        "price": 199
-      },
-      {
-        "id": 29,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw952b3963/hi-res/OUC0079GRY_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "2-In-1 Rainmac - Grey",
-        "price": 399
-      },
-      {
-        "id": 30,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwa9d383c2/hi-res/SEU0098OLV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Cotton Stretch Jacket - Olive Green",
-        "price": 299
-      },
-      {
-        "id": 31,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwb5bbf24b/hi-res/SEF0298STL_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Windowpane Check Textured Wool Jacket - Steel Blue",
-        "price": 399
-      },
-      {
-        "id": 32,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw7185beb7/hi-res/SEF0275DNY_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Italian Moleskin Jacket - Dark Navy",
-        "price": 449
-      },
-      {
-        "id": 33,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwcaf72333/hi-res/OUF0074GRY_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Herringbone Wool Overcoat - Grey",
-        "price": 499
-      },
-      {
-        "id": 34,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw19808d66/hi-res/OUF0069NAV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Funnel Neck Wool Overcoat - Ink Blue",
-        "price": 399
-      },
-      {
-        "id": 35,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwbcef6c23/hi-res/KNC0085NAV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Merino Funnel Neck Vest - Navy",
-        "price": 199
-      },
-      {
-        "id": 36,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw7de3ebf4/hi-res/OUF0068GRY_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Wool Overcoat - Light Grey",
-        "price": 499
-      },
-      {
-        "id": 37,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwa7d4f145/hi-res/SEU0209OAT_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Italian Jersey Puppytooth Jacket - Oatmeal",
-        "price": 449
-      },
-      {
-        "id": 38,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw6e30e74a/hi-res/OUF0072DGY_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Wool Overcoat - Dark Grey",
-        "price": 499
-      },
-      {
-        "id": 39,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw407f004d/hi-res/KNC0087NAV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Merino Funnel Neck Jacket - Navy",
-        "price": 199
-      },
-      {
-        "id": 40,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwd511eceb/hi-res/SEF0275FRG_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Italian Moleskin Jacket - Forest Green",
-        "price": 449
-      },
-      {
-        "id": 41,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwd4a5aa71/hi-res/SEF0320DEN_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Textured Wool Jacket - Denim Blue",
-        "price": 399
-      },
-      {
-        "id": 42,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwcf4b54a8/hi-res/OUF0073NAV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Double Breasted Wool Overcoat - Navy",
-        "price": 499
-      },
-      {
-        "id": 43,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwa30504e4/hi-res/SEF0296TPE_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Herringbone Wool Texture Jacket - Taupe",
-        "price": 399
-      },
-      {
-        "id": 44,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw11d590c6/hi-res/OUF0072CAM_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Wool Overcoat - Camel",
-        "price": 499
-      },
-      {
-        "id": 45,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwfcbc9eb5/hi-res/SEF0309FRG_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Textured Wool Jacket - Forest Green",
-        "price": 399
-      },
-      {
-        "id": 46,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw1fcc6e7d/hi-res/OUC0078NAV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Wool Peacoat - Navy",
-        "price": 499
-      },
-      {
-        "id": 47,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwf233f154/hi-res/KNC0088NAV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Alcantara Funnel Neck Knitted Jacket - Navy",
-        "price": 219
-      },
-      {
-        "id": 48,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwdc2fef29/hi-res/OUF0068BLK_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Wool Overcoat - Black",
-        "price": 499
-      },
-      {
-        "id": 49,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw30b490e9/hi-res/CSR2032NAV_MODEL_TUCKED.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Overshirt - Navy",
-        "price": 129
-      },
-      {
-        "id": 50,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw51157bef/hi-res/OUF0068NAV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Wool Overcoat - Navy",
-        "price": 499
-      },
-      {
-        "id": 51,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw3165954e/hi-res/SEF0309MCA_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Textured Wool Jacket - Mocha",
-        "price": 399
-      },
-      {
-        "id": 52,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwfcbf74dc/hi-res/SEF0296RST_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Herringbone Wool Texture Jacket - Rust",
-        "price": 399
-      },
-      {
-        "id": 53,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwe203328c/hi-res/SEF0298PET_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Windowpane Wool Texture Jacket - Petrol Blue",
-        "price": 399
-      },
-      {
-        "id": 54,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwbc63ddc7/hi-res/SEF0280DNY_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Twill Jacket - Dark Navy",
-        "price": 399
-      },
-      {
-        "id": 55,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw5379adf2/hi-res/OUR0030OLV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Showerproof Cotton Raincoat - Olive Green",
-        "price": 349
-      },
-      {
-        "id": 56,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw20abe543/hi-res/SEF0298TPE_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Windowpane Check Textured Wool Jacket - Taupe",
-        "price": 399
-      },
-      {
-        "id": 57,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw955bbd42/hi-res/SEF0309OLV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Textured Wool Jacket - Olive Green",
-        "price": 399
-      },
-      {
-        "id": 58,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwf834a1ef/hi-res/SEU0209DEN_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Italian Jersey Jacket - Denim Blue",
-        "price": 449
-      },
-      {
-        "id": 59,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw0768ddc0/hi-res/SEF0273DCL_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Textured Wool Jacket - Dark Chocolate",
-        "price": 399
-      },
-      {
-        "id": 60,
-        "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw98f4f373/hi-res/OUC0075NAV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
-        "title": "Quilted Vest - Navy",
-        "price": 199
-      }
-    ]
+        "id":13,
+      "productlink href": "https://www.zara.com/in/en/long-flowing-trousers-p02216483.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/3666/105/172/2/w/622/3666105172_2_1_1.jpg?ts=1679915847947",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3006/351/679/2/w/305/3006351679_2_6_1.jpg?ts=1680173555016",
+      "name": "LONG FLOWING TROUSERS",
    
+      "color":1,
+      "price":  2990.00
+      },
+      {
+        "id":9,
+      "productlink href": "https://www.zara.com/in/en/tuxedo-collar-blazer-with-belt-p02225483.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/5216/061/080/2/w/750/5216061080_1_1_1.jpg?ts=1679561438661",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/5216/061/080/2/w/750/5216061080_2_1_1.jpg?ts=1679561440838",
+      "name": "TUXEDO COLLAR BLAZER WITH BELT",
+      "color": 5,
+      "price":  8590.00
+      },
+      {
+        "id":10,
+      "productlink href": "https://www.zara.com/in/en/tuxedo-collar-blazer-with-belt-p02225483.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2676/530/505/12/w/750/2676530505_1_1_1.jpg?ts=1680088576966",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2676/530/505/12/w/750/2676530505_2_2_1.jpg?ts=1680088576844",
+      "name": "TUXEDO COLLAR BLAZER WITH BELT",
+      
+      "color":6,
+      "price":  8590.00
+      },
+      {
+        "id":11,
+      "productlink href": "https://www.zara.com/in/en/high-heel-fabric-slingback-shoes-p12276110.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2676/530/505/2/w/750/2676530505_6_2_1.jpg?ts=1677071587242",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2676/530/505/2/w/750/2676530505_6_3_1.jpg?ts=1677071590557",
+      "name": "HIGH-HEEL FABRIC SLINGBACK SHOES",
+  
+      "color":3,
+      "price":  3290.00
+      },
+      {
+        "id":15,
+      "productlink href": "https://www.zara.com/in/en/pleated-midi-dress-p07969053.html",
+      "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+      "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+      "name": "PLEATED MIDI DRESS",
+      "price":  4990.00
+      },
+      {
+        "id":14,
+      "productlink href": "https://www.zara.com/in/en/chiffon-cape-p08741005.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_1_1_1.jpg?ts=1680085342124",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_2_2_1.jpg?ts=1680085341313",
+      "name": "CHIFFON CAPE",
+      "color":6,
+      "price":  2990.00
+      },
+      {
+        "id":16,
+      "productlink href": "https://www.zara.com/in/en/pleated-top-p09878105.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_2_4_1.jpg?ts=1680085344924",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_2_5_1.jpg?ts=1680085344245",
+      "name": "PLEATED TOP",
+      "color":3,
+      "price":  2890.00
+      },
+      {
+        "id":17,
+      "productlink href": "https://www.zara.com/in/en/cropped-trousers-p02719695.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_6_1_1.jpg?ts=1680085004044",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/9929/024/505/2/w/750/9929024505_6_3_1.jpg?ts=1680085083605",
+      "name": "CROPPED TROUSERS",
+      "color":6,
+      "price":  2990.00
+      },
+      {
+        "id":18,
+      "productlink href": "https://www.zara.com/in/en/double-breasted-oversized-blazer-p02421888.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2142/066/800/17/w/750/2142066800_1_1_1.jpg?ts=1680094671316",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2142/066/800/17/w/2400/2142066800_2_1_1.jpg?ts=1680094671924",
+      "name": "DOUBLE-BREASTED OVERSIZED BLAZER",
+      "color":4,
+      "price":  6990.00
+      },
+      {
+        "id":19,
+      "productlink href": "https://www.zara.com/in/en/midi-dress-with-front-knot-p02866880.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/4786/049/501/17/w/750/4786049501_1_1_1.jpg?ts=1680013730230",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/4786/049/501/2/w/750/4786049501_6_1_1.jpg?ts=1679413018458",
+      "name": "MIDI DRESS WITH FRONT KNOT",
+      "color":6,
+      "price":  4990.00
+      },
+      {
+        "id":20,
+      "productlink href": "https://www.zara.com/in/en/short-tailored-waistcoat-p02966888.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2966/888/942/2/w/458/2966888942_6_1_1.jpg?ts=1678878246521",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2221/948/713/17/w/750/2221948713_1_1_1.jpg?ts=1680012547168",
+      "name": "SHORT TAILORED WAISTCOAT",
+      "color":4,
+      "price":  2890.00
+      },
+      {
+        "id":123,
+      "productlink href": "https://www.zara.com/in/en/cascading-floral-necklace-p04736072.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2221/948/713/17/w/750/2221948713_1_1_1.jpg?ts=1680012547168",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2221/948/713/2/w/750/2221948713_6_1_1.jpg?ts=1678206779292",
+      "name": "CASCADING FLORAL NECKLACE",
+      "color":3,
+      "price":  2890.00
+      },
+      {
+        "id":12323,
+      "productlink href": "https://www.zara.com/in/en/midi-dress-p04424314.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/4043/066/622/2/w/750/4043066622_1_1_1.jpg?ts=1679486550060",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/4043/066/622/2/w/750/4043066622_2_1_1.jpg?ts=1679486549684",
+      "name": "MIDI DRESS",
+      "color":4,
+      "price":  2590.00
+      },
+      {
+        "id":12443,
+      "productlink href": "https://www.zara.com/in/en/midi-dress-p04424314.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/4043/066/622/2/w/750/4043066622_2_2_1.jpg?ts=1679486550027",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/4043/066/622/2/w/750/4043066622_2_3_1.jpg?ts=1679486549632",
+      "name": "MIDI DRESS",
+      "color":6,
+      "price":  2590.00
+      },
+      {
+        "id":111,
+      "productlink href": "https://www.zara.com/in/en/dress-with-seams-and-gathering-p04661321.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_1_1_1.jpg?ts=1680076914632",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_2_1_1.jpg?ts=1680076937265",
+      "name": "DRESS WITH SEAMS AND GATHERING",
+      "color":4,
+      "price":  2990.00
+      },
+      
+      { "id":17954,
+      "productlink href": "https://www.zara.com/in/en/high-heel-fabric-slingback-shoes-p12276110.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/3067/059/044/2/w/457/3067059044_2_1_1.jpg?ts=1679652485306",
+      "image2": "https://static.zara.net/photos///contents/mkt/spots/ss23-north-woman-new/subhome-xmedia-12-in//w/1920/IMAGE-landscape-fill-4bc11d3a-feda-419c-812a-6159e14882df-default_0.jpg?ts=1679585904255",
+      "name": "HIGH-HEEL FABRIC SLINGBACK SHOES",
+      "price":  3290.00
+      },
+      { "id":156874,
+      "productlink href": "https://www.zara.com/in/en/satin-shirt-p08741256.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/1889/033/427/17/w/305/1889033427_1_1_1.jpg?ts=1680172813592",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/1889/033/427/17/w/750/1889033427_2_3_1.jpg?ts=1680180064730",
+      "name": "SATIN SHIRT",
+      "color": 3,
+    
+      "price":  1990.00
+      },
+      { "id":15754,
+      "productlink href": "https://static.zara.net/photos///2023/V/0/1/p/3080/183/330/2/w/750/3080183330_1_1_1.jpg?ts=1679915870522",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/3080/183/330/2/w/750/3080183330_2_4_1.jpg?ts=1679915853030",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3080/183/330/2/w/750/3080183330_2_4_1.jpg?ts=1679915853030",
+      "name": "SATIN TUNIC DRESS",
+     
+      "color":6,
+      "price":  7590.00
+      },
+      { "id":15456554,
+      "productlink href": "https://www.zara.com/in/en/straight-fit-minimalist-trousers-p02239707.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2968/783/250/2/w/305/2968783250_2_8_1.jpg?ts=1680173020983",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2998/783/250/2/w/750/2998783250_2_2_1.jpg?ts=1679915850358",
+      "name": "STRAIGHT FIT MINIMALIST TROUSERS",
+     
+      "color":6,
+      "price":  5990.00
+      },
+      { "id":189554,
+      "productlink href": "https://www.zara.com/in/en/contrast-high-heel-shoes-p12223110.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2998/783/250/2/w/750/2998783250_6_1_1.jpg?ts=1680084825979",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2998/783/250/2/w/750/2998783250_6_2_1.jpg?ts=1680084787048",
+      "name": "CONTRAST HIGH HEEL SHOES",
+      "color": 3,
+
+      "price":  3290.00
+      },
+      { "id":15464,
+      "productlink href": "https://www.zara.com/in/en/tailored-blazer-p02956624.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2968/783/250/3/w/750/2968783250_1_1_1.jpg?ts=1679994330619",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2968/783/250/3/w/750/2968783250_2_2_1.jpg?ts=1679994330044",
+      "color": 3,
+      "name": "TAILORED BLAZER",
+   
+      "price":  5990.00
+      },
+      { "id":1678654,
+      "productlink href": "https://www.zara.com/in/en/leather-heeled-mules-p12354110.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2968/783/250/3/w/750/2968783250_2_4_1.jpg?ts=1679994333902",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2968/783/250/3/w/750/2968783250_2_5_1.jpg?ts=1679994330428",
+      "name": "LEATHER HEELED MULES",
+      "color":6,
+      "price":  5590.00
+      },
+      { "id":1456754,
+      "productlink href": "https://www.zara.com/in/en/tulip-necklace---special-edition-p04736091.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2977/184/330/2/w/305/2977184330_2_8_1.jpg?ts=1680103941121",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3105/204/330/2/w/305/3105204330_2_9_1.jpg?ts=1680103904067",
+      "name": "TULIP NECKLACE - SPECIAL EDITION",
+      "color":6,
+      "price":  2890.00
+      },
+      { "id":15744,
+      "productlink href": "https://www.zara.com/in/en/feather-rhinestone-necklace-p04736071.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/8372/027/712/2/w/305/8372027712_1_1_1.jpg?ts=1680103881259",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/8372/027/712/2/w/305/8372027712_2_3_1.jpg?ts=1680103880050",
+      "name": "FEATHER RHINESTONE NECKLACE",
+      "color":6,
+      "price":  4990.00
+      },
+      { "id":134554,
+      "productlink href": "https://www.zara.com/in/en/straight-fit-printed-trousers-p03013195.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2298/077/088/12/w/305/2298077088_2_7_1.jpg?ts=1680173643211",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2298/077/088/12/w/305/2298077088_2_7_1.jpg?ts=1680173643211",
+      "name": "STRAIGHT FIT PRINTED TROUSERS",
+      "price":  2990.00
+      },
+      { "id":154364,
+      "productlink href": "https://www.zara.com/in/en/long-printed-dress-p02183068.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/3167/129/052/2/w/750/3167129052_6_2_1.jpg?ts=1680084863430",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3167/129/052/2/w/750/3167129052_6_4_1.jpg?ts=1680084862077",
+      "name": "LONG PRINTED DRESS",
+      "color":6,
+      "price":  3990.00
+      },
+      { "id":12644,
+      "productlink href": "https://www.zara.com/in/en/slip-dress-with-elasticasted-straps-p02016616.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/622/2298115400_2_1_1.jpg?ts=1680103886431",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/750/2298115400_2_1_1.jpg?ts=1680103886431",
+      "name": "SLIP DRESS WITH ELASTICASTED STRAPS",
+      "color": 3,
+     
+      "price":  2990.00
+      },
+      { "id":155644,
+      "productlink href": "https://www.zara.com/in/en/dress-with-asymmetric-hem-p02180340.html",
+      "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+      "image2": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.png",
+      "name": "DRESS WITH ASYMMETRIC HEM",
+      "color": 3,
+     
+      "price":  3990.00
+      },
+      { "id":152364,
+      "productlink href": "https://www.zara.com/in/en/clutch-bag-with-studs-p16000110.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_2_2_1.jpg?ts=1680076913378",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_2_3_1.jpg?ts=1680076909736",
+      "name": "CLUTCH BAG WITH STUDS",
+     
+      "color":6,
+      "price":  1990.00
+      },
+      { "id":15944,
+      "productlink href": "https://www.zara.com/in/en/pearl-hoop-earrings-p04736113.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_2_5_1.jpg?ts=1680076942649",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/7147/025/406/2/w/750/7147025406_6_1_1.jpg?ts=1680085037540",
+      "name": "PEARL HOOP EARRINGS",
+      
+      "color":6,
+      "price":  1590.00
+      },
+      { "id":156334,
+      "productlink href": "https://www.zara.com/in/en/flowing-jacquard-blazer-p02266596.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/3666/098/330/2/w/750/3666098330_1_1_1.jpg?ts=1680076909762",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3666/098/330/2/w/750/3666098330_2_1_1.jpg?ts=1680076932020",
+      "name": "FLOWING JACQUARD BLAZER",
+      "color":6,
+      
+      "price":  4990.00
+      },
+      { "id":157544,
+      "productlink href": "https://www.zara.com/in/en/dress-with-a-sweetheart-neckline-p02670187.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/3666/098/330/2/w/750/3666098330_2_3_1.jpg?ts=1680076909863",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3666/098/330/2/w/750/3666098330_6_1_1.jpg?ts=1680084895270",
+      "name": "DRESS WITH A SWEETHEART NECKLINE",
+      "price":  4990.00
+      },
+      { "id":152344,
+      "productlink href": "https://www.zara.com/in/en/resin-flower-earrings-p04548032.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/3102/939/544/2/w/750/3102939544_1_1_1.jpg?ts=1680081846504",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3102/939/544/2/w/750/3102939544_6_2_1.jpg?ts=1680084811877",
+      "name": "TAILORED LINEN BLEND WAISTCOAT",
+      "color":6,
+      "price":  1890.00
+      },
+      { "id":167554,
+      "productlink href": "https://www.zara.com/in/en/long-tulle-cape-p00653018.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/3564/088/505/2/w/750/3564088505_1_1_1.jpg?ts=1680076935770",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3564/088/505/2/w/750/3564088505_2_1_1.jpg?ts=1680076909791",
+      "name": "LONG TULLE CAPE",
+      "color":6,
+      "price":  2990.00
+      },
+      { "id":153564,
+      "productlink href": "https://www.zara.com/in/en/satin-slip-dress-p02726331.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/750/2298115400_1_1_1.jpg?ts=1680103887381",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2298/115/400/2/w/750/2298115400_2_2_1.jpg?ts=1680103880172",
+      "name": "SATIN SLIP DRESS",
+      "color":6,
+      "price":  3990.00
+      },
+      { "id":18454,
+      "productlink href": "https://www.zara.com/in/en/faux-pearl-rhinestone-necklace-p04736026.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/3564/097/250/2/w/750/3564097250_2_8_1.jpg?ts=1680173755345",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3564/097/250/2/w/750/3564097250_6_1_1.jpg?ts=1679412340571",
+      "name": "FAUX PEARL RHINESTONE NECKLACE",
+   
+      "color":6,
+      "price":  2590.00
+      },
+      { "id":151254,
+      "productlink href": "https://www.zara.com/in/en/midi-dress-with-gathering-p01165073.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2142/047/250/17/w/750/2142047250_1_1_1.jpg?ts=1680094670788",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2142/047/250/17/w/750/2142047250_2_1_1.jpg?ts=1680094670149",
+      "name": "MIDI DRESS WITH GATHERING",
+  
+      "color":6,
+      "price":  2990.00
+      },
+      { "id":1543124,
+      "productlink href": "https://www.zara.com/in/en/midi-dress-with-gathering-p01165073.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/4331/036/505/2/w/750/4331036505_1_1_1.jpg?ts=1680083943063",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/4331/036/505/2/w/750/4331036505_2_1_1.jpg?ts=1680083942377",
+      "name": "MIDI DRESS WITH GATHERING",
+    
+      "color":6,
+      "price":  2990.00
+      },
+      {
+        "id":154223124,
+      "productlink href": "https://www.zara.com/in/en/strappy-high-heel-leather-sandals-p12336110.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/4331/036/505/2/w/750/4331036505_2_2_1.jpg?ts=1680083943173",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/4331/036/505/2/w/750/4331036505_2_3_1.jpg?ts=1680083942919",
+      "name": "STRAPPY HIGH-HEEL LEATHER Dress",
+     
+      "color":6,
+      "price":  5990.00
+      },
+      { "id":1524354,
+      "productlink href": "https://www.zara.com/in/en/ribbed-bodysuit-with-organza-ruffles-p00858331.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2907/707/712/2/w/750/2907707712_1_1_1.jpg?ts=1680011061033",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2907/707/712/2/w/750/2907707712_2_1_1.jpg?ts=1680011061458",
+      "name": "RIBBED BODYSUIT WITH ORGANZA RUFFLES",
+    
+      "color":6,
+      "price":  2290.00
+      },
+      {
+        "id":15432323124,
+      "productlink href": "https://www.zara.com/in/en/flowing-jacquard-blazer-p02266596.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2907/707/712/2/w/750/2907707712_2_3_1.jpg?ts=1680092204555",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2907/707/712/2/w/750/2907707712_2_3_1.jpg?ts=1680092204555",
+      "name": "FLOWING JACQUARD BLAZER",
+     
+      "color":6,
+      "price":  4990.00
+      },
+      { "id":153234,
+      "productlink href": "https://www.zara.com/in/en/maxi-cascade-necklace-with-faux-pearls-p01856097.html",
+      "image": "https://static.zara.net/stdstatic/3.15.0-b.1/images/transparent-background.pnghttps://static.zara.net/photos///2023/V/0/1/p/6929/406/050/2/w/750/6929406050_1_1_1.jpg?ts=1680089326145",
+       "imagw2":"https://static.zara.net/photos///2023/V/0/1/p/6929/406/050/2/w/750/6929406050_2_1_1.jpg?ts=1680089327312",
+      "name": "MAXI CASCADE NECKLACE WITH FAUX PEARLS",
+   
+      "color":6,
+      "price":  5990.00
+      },
+      {
+        "id":1522243124,
+      "productlink href": "https://www.zara.com/in/en/cascade-ear-cuff-with-faux-pearls-p01856098.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/3198/500/250/2/w/750/3198500250_1_1_1.jpg?ts=1680012649773",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3198/500/250/2/w/750/3198500250_2_1_1.jpg?ts=1680012650004",
+      "name": "CASCADE EAR CUFF WITH FAUX PEARLS",
+   
+      "color":6,
+      "price":  1590.00
+      },
+      { "id":154354,
+      "productlink href": "https://www.zara.com/in/en/maxi-cascade-necklace-with-faux-pearls-p01856097.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/4331/037/505/2/w/622/4331037505_1_1_1.jpg?ts=1680083942733",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/4331/037/505/2/w/750/4331037505_2_1_1.jpg?ts=1680083942964",
+      "name": "MAXI CASCADE NECKLACE WITH FAUX PEARLS",
+    
+      "color":6,
+      "price":  5990.00
+      },
+      {
+        "id":152243124,
+      "productlink href": "https://www.zara.com/in/en/maxi-cascade-necklace-with-faux-pearls-p01856097.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/1277/002/807/2/w/750/1277002807_1_1_1.jpg?ts=1679911933493",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/1277/002/807/2/w/750/1277002807_2_2_1.jpg?ts=1679911933508",
+      "name": "MAXI CASCADE NECKLACE WITH FAUX PEARLS",
+  
+      "color":6,
+      "price":  5990.00
+      },
+      { "id":1133454,
+      "productlink href": "https://www.zara.com/in/en/knit-dress-with-contrast-detail-p02142019.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/1277/002/807/2/w/750/1277002807_2_4_1.jpg?ts=1679911933303",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/1277/002/807/2/w/750/1277002807_2_3_1.jpg?ts=1679911933898",
+     
+      "name": "KNIT DRESS WITH CONTRAST DETAIL",
+      "color":2,
+      "price":  5990.00
+      },
+      { "id":186254,
+      "productlink href": "https://www.zara.com/in/en/printed-jacket-with-fringing-p02963194.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/4886/152/615/2/w/750/4886152615_1_1_1.jpg?ts=1680106163805",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/4886/152/615/2/w/750/4886152615_6_1_1.jpg?ts=1680085010056",
+      "name": "PRINTED JACKET WITH FRINGING",
+   
+      "color":2,
+      "price":  4990.00
+      },
+      { "id":144554,
+      "productlink href": "https://www.zara.com/in/en/satin-dress-with-cut-out-detail-p09878137.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/3920/018/808/2/w/750/3920018808_6_1_1.jpg?ts=1680084936663",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3920/018/808/2/w/750/3920018808_6_3_1.jpg?ts=1680084938766",
+      "name": "SATIN DRESS WITH CUT-OUT DETAIL",
+   
+      "color":2,
+      "price":  2990.00
+      },
+      { "id":124454,
+      "productlink href": "https://www.zara.com/in/en/camisole-dress-with-buttons-p04387064.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/3564/087/505/2/w/750/3564087505_1_1_1.jpg?ts=1680076908393",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3564/087/505/2/w/750/3564087505_2_1_1.jpg?ts=1680076938739",
+      "name": "CAMISOLE DRESS WITH BUTTONS",
+   
+      "color":2,
+      "price":  2890.00
+      },
+      { "id":1555564,
+      "productlink href": "https://www.zara.com/in/en/slip-dress-with-elasticasted-straps-p02016616.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/2221/102/711/17/w/750/2221102711_1_1_1.jpg?ts=1680012548037",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/2221/102/711/2/w/750/2221102711_6_1_1.jpg?ts=1678458308542",
+      "name": "SLIP DRESS WITH ELASTICASTED STRAPS",
+     
+      "color":1,
+      "price":  2990.00
+      },
+      {
+         "id":152444,
+      "productlink href": "https://www.zara.com/in/en/printed-jacket-with-fringing-p02963194.html",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/3390/018/481/17/w/305/3390018481_1_1_1.jpg?ts=1680094673166",
+      "image2": "https://static.zara.net/photos///2023/V/0/1/p/3390/018/481/17/w/750/3390018481_2_2_1.jpg?ts=1680094672558",
+      "name": "PRINTED JACKET WITH FRINGING",
+      
+      "color":null,
+      "price":  4990.00
+      }
+      ],
+"mens":[
+  {
+  "id": 1,
+  "type": "jackets",
+  "category": "mens",
+  "name href": "https://www.zara.com/in/en/basic-bomber-jacket-p04302408.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/8574/347/250/2/w/750/8574347250_1_1_1.jpg?ts=1675265762444",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/8574/347/250/2/w/750/8574347250_2_1_1.jpg?ts=1675265761100",
+  "name": "BASIC BOMBER JACKET",
+  "color": 2,
+  "price": 2990
+  },
+  {
+  "id": 2,
+  "type": "jackets",
+  "category": "mens",
+  "name href": "https://www.zara.com/in/en/water-repellent-technical-jacket-p01538303.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/1538/303/800/2/w/382/1538303800_2_1_1.jpg?ts=1676881489770",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/1538/303/800/2/w/382/1538303800_2_1_1.jpg?ts=1676881489770",
+  "name": "WATER-REPELLENT TECHNICAL JACKET",
+  "color": 3,
+  "price": 4990
+  },
+  {
+  "id": 3,
+  "category": "mens",
+  "type": "jackets",
+  "name href": "https://www.zara.com/in/en/faux-suede-bomber-jacket-p08574333.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/8574/333/732/2/w/382/8574333732_2_1_1.jpg?ts=1678438191969",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/8574/333/732/2/w/382/8574333732_2_1_1.jpg?ts=1678438191969",
+  "name": "FAUX SUEDE BOMBER JACKET",
+  "color": 2,
+  "price": 4990
+  },
+  {
+  "id": 4,
+  "category": "mens",
+  "type": "jackets",
+  "name href": "https://www.zara.com/in/en/basic-bomber-jacket-p04302408.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/4302/408/806/2/w/382/4302408806_2_1_1.jpg?ts=1678438131826",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/4302/408/806/2/w/382/4302408806_2_1_1.jpg?ts=1678438131826",
+  "name": "BASIC BOMBER JACKET",
+  "color": 2,
+  "price": 2990
+  },
+  {
+  "id": 5,
+  "category": "mens",
+  "type": "jackets",
+  "name href": "https://www.zara.com/in/en/faux-suede-bomber-jacket-p06318488.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/6318/488/707/2/w/382/6318488707_2_1_1.jpg?ts=1675333045261",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/6318/488/707/2/w/382/6318488707_2_1_1.jpg?ts=1675333045261",
+  "name": "FAUX SUEDE BOMBER JACKET",
+  "color": 2,
+  "price": 4990
+  },
+  {
+  "id": 6,
+  "category": "mens",
+  "type": "jackets",
+  "name href": "https://www.zara.com/in/en/puffer-technical-jacket-p08574561.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/8574/561/401/2/w/382/8574561401_2_1_1.jpg?ts=1674143785906",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/8574/561/401/2/w/382/8574561401_2_1_1.jpg?ts=1674143785906",
+  "name": "PUFFER TECHNICAL JACKET",
+  "color": 3,
+  "price": 2990
+  },
+  {
+  "id": 7,
+  "category": "mens",
+  "type": "jackets",
+  "name href": "https://www.zara.com/in/en/water-repellent-technical-jacket-p01538303.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/0484/300/401/2/w/382/0484300401_2_1_1.jpg?ts=1672764812385",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/0484/300/401/2/w/382/0484300401_2_1_1.jpg?ts=1672764812385",
+  "name": "WATER-REPELLENT TECHNICAL JACKET",
+  "color": 3,
+  "price": 4990
+  },
+  {
+  "id": 8,
+  "category": "mens",
+  "type": "jackets",
+  "name href": "https://www.zara.com/in/en/rubberised-hooded-jacket-p08281311.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/8574/347/250/2/w/750/8574347250_2_1_1.jpg?ts=1675265761100",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/8574/347/250/2/w/750/8574347250_2_3_1.jpg?ts=1675265761259",
+  "name": "RUBBERISED HOODED JACKET",
+  "color": 2,
+  "price": 4990
+  },
+  {
+  "id": 9,
+  "category": "mens",
+  "type": "jackets",
+  "name href": "https://www.zara.com/in/en/basic-bomber-jacket-p04302408.html",
+  "image": "https://static.zara.net/photos///2023/V/0/1/p/4302/408/401/2/w/382/4302408401_2_1_1.jpg?ts=1675766278191",
+  "image2": "https://static.zara.net/photos///2023/V/0/1/p/4302/408/401/2/w/382/4302408401_2_1_1.jpg?ts=1675766278191",
+  "name": "BASIC BOMBER JACKET",
+  "color": 2,
+  "price": 2990
+  },
+  {
+  "id": 10,
+  "category": "mens",
+  "type": "jackets",
+  "name href": "https://www.zara.com/in/en/technical-bomber-jacket-p08281315.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/8574/347/250/2/w/750/8574347250_2_5_1.jpg?ts=1675265760676",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/8574/347/250/2/w/750/8574347250_2_6_1.jpg?ts=1675265761683",
+  "name": "TECHNICAL BOMBER JACKET",
+  "color": 2,
+  "price": 2990
+  },
+  {
+  "id": 11,
+  "type": "jackets",
+  "category": "mens",
+  "name href": "https://www.zara.com/in/en/puffer-technical-jacket-p08574561.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/8211/309/052/2/w/750/8211309052_1_1_1.jpg?ts=1677836236140",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/8211/309/052/2/w/750/8211309052_2_1_1.jpg?ts=1677836221265",
+  "name": "PUFFER TECHNICAL JACKET",
+  "color": 3,
+  "price": 2990
+  },
+  {
+  "id": 12,
+  "type": "jackets",
+  "category": "mens",
+  "name href": "https://www.zara.com/in/en/basic-bomber-jacket-p06518400.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/5679/448/250/2/w/750/5679448250_1_1_1.jpg?ts=1669797028465",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/5679/448/250/2/w/750/5679448250_2_2_1.jpg?ts=1669797034771",
+  "name": "BASIC BOMBER JACKET",
+  "color": 2,
+  "price": 4990
+  },
+  {
+  "id": 24,
+  "type": "jackets",
+  "name href": "https://www.zara.com/in/en/faux-suede-bomber-jacket-p08574333.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/5679/448/250/2/w/750/5679448250_2_4_1.jpg?ts=1669797026791",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/5679/448/250/2/w/750/5679448250_6_1_1.jpg?ts=1669648693791",
+  "name": "FAUX SUEDE BOMBER JACKET",
+  "color": 2,
+  "price": 4990
+  },
+  {
+  "id": 13,
+  "category": "mens",
+  "type": "jackets",
+  "name href": "https://www.zara.com/in/en/technical-bomber-jacket-p08281315.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/5679/447/403/2/w/750/5679447403_1_1_1.jpg?ts=1669797030375",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/5679/447/403/2/w/750/5679447403_2_2_1.jpg?ts=1669797048675",
+  "name": "TECHNICAL BOMBER JACKET",
+  "color": 2,
+  "price": 2990
+  },
+  {
+  "id": 14,
+  "category": "mens",
+  "type": "jackets",
+  "name href": "https://www.zara.com/in/en/puffer-technical-jacket-p08574561.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/5679/447/403/2/w/750/5679447403_2_3_1.jpg?ts=1669797022044",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/5679/447/403/2/w/750/5679447403_2_5_1.jpg?ts=1669797049686",
+  "name": "PUFFER TECHNICAL JACKET",
+  "color": 3,
+  "price": 2990
+  },
+  {
+  "id": 15,
+  "category": "mens",
+  "type": "jackets",
+  "name href": "https://www.zara.com/in/en/faux-suede-jacket-p03548685.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/3548/685/706/2/w/382/3548685706_2_1_1.jpg?ts=1678178230689",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/3548/685/706/2/w/382/3548685706_2_1_1.jpg?ts=1678178230689",
+  "name": "FAUX SUEDE JACKET",
+  "color": 1,
+  "price": 5990
+  },
+  {
+  "id": 16,
+  "type": "jackets",
+  "category": "mens",
+  "name href": "https://www.zara.com/in/en/faux-suede-jacket-p03548685.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/4393/533/800/2/w/750/4393533800_1_1_1.jpg?ts=1677229633628",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/4393/533/800/2/w/750/4393533800_2_3_1.jpg?ts=1677229632373",
+  "name": "FAUX SUEDE JACKET",
+  "color": 1,
+  "price": 5990
+  },
+  {
+  "id": 17,
+  "type": "jackets",
+  "category": "mens",
+  "name href": "https://www.zara.com/in/en/technical-bomber-jacket-p08281315.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/5679/447/403/2/w/750/5679447403_6_2_1.jpg?ts=1669648697208",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/5679/447/403/2/w/750/5679447403_6_3_1.jpg?ts=1669648718353",
+  "name": "TECHNICAL BOMBER JACKET",
+  "color": 2,
+  "price": 2990
+  },
+  {
+  "id": 18,
+  "type": "jackets",
+  "category": "mens",
+  "name href": "https://www.zara.com/in/en/faux-suede-bomber-jacket-p06318488.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/8211/309/481/2/w/750/8211309481_1_1_1.jpg?ts=1677836240263",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/8211/309/481/2/w/750/8211309481_2_2_1.jpg?ts=1677836237727",
+  "name": "FAUX SUEDE BOMBER JACKET",
+  "color": 2,
+  "price": 4990
+  },
+  {
+  "id": 19,
+  "category": "mens",
+  "type": "jackets",
+  "name href": "https://www.zara.com/in/en/basic-bomber-jacket-p06518400.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/8211/309/481/2/w/750/8211309481_2_3_1.jpg?ts=1677836239117",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/8211/309/481/2/w/750/8211309481_2_4_1.jpg?ts=1677836255902",
+  "name": "BASIC BOMBER JACKET",
+  "color": 2,
+  "price": 4990
+  },
+  {
+  "id": 20,
+  "type": "jackets",
+  "category": "mens",
+  "name href": "https://www.zara.com/in/en/basic-bomber-jacket-p06518400.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/8211/309/481/2/w/750/8211309481_2_5_1.jpg?ts=1677836239912",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/8211/309/481/2/w/750/8211309481_6_2_1.jpg?ts=1677079440373",
+  "name": "BASIC BOMBER JACKET",
+  "color": 2,
+  "price": 4990
+  },
+  {
+  "id": 21,
+  "category": "mens",
+  "type": "jackets",
+  "name href": "https://www.zara.com/in/en/faux-suede-bomber-jacket-p08574333.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/5679/449/403/2/w/750/5679449403_1_1_1.jpg?ts=1669797026112",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/5679/449/403/2/w/750/5679449403_2_2_1.jpg?ts=1669797046801",
+  "name": "FAUX SUEDE BOMBER JACKET",
+  "color": 2,
+  "price": 4990
+  },
+  {
+  "id": 22,
+  "category": "mens",
+  "type": "jackets",
+  "name href": "https://www.zara.com/in/en/rubberised-hooded-jacket-p08281311.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/2553/426/800/2/w/323/2553426800_1_1_1.jpg?ts=1675340199433",
+  "image2": "https://static.zara.net/photos///2023/V/0/1/p/5320/408/700/2/w/750/5320408700_1_1_1.jpg?ts=1677839902998",
+  "name": "RUBBERISED HOODED JACKET",
+  "color": 2,
+  "price": 4990
+  },
+  {
+  "id": 23,
+  "category": "mens",
+  "type": "jackets",
+  "name href": "https://www.zara.com/in/en/rubberised-hooded-jacket-p08281311.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/4393/689/052/2/w/323/4393689052_1_1_1.jpg?ts=1677150939615",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/4393/689/052/2/w/750/4393689052_2_2_1.jpg?ts=1677150938795",
+  "name": "RUBBERISED HOODED JACKET",
+  "color": 2,
+  "price": 4990
+  },
+  {
+  "id": 25,
+  "category": "mens",
+  "type": "T-shirt",
+  "name href": "https://www.zara.com/in/en/oversize-t-shirt-p00722418.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/0722/418/250/2/w/380/0722418250_2_1_1.jpg?ts=1679650224345",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/0722/418/250/2/w/380/0722418250_2_1_1.jpg?ts=1679650224345",
+  "name": "OVERSIZE T-SHIRT",
+  "color": 3,
+  "price": 2290
+  },
+  {
+  "id": 26,
+  "category": "mens",
+  "type": "T-shirt",
+  "name href": "https://www.zara.com/in/en/oversize-t-shirt-p00722418.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/0722/418/800/2/w/380/0722418800_6_1_1.jpg?ts=1679561843923",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/0722/418/250/2/w/380/0722418250_2_1_1.jpg?ts=1679650224345",
+  "name": "OVERSIZE T-SHIRT",
+  "color": 3,
+  "price": 2290
+  },
+  {
+  "id": 27,
+  "category": "mens",
+  "type": "T-shirt",
+  "name href": "https://www.zara.com/in/en/oversize-t-shirt-p00722418.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/0722/418/250/2/w/380/0722418250_6_1_1.jpg?ts=1679561842340",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/0722/418/250/2/w/380/0722418250_6_1_1.jpg?ts=1679561842340",
+  "name": "OVERSIZE T-SHIRT",
+  "color": 3,
+  "price": 2290
+  },
+  {
+  "id": 28,
+  "category": "mens",
+  "type": "T-shirt",
+  "name href": "https://www.zara.com/in/en/oversize-t-shirt-p00722418.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/0722/418/806/2/w/380/0722418806_6_1_1.jpg?ts=1679561843774",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/0722/418/806/2/w/380/0722418806_6_1_1.jpg?ts=1679561843774",
+  "name": "OVERSIZE T-SHIRT",
+  "color": 3,
+  "price": 2290
+  },
+  {
+  "id": 29,
+  "category": "mens",
+  "type": "T-shirt",
+  "name href": "https://www.zara.com/in/en/oversize-t-shirt-p00722418.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/0722/418/826/2/w/380/0722418826_6_1_1.jpg?ts=1679561844529",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/0722/418/826/2/w/380/0722418826_6_1_1.jpg?ts=1679561844529",
+  "name": "OVERSIZE T-SHIRT",
+  "color": 3,
+  "price": 2290
+  },
+  {
+  "id": 30,
+  "category": "mens",
+  "type": "T-shirt",
+  "name href": "https://www.zara.com/in/en/t-shirt-with-printed-patch-p04087420.html",
+  "image": "https://static.zara.net/photos///2023/V/0/1/p/5320/408/700/2/w/750/5320408700_1_1_1.jpg?ts=1677839902998",
+  "image2": "https://static.zara.net/photos///2023/V/0/1/p/5320/408/700/2/w/750/5320408700_2_1_1.jpg?ts=1677839903408",
+  "name": "T-SHIRT WITH PRINTED PATCH",
+  "color": null,
+  "price": 2290
+  },
+  {
+  "id": 31,
+  "category": "mens",
+  "type": "T-shirt",
+  "name href": "https://www.zara.com/in/en/t-shirt-with-matching-patch-p00761436.html",
+  "image": "https://static.zara.net/photos///2023/V/0/1/p/5320/408/700/2/w/750/5320408700_2_3_1.jpg?ts=1677839900274",
+  "image2": "https://static.zara.net/photos///2023/V/0/1/p/5320/408/700/2/w/750/5320408700_2_4_1.jpg?ts=1677839903898",
+  "name": "T-SHIRT WITH MATCHING PATCH",
+  "color": null,
+  "price": 2290
+  },
+  {
+  "id": 32,
+  "category": "mens",
+  "type": "T-shirt",
+  "name href": "https://www.zara.com/in/en/knit-t-shirt-with-pocket-p03166413.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/3166/413/712/2/w/380/3166413712_2_1_1.jpg?ts=1679650242501",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/3166/413/712/2/w/380/3166413712_2_1_1.jpg?ts=1679650242501",
+  "name": "KNIT T-SHIRT WITH POCKET",
+  "color": 2,
+  "price": 2990
+  },
+  {
+  "id": 33,
+  "category": "mens",
+  "type": "T-shirt",
+  "name href": "https://www.zara.com/in/en/knit-t-shirt-with-pocket-p03166413.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/3166/413/712/2/w/380/3166413712_6_1_1.jpg?ts=1679562006243",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/3166/413/712/2/w/380/3166413712_6_1_1.jpg?ts=1679562006243",
+  "name": "KNIT T-SHIRT WITH POCKET",
+  "color": 2,
+  "price": 2990
+  },
+  {
+  "id": 34,
+  "category": "mens",
+  "type": "T-shirt",
+  "name href": "https://www.zara.com/in/en/knit-t-shirt-with-pocket-p03166413.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/3166/413/731/2/w/380/3166413731_6_1_1.jpg?ts=1679562006410",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/3166/413/731/2/w/380/3166413731_6_1_1.jpg?ts=1679562006410",
+  "name": "KNIT T-SHIRT WITH POCKET",
+  "color": 2,
+  "price": 2990
+  },
+  {
+  "id": 35,
+  "category": "mens",
+  "type": "T-shirt",
+  "name href": "https://www.zara.com/in/en/relaxed-fit-long-sleeve-t-shirt-p00679441.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/0679/441/500/2/w/380/0679441500_2_1_1.jpg?ts=1679990294789",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/0679/441/500/2/w/380/0679441500_2_1_1.jpg?ts=1679990294789",
+  "name": "RELAXED FIT LONG SLEEVE T-SHIRT",
+  "color": null,
+  "price": 2590
+  },
+  {
+  "id": 36,
+  "category": "mens",
+  "type": "T-shirt",
+  "name href": "https://www.zara.com/in/en/t-shirt-with-pocket-p00722349.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/0722/349/052/2/w/380/0722349052_2_1_1.jpg?ts=1679481339979",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/0722/349/052/2/w/380/0722349052_2_1_1.jpg?ts=1679481339979",
+  "name": "T-SHIRT WITH POCKET",
+  "color": null,
+  "price": 2590
+  },
+  {
+  "id": 37,
+  "category": "mens",
+  "type": "T-shirt",
+  "name href": "https://www.zara.com/in/en/cropped-t-shirt-with-pocket-p00977402.html",
+  "image": "https://static.zara.net/photos///2023/V/0/1/p/2553/406/800/2/w/750/2553406800_1_1_1.jpg?ts=1677838964704",
+  "image2": "https://static.zara.net/photos///2023/V/0/1/p/2553/406/800/2/w/750/2553406800_2_2_1.jpg?ts=1677838968237",
+  "name": "CROPPED T-SHIRT WITH POCKET",
+  "color": null,
+  "price": 2290
+  },
+  {
+  "id": 38,
+  "category": "mens",
+  "type": "T-shirt",
+  "name href": "https://www.zara.com/in/en/basic-slim-fit-t-shirt-p05584461.html",
+  "image": "https://static.zara.net/photos///2023/V/0/1/p/2553/406/800/2/w/750/2553406800_2_3_1.jpg?ts=1677838967368",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/2553/406/800/2/w/750/2553406800_6_1_1.jpg?ts=1669721512667",
+  "name": "BASIC SLIM FIT T-SHIRT",
+  "color": 5,
+  "price": 990
+  },
+  {
+  "id": 39,
+  "category": "mens",
+  "type": "T-shirt",
+  "name href": "https://www.zara.com/in/en/basic-slim-fit-t-shirt-p05584461.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/2553/424/250/2/w/750/2553424250_1_1_1.jpg?ts=1675340809586",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/2553/424/250/2/w/750/2553424250_2_2_1.jpg?ts=1675340810009",
+  "name": "BASIC SLIM FIT T-SHIRT",
+  "color": 5,
+  "price": 990
+  },
+  {
+  "id": 40,
+  "category": "mens",
+  "type": "T-shirt",
+  "name href": "https://www.zara.com/in/en/basic-slim-fit-t-shirt-p05584461.html",
+  "image": "https://static.zara.net/stdstatic/3.15.1-b.2/images/transparent-background.png",
+  "image2": "https://static.zara.net/stdstatic/3.15.1-b.2/images/transparent-background.png",
+  "name": "BASIC SLIM FIT T-SHIRT",
+  "color": 5,
+  "price": 990
+  },
+  {
+  "id": 41,
+  "category": "mens",
+  "type": "T-shirt",
+  "name href": "https://www.zara.com/in/en/basic-slim-fit-t-shirt-p05584461.html",
+  "image": "https://static.zara.net/stdstatic/3.15.1-b.2/images/transparent-background.png",
+  "image2": "https://static.zara.net/stdstatic/3.15.1-b.2/images/transparent-background.png",
+  "name": "BASIC SLIM FIT T-SHIRT",
+  "color": 5,
+  "price": 990
+  },
+
+  {
+  "id": 47,
+  "type": "shirt",
+  "category": "mens",
+  "name href": "https://www.zara.com/in/en/modal-blend-shirt-p07545476.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/7545/476/800/2/w/380/7545476800_2_1_1.jpg?ts=1679648051358",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/7545/476/800/2/w/380/7545476800_2_1_1.jpg?ts=1679648051358",
+  "name": "MODAL BLEND SHIRT",
+  "color": 2,
+  "price": 3290
+  },
+  {
+  "id": 48,
+  "type": "shirt",
+  "category": "mens",
+  "name href": "https://www.zara.com/in/en/modal-blend-shirt-p07545476.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/7545/476/800/2/w/380/7545476800_6_1_1.jpg?ts=1678954774304",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/7545/476/800/2/w/380/7545476800_6_1_1.jpg?ts=1678954774304",
+  "name": "MODAL BLEND SHIRT",
+  "color": 2,
+  "price": 3290
+  },
+  {
+  "id": 49,
+  "type": "shirt",
+  "category": "mens",
+  "name href": "https://www.zara.com/in/en/modal-blend-shirt-p07545476.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/7545/476/251/2/w/380/7545476251_6_1_1.jpg?ts=1678894730689",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/7545/476/251/2/w/380/7545476251_6_1_1.jpg?ts=1678894730689",
+  "name": "MODAL BLEND SHIRT",
+  "color": 2,
+  "price": 3290
+  },
+  {
+  "id": 50,
+  "type": "shirt",
+  "category": "mens",
+  "name href": "https://www.zara.com/in/en/modal-blend-shirt-p07545476.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/7545/476/400/2/w/380/7545476400_6_1_1.jpg?ts=1678894783026",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/7545/476/400/2/w/380/7545476400_6_1_1.jpg?ts=1678894783026",
+  "name": "MODAL BLEND SHIRT",
+  "color": 2,
+  "price": 3290
+  },
+  {
+  "id": 51,
+  "type": "shirt",
+  "category": "mens",
+  "name href": "https://www.zara.com/in/en/viscose---linen-shirt-p04432410.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/4432/410/250/2/w/380/4432410250_2_1_1.jpg?ts=1675857804686",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/4432/410/250/2/w/380/4432410250_2_1_1.jpg?ts=1675857804686",
+  "name": "VISCOSE - LINEN SHIRT",
+  "color": 1,
+  "price": 2990
+  },
+  {
+  "id": 52,
+  "type": "shirt",
+  "category": "mens",
+  "name href": "https://www.zara.com/in/en/viscose---linen-shirt-p04432410.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/4432/410/052/2/w/380/4432410052_2_1_1.jpg?ts=1675872473523",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/4432/410/052/2/w/380/4432410052_2_1_1.jpg?ts=1675872473523",
+  "name": "VISCOSE - LINEN SHIRT",
+  "color": 1,
+  "price": 2990
+  },
+  {
+  "id": 53,
+  "type": "shirt",
+  "category": "mens",
+  "name href": "https://www.zara.com/in/en/striped-poplin-shirt-p04573883.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/4573/883/450/2/w/380/4573883450_2_1_1.jpg?ts=1678699884059",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/4573/883/450/2/w/380/4573883450_2_1_1.jpg?ts=1678699884059",
+  "name": "STRIPED POPLIN SHIRT",
+  "color": null,
+  "price": 3290
+  },
+  {
+  "id": 54,
+  "type": "shirt",
+  "category": "mens",
+  "name href": "https://www.zara.com/in/en/creased-effect-shirt-p06103480.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/6103/480/400/2/w/380/6103480400_2_1_1.jpg?ts=1679654173375",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/6103/480/400/2/w/380/6103480400_2_1_1.jpg?ts=1679654173375",
+  "name": "CREASED-EFFECT SHIRT",
+  "color": 3,
+  "price": 2990
+  },
+  {
+  "id": 60,
+  "type": "shirt",
+  "category": "mens",
+  "name href": "https://www.zara.com/in/en/creased-effect-shirt-p06103400.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/4087/408/712/2/w/750/4087408712_2_3_1.jpg?ts=1675339525534",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/4087/408/712/2/w/750/4087408712_2_4_1.jpg?ts=1675339530786",
+  "name": "CREASED-EFFECT SHIRT",
+  "color": 4,
+  "price": 2890
+  },
+  {
+  "id": 61,
+  "type": "shirt",
+  "category": "mens",
+  "name href": "https://www.zara.com/in/en/creased-effect-shirt-p06103400.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/4087/408/712/2/w/750/4087408712_1_1_1.jpg?ts=1675339526524",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/4087/408/712/2/w/750/4087408712_2_1_1.jpg?ts=1675339524579",
+  "name": "CREASED-EFFECT SHIRT",
+  "color": 4,
+  "price": 2890
+  },
+  {
+  "id": 62,
+  "type": "shirt",
+  "category": "mens",
+  "name href": "https://www.zara.com/in/en/creased-effect-shirt-p06103400.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/6987/438/405/2/w/750/6987438405_2_3_1.jpg?ts=1676017378072",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/6987/438/405/2/w/750/6987438405_2_4_1.jpg?ts=1676017406080",
+  "name": "CREASED-EFFECT SHIRT",
+  "color": 4,
+  "price": 2890
+  },
+  {
+  "id": 63,
+  "type": "shirt",
+  "category": "mens",
+  "name href": "https://www.zara.com/in/en/creased-effect-shirt-p06103400.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/6987/438/405/2/w/750/6987438405_1_1_1.jpg?ts=1676017375694",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/6987/438/405/2/w/750/6987438405_2_1_1.jpg?ts=1676017372270",
+  "name": "CREASED-EFFECT SHIRT",
+  "color": 4,
+  "price": 2890
+  },
+  {
+  "id": 64,
+  "type": "shirt",
+  "category": "mens",
+  "name href": "https://www.zara.com/in/en/creased-effect-shirt-p06103400.html",
+  "image": "https://static.zara.net/photos///2023/V/0/2/p/2553/424/250/2/w/750/2553424250_2_3_1.jpg?ts=1675340809639",
+  "image2": "https://static.zara.net/photos///2023/V/0/2/p/2553/424/250/2/w/750/2553424250_2_4_1.jpg?ts=1675340837143",
+  "name": "CREASED-EFFECT SHIRT",
+  "color": 4,
+  "price": 2890
+  }
+  ],
+  "avis":[
+    {
+      "id": 1,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw9b1d20fa/hi-res/SEF0270NAV_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Proper Blazer - Navy",
+      "price": 349
+    },
+    {
+      "id": 2,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw882eaaec/SEF0299COB_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Linen Cotton Check Jacket - Cobalt Blue",
+      "price": 349
+    },
+    {
+      "id": 3,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwd3d5d7db/hi-res/SEF0299TPE_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Linen Cotton Jacket - Taupe",
+      "price": 349
+    },
+    {
+      "id": 4,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwf399d2a7/SEF0299SGE_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Linen Cotton Jacket - Sage Green",
+      "price": 349
+    },
+    {
+      "id": 5,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw426eb4b2/hi-res/SEF0294IDG_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Proper Blazer - Indigo Blue",
+      "price": 349
+    },
+    {
+      "id": 6,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwada012b8/SEU0220FRG_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Linen Jacket - Forest Green",
+      "price": 449
+    },
+    {
+      "id": 7,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw23863d7f/SEF0299WNE_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Linen Cotton Jacket - Wine Red",
+      "price": 349
+    },
+    {
+      "id": 8,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw70506f3c/hi-res/SEF0273DEN_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Herringbone Wool Texture Jacket - Denim Blue",
+      "price": 399
+    },
+    {
+      "id": 9,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw87995f50/hi-res/OUR0027LST_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Cotton Classic Raincoat - Limestone",
+      "price": 349
+    },
+    {
+      "id": 10,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw01dea2e3/hi-res/SEF0273DGY_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Herringbone Wool Texture Jacket - Dark Grey",
+      "price": 399
+    },
+    {
+      "id": 11,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw63f9bdad/hi-res/CSR2048NAV_MODEL_UNTUCKED.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Cotton Linen Overshirt - Navy",
+      "price": 129
+    },
+    {
+      "id": 12,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw7b83a7f6/hi-res/KNJ0363NAV_COLLAR_DETAIL.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Merino Zip Through Vest - Navy",
+      "price": 99
+    },
+    {
+      "id": 13,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwcd1b609a/hi-res/SEF0270BLK_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Proper Blazer - Black",
+      "price": 349
+    },
+    {
+      "id": 14,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwda694df3/hi-res/KNC0046NAV_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Merino Blazer - Navy",
+      "price": 199
+    },
+    {
+      "id": 15,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwcdecf84f/hi-res/OUR0027DNY_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Cotton Classic Raincoat - Dark Navy",
+      "price": 349
+    },
+    {
+      "id": 16,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw80a784b8/hi-res/OUR0029STL_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Cotton Classic Raincoat - Steel Blue",
+      "price": 349
+    },
+    {
+      "id": 17,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwbb7e154c/hi-res/SEU0220NAV_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Linen Jacket - Dark Navy",
+      "price": 449
+    },
+    {
+      "id": 18,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw9728263c/hi-res/SEU0208LST_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Cotton Stretch Jacket - Limestone",
+      "price": 299
+    },
+    {
+      "id": 19,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwb8423b38/hi-res/OUC0067NAV_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Fall Collar Harrington Jacket - Navy",
+      "price": 349
+    },
+    {
+      "id": 20,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwc45f6e4e/hi-res/OUC0077NAV_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Showerproof Field Jacket - Dark Navy",
+      "price": 399
+    },
+    {
+      "id": 21,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwfe241823/hi-res/SEU0220TAN_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Linen Jacket - Stone",
+      "price": 449
+    },
+    {
+      "id": 22,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw3eee47b5/hi-res/JEX0028NAV_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Navy Performance Funnel Neck Jacket",
+      "price": 129
+    },
+    {
+      "id": 23,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwab6fd39d/hi-res/SEU0098NKB_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Cotton Stretch Jacket - Ink Blue",
+      "price": 299
+    },
+    {
+      "id": 24,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw68967ff9/hi-res/SEF0273GRY_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42",
+      "title": "Textured Wool Jacket - Grey",
+      "price": 399
+    },
+    {
+      "id": 25,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwea7f64fb/hi-res/KNC0086NAV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Merino Zip Through Hybrid Bomber Jacket - Navy",
+      "price": 219
+    },
+    {
+      "id": 26,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwc8eb1340/hi-res/SEF0275MCA_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Italian Moleskin Jacket - Mocha",
+      "price": 449
+    },
+    {
+      "id": 27,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw8c3e4834/hi-res/OUC0077OLV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Showerproof Field Jacket - Olive Green",
+      "price": 399
+    },
+    {
+      "id": 28,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw2edad15b/hi-res/OUC0075GRY_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Quilted Vest - Grey Melange",
+      "price": 199
+    },
+    {
+      "id": 29,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw952b3963/hi-res/OUC0079GRY_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "2-In-1 Rainmac - Grey",
+      "price": 399
+    },
+    {
+      "id": 30,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwa9d383c2/hi-res/SEU0098OLV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Cotton Stretch Jacket - Olive Green",
+      "price": 299
+    },
+    {
+      "id": 31,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwb5bbf24b/hi-res/SEF0298STL_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Windowpane Check Textured Wool Jacket - Steel Blue",
+      "price": 399
+    },
+    {
+      "id": 32,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw7185beb7/hi-res/SEF0275DNY_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Italian Moleskin Jacket - Dark Navy",
+      "price": 449
+    },
+    {
+      "id": 33,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwcaf72333/hi-res/OUF0074GRY_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Herringbone Wool Overcoat - Grey",
+      "price": 499
+    },
+    {
+      "id": 34,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw19808d66/hi-res/OUF0069NAV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Funnel Neck Wool Overcoat - Ink Blue",
+      "price": 399
+    },
+    {
+      "id": 35,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwbcef6c23/hi-res/KNC0085NAV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Merino Funnel Neck Vest - Navy",
+      "price": 199
+    },
+    {
+      "id": 36,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw7de3ebf4/hi-res/OUF0068GRY_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Wool Overcoat - Light Grey",
+      "price": 499
+    },
+    {
+      "id": 37,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwa7d4f145/hi-res/SEU0209OAT_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Italian Jersey Puppytooth Jacket - Oatmeal",
+      "price": 449
+    },
+    {
+      "id": 38,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw6e30e74a/hi-res/OUF0072DGY_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Wool Overcoat - Dark Grey",
+      "price": 499
+    },
+    {
+      "id": 39,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw407f004d/hi-res/KNC0087NAV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Merino Funnel Neck Jacket - Navy",
+      "price": 199
+    },
+    {
+      "id": 40,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwd511eceb/hi-res/SEF0275FRG_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Italian Moleskin Jacket - Forest Green",
+      "price": 449
+    },
+    {
+      "id": 41,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwd4a5aa71/hi-res/SEF0320DEN_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Textured Wool Jacket - Denim Blue",
+      "price": 399
+    },
+    {
+      "id": 42,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwcf4b54a8/hi-res/OUF0073NAV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Double Breasted Wool Overcoat - Navy",
+      "price": 499
+    },
+    {
+      "id": 43,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwa30504e4/hi-res/SEF0296TPE_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Herringbone Wool Texture Jacket - Taupe",
+      "price": 399
+    },
+    {
+      "id": 44,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw11d590c6/hi-res/OUF0072CAM_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Wool Overcoat - Camel",
+      "price": 499
+    },
+    {
+      "id": 45,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwfcbc9eb5/hi-res/SEF0309FRG_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Textured Wool Jacket - Forest Green",
+      "price": 399
+    },
+    {
+      "id": 46,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw1fcc6e7d/hi-res/OUC0078NAV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Wool Peacoat - Navy",
+      "price": 499
+    },
+    {
+      "id": 47,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwf233f154/hi-res/KNC0088NAV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Alcantara Funnel Neck Knitted Jacket - Navy",
+      "price": 219
+    },
+    {
+      "id": 48,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwdc2fef29/hi-res/OUF0068BLK_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Wool Overcoat - Black",
+      "price": 499
+    },
+    {
+      "id": 49,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw30b490e9/hi-res/CSR2032NAV_MODEL_TUCKED.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Overshirt - Navy",
+      "price": 129
+    },
+    {
+      "id": 50,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw51157bef/hi-res/OUF0068NAV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Wool Overcoat - Navy",
+      "price": 499
+    },
+    {
+      "id": 51,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw3165954e/hi-res/SEF0309MCA_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Textured Wool Jacket - Mocha",
+      "price": 399
+    },
+    {
+      "id": 52,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwfcbf74dc/hi-res/SEF0296RST_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Herringbone Wool Texture Jacket - Rust",
+      "price": 399
+    },
+    {
+      "id": 53,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwe203328c/hi-res/SEF0298PET_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Windowpane Wool Texture Jacket - Petrol Blue",
+      "price": 399
+    },
+    {
+      "id": 54,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwbc63ddc7/hi-res/SEF0280DNY_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Twill Jacket - Dark Navy",
+      "price": 399
+    },
+    {
+      "id": 55,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw5379adf2/hi-res/OUR0030OLV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Showerproof Cotton Raincoat - Olive Green",
+      "price": 349
+    },
+    {
+      "id": 56,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw20abe543/hi-res/SEF0298TPE_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Windowpane Check Textured Wool Jacket - Taupe",
+      "price": 399
+    },
+    {
+      "id": 57,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw955bbd42/hi-res/SEF0309OLV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Textured Wool Jacket - Olive Green",
+      "price": 399
+    },
+    {
+      "id": 58,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwf834a1ef/hi-res/SEU0209DEN_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Italian Jersey Jacket - Denim Blue",
+      "price": 449
+    },
+    {
+      "id": 59,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw0768ddc0/hi-res/SEF0273DCL_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Textured Wool Jacket - Dark Chocolate",
+      "price": 399
+    },
+    {
+      "id": 60,
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw98f4f373/hi-res/OUC0075NAV_MODEL_FRONT.jpg?cx=750&cy=950&cw=10&ch=10?sw=10&sm=fit",
+      "title": "Quilted Vest - Navy",
+      "price": 199
+    }
+  ]
+ 
 }
